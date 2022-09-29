@@ -1,0 +1,368 @@
+title: '3-Col Content Row'
+fields:
+  -
+    handle: col_1
+    field:
+      always_show_set_button: false
+      previews: true
+      buttons:
+        - h2
+        - h3
+        - bold
+        - italic
+        - unorderedlist
+        - orderedlist
+        - removeformat
+        - quote
+        - anchor
+        - image
+        - table
+        - h1
+        - h4
+        - h5
+        - h6
+        - underline
+        - strikethrough
+        - horizontalrule
+      container: assets
+      save_html: false
+      toolbar_mode: fixed
+      link_noopener: false
+      link_noreferrer: false
+      target_blank: false
+      reading_time: false
+      fullscreen: true
+      allow_source: true
+      enable_input_rules: true
+      enable_paste_rules: true
+      antlers: true
+      display: 'Col 1'
+      type: bard
+      icon: bard
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: col_2
+    field:
+      always_show_set_button: false
+      previews: true
+      buttons:
+        - h2
+        - h3
+        - bold
+        - italic
+        - unorderedlist
+        - orderedlist
+        - removeformat
+        - quote
+        - anchor
+        - image
+        - table
+        - h1
+        - h4
+        - h5
+        - h6
+        - underline
+        - strikethrough
+        - horizontalrule
+      container: assets
+      save_html: false
+      toolbar_mode: fixed
+      link_noopener: false
+      link_noreferrer: false
+      target_blank: false
+      reading_time: false
+      fullscreen: true
+      allow_source: true
+      enable_input_rules: true
+      enable_paste_rules: true
+      antlers: true
+      display: 'Col 2'
+      type: bard
+      icon: bard
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: col_3
+    field:
+      always_show_set_button: false
+      previews: true
+      buttons:
+        - h2
+        - h3
+        - bold
+        - italic
+        - unorderedlist
+        - orderedlist
+        - removeformat
+        - quote
+        - anchor
+        - image
+        - table
+        - h1
+        - h4
+        - h5
+        - h6
+        - underline
+        - strikethrough
+        - horizontalrule
+      container: assets
+      save_html: false
+      toolbar_mode: fixed
+      link_noopener: false
+      link_noreferrer: false
+      target_blank: false
+      reading_time: false
+      fullscreen: true
+      allow_source: true
+      enable_input_rules: true
+      enable_paste_rules: true
+      antlers: true
+      display: 'Col 3'
+      type: bard
+      icon: bard
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: background_color
+    field:
+      swatches:
+        - '#007298'
+        - '#579F44'
+        - '#63656A'
+        - '#B4E2E8'
+        - '#8DC63F'
+      theme: classic
+      lock_opacity: false
+      default_color_mode: HEXA
+      color_modes:
+        - hex
+      display: 'Background Color'
+      type: color
+      icon: color
+      width: 33
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: background_image
+    field:
+      mode: list
+      container: assets
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      max_files: 1
+      display: 'Background Image'
+      type: assets
+      icon: assets
+      width: 33
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      validate:
+        - image
+  -
+    handle: background_blend_mode
+    field:
+      options:
+        normal: null
+        multiply: null
+        screen: null
+        overlay: null
+        darken: null
+        lighten: null
+        color-dodge: null
+        saturation: null
+        color: null
+        luminosity: null
+      multiple: false
+      clearable: false
+      searchable: true
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      display: 'Background Blend Mode'
+      type: select
+      icon: select
+      width: 33
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: invert_text_colors
+    field:
+      default: false
+      display: 'Invert Text Colors'
+      type: toggle
+      icon: toggle
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: text_alignment
+    field:
+      options:
+        left: null
+        center: null
+        right: null
+      inline: true
+      cast_booleans: false
+      default: left
+      display: 'Text Alignment'
+      type: radio
+      icon: radio
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: background_size
+    field:
+      options:
+        cover: Cover
+      inline: false
+      cast_booleans: false
+      default: cover
+      display: 'Background Size'
+      type: radio
+      icon: radio
+      width: 33
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: background_position
+    field:
+      options:
+        'center center': 'Center Center'
+        'top center': 'Top Center'
+        'bottom center': 'Bottom Center'
+      inline: false
+      cast_booleans: false
+      default: 'center center'
+      display: 'Background Position'
+      type: radio
+      icon: radio
+      width: 33
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: background_padding
+    field:
+      options:
+        py-8: Small
+        py-24: Medium
+        py-36: Large
+      inline: false
+      cast_booleans: false
+      default: py-8
+      display: 'Background Padding'
+      type: radio
+      icon: radio
+      width: 33
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: background_color
+    field:
+      swatches:
+        - '#007298'
+        - '#579F44'
+        - '#63656A'
+        - '#B4E2E8'
+        - '#8DC63F'
+      theme: classic
+      lock_opacity: false
+      default_color_mode: HEXA
+      color_modes:
+        - hex
+      display: 'Background Color'
+      type: color
+      icon: color
+      width: 33
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: background_image
+    field:
+      mode: list
+      container: assets
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      max_files: 1
+      display: 'Background Image'
+      type: assets
+      icon: assets
+      width: 33
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      validate:
+        - image
+  -
+    handle: background_blend_mode
+    field:
+      options:
+        normal: null
+        multiply: null
+        screen: null
+        overlay: null
+        darken: null
+        lighten: null
+        color-dodge: null
+        saturation: null
+        color: null
+        luminosity: null
+      multiple: false
+      clearable: false
+      searchable: true
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      display: 'Background Blend Mode'
+      type: select
+      icon: select
+      width: 33
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: invert_text_colors
+    field:
+      default: false
+      display: 'Invert Text Colors'
+      type: toggle
+      icon: toggle
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: text_alignment
+    field:
+      options:
+        left: null
+        center: null
+        right: null
+      inline: true
+      cast_booleans: false
+      default: left
+      display: 'Text Alignment'
+      type: radio
+      icon: radio
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible

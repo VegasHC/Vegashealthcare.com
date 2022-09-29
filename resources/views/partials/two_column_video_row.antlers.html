@@ -1,0 +1,29 @@
+<div class="w-full px-8 {{ background_padding ?? 'py-8' }}" 
+    style="
+        background-color: {{ background_color ?? 'transparent' }};
+        {{ if background_image }}
+           background-image: url('{{ background_image }}'), linear-gradient({{background_color ?? 'transparent'}}, {{background_color ?? 'transparent'}});
+        {{ /if }}
+        background-size: {{ background_size ?? 'cover' }};
+        background-position: {{ background_position ?? 'center center' }};
+        text-align: {{ text_alignment ?? 'left' }};
+        background-blend-mode: {{ background_blend_mode ?? 'normal' }};
+    "
+    >
+    
+    <div class="max-w-7xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8">
+            <div class="col-span-1">
+                {{ if video | is_embeddable }}
+                    <!-- Youtube and Vimeo -->
+                    <iframe class="w-full" style="aspect-ratio: 16 / 9;" src="{{ video | embed_url }}"></iframe>
+                {{ else }}
+                    <!-- Other HTML5 video types -->
+                    <video class="w-full" style="aspect-ratio: 16 / 9;" src="{{ video | embed_url }}"></video>
+                {{ /if }}
+
+            </div>
+            <div class="col-span-1 prose prose-xl {{ if invert_text_colors }}prose-invert {{ /if }}">{{ content }}</div>
+        </div>
+    </div>
+</div>

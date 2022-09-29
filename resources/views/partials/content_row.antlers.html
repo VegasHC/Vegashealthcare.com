@@ -1,0 +1,17 @@
+<div class="w-full px-8 {{ background_padding ?? 'py-8' }}" 
+    style="
+        background-color: {{ background_color ?? 'transparent' }};
+        {{ if background_image }}
+           background-image: url('{{ background_image }}'), linear-gradient({{background_color ?? 'transparent'}}, {{background_color ?? 'transparent'}});
+        {{ /if }}
+        background-size: {{ background_size ?? 'cover' }};
+        background-position: {{ background_position ?? 'center center' }};
+        text-align: {{ text_alignment ?? 'left' }};
+        background-blend-mode: {{ background_blend_mode ?? 'normal' }};
+    "
+    >
+    
+    <div class="prose prose-xl {{ if invert_text_colors }}prose-invert {{ /if }}max-w-7xl mx-auto">
+        {{ content }}
+    </div>
+</div>

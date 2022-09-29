@@ -1,0 +1,15 @@
+{{ rows }}
+    {{ if type == "one_column_content" }}
+        {{ partial src="partials.content_row" }}
+    {{ elseif type == "two_column_content" }}
+        {{ partial src="partials.two_column_row" }}
+    {{ elseif type == "three_column_content" }}
+        {{ partial src="partials.three_column_row" }}
+    {{ elseif type == "code" }}
+        {{ code }}
+    {{ elseif type == "two_column_video_content" }}
+        {{ partial src="partials.two_column_video_row" }}
+    {{ else }}
+    {{ /if }}
+{{ /rows }}
+
