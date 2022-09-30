@@ -2,6 +2,12 @@
 
 return [
 
+    'algolia' => [
+        'app_id' => env('ALGOLIA_APP_ID'),
+        'secret' => env('ALGOLIA_SECRET'),
+        'search_key' => env('ALGOLIA_SEARCH_APIKEY'),
+    ],
+
     /*
     |--------------------------------------------------------------------------
     | Third Party Services
@@ -14,16 +20,11 @@ return [
     |
     */
 
-    'algolia' => [
-        'app_id' => env('ALGOLIA_APP_ID'),
-        'secret' => env('ALGOLIA_SECRET'),
-        'search_key' => env('ALGOLIA_SEARCH_APIKEY'),
-    ],
-
     'mailgun' => [
         'domain' => env('MAILGUN_DOMAIN'),
         'secret' => env('MAILGUN_SECRET'),
         'endpoint' => env('MAILGUN_ENDPOINT', 'api.mailgun.net'),
+        'scheme' => 'https',
     ],
 
     'postmark' => [
