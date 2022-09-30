@@ -2,10 +2,7 @@
 
 namespace App\Listeners;
 
-use Illuminate\Contracts\Queue\ShouldQueue;
-use Illuminate\Queue\InteractsWithQueue;
 use Statamic\Events\EntrySaving;
-use Statamic\Facades\Entry;
 
 class AddProviderTitle
 {
@@ -30,16 +27,14 @@ class AddProviderTitle
         return;
         $entry = $event->entry;
 
-        if($entry->collectionHandle() != "providers"){
+        if ($entry->collectionHandle() != 'providers') {
             return;
         }
 
-        if(!empty($entry->get('org_name'))){
+        if (! empty($entry->get('org_name'))) {
             $entry->set('title', $entry->get('org_name'));
-        }else{
-            $entry->set('title', $entry->get('first_name') . " " . $entry->get('last_name'));
+        } else {
+            $entry->set('title', $entry->get('first_name').' '.$entry->get('last_name'));
         }
-
-
     }
 }

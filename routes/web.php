@@ -1,7 +1,7 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SearchController;
+use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,8 +18,6 @@ use App\Http\Controllers\SearchController;
 //    'title' => 'Search Results'
 // ]);
 
-
 Route::any('search/results', [SearchController::class, 'results']);
 Route::any('search/getgeoloc', [SearchController::class, 'getGeoloc']);
 Route::any('search/getcontent', [SearchController::class, 'getContent']);
-

@@ -48,14 +48,14 @@ return [
             'type' => 'collection',
             'collection' => 'articles', // name of your collection
             'width' => 50,
-            'limit' => 10
+            'limit' => 10,
         ],
         [
-        'type' => 'collection',
-        'collection' => 'providers', // name of your collection
-        'width' => 50,
-        'limit' => 10
-        ]
+            'type' => 'collection',
+            'collection' => 'providers', // name of your collection
+            'width' => 50,
+            'limit' => 10,
+        ],
     ],
 
     /*
