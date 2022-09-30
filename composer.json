@@ -1,13 +1,17 @@
 {
     "name": "statamic/statamic",
     "description": "Statamic",
-    "keywords": ["statamic", "cms", "flat file", "laravel"],
+    "keywords": [
+        "statamic",
+        "cms",
+        "flat file",
+        "laravel"
+    ],
     "type": "project",
     "require": {
         "php": "^8.0",
         "algolia/algoliasearch-client-php": "^2.7",
         "fideloper/proxy": "^4.2",
-        "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.0",
         "laravel/tinker": "^2.0",
