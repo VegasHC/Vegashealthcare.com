@@ -18,7 +18,9 @@ module.exports = {
                 heading: "var(--color-heading)",
                 "bg-dark": "var(--color-background-dark)",
                 "bg-light": "var(--color-background-light)"
-
+            },
+            opacity: {
+                '01': '.001',
             }
         },
 
@@ -30,5 +32,3 @@ module.exports = {
         require('@tailwindcss/typography'),
     ],
   }
-
-
