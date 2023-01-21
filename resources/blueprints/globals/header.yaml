@@ -3,6 +3,8 @@ sections:
     display: Main
     fields:
       -
+        import: linked_image
+      -
         handle: main_text
         field:
           input_type: text
@@ -12,6 +14,7 @@ sections:
           icon: text
           listable: hidden
           instructions_position: above
+          width: 50
       -
         handle: secondary_text
         field:
@@ -22,3 +25,4 @@ sections:
           icon: text
           listable: hidden
           instructions_position: above
+          width: 50

@@ -6,13 +6,20 @@
     </div>
 
     <div class="py-4 ">
-        <div class="flex flex-shrink-0 mr-2 ">
+        <div class="flex items-center justify-between flex-shrink-0 mr-2">
             {{ asset url="/assets/logos/logo-text.png" }}
                 <a href="/">
                     <img class="block w-auto h-20 lg:hidden" src="{{ url }}" alt="{{ alt }}">
                     <img class="hidden w-auto mb-20 lg:block h-44" src="{{ url }}" alt="{{ alt }}">
                 </a>
             {{ /asset }}
+            {{ if header:image }}
+                <div class="mb-20 mr-10">
+                    <a href="{{ header:link }}">
+                        <img src="{{ glide:header:image width="400" fit="contain" }}">
+                    </a>
+                </div>
+            {{ /if }}
         </div>
     </div>
 </div>
