@@ -1,3 +1,4 @@
+@import './utilities.css';
 
 .theme-default {
     --color-primary: #00458B;
@@ -17,11 +18,7 @@
     #masthead{
         background-image: url("/assets/background/masthead.jpeg");
     }
-
-
 }
-
-
 
 .service-category{
     @apply justify-center items-center m-4 border-2 border-brand bg-white px-1 py-2 shadow-sm  space-x-3 hover:border-gray-400 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-brand text-center hover:border-red-400;

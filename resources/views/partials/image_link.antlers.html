@@ -1,0 +1,16 @@
+<{{ link ? 'a href="{{ link }}"' : 'div' }}
+    class="block image-{{ image_size }} {{ class }}"
+>
+    {{ partial:img/advanced
+        :url="url"
+
+        w_xs="480" h_xs="270"
+        w_md="768" h_md="432"
+        w_lg="1024" h_lg="576"
+        w_xl="1024" h_xl="576"
+    
+        lazy="true"
+        fit="contain"
+        class="w-full h-full p-4"
+    }}
+</{{ link ? 'a' : 'div' }}>

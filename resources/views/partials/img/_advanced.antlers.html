@@ -1,0 +1,104 @@
+{{# partial:img/advanced
+    w_xs="value" h_xs="value"
+    w_sm="value" h_sm="value"
+    w_md="value" h_md="value"
+    w_lg="value" h_lg="value"
+    w_xl="value" h_xl="value"
+  
+    lazy=""
+    fit=""
+    class=""
+#}}
+  
+  <picture>
+    {{ if w_xs && h_xs }}
+        <!-- SMALL -->
+        <source
+            media="(max-width: 480px)"
+            srcset="{{ glide:url width='{{ w_xs }}' height='{{ h_xs }}' fit='{{ fit ?? 'crop_focal' }}' format='webp' }} 1x,
+                    {{ glide:url width='{{ w_xs | multiply:2 }}' height='{{ h_xs | multiply:2 }}' fit='{{ fit ?? 'crop_focal' }}' format='webp' }} 2x"
+            type="image/webp"
+        >
+        <source
+            media="(max-width: 480px)"
+            srcset="{{ glide:url width='{{ w_xs }}' height='{{ h_xs }}' fit='{{ fit ?? 'crop_focal' }}' format='{ extension }' }} 1x,
+                    {{ glide:url width='{{ w_xs | multiply:2 }}' height='{{ h_xs | multiply:2 }}' fit='{{ fit ?? 'crop_focal' }}' format='{ extension }' }} 2x"
+            type="image/{{ extension }}"
+        >
+    {{ /if }}
+  
+    {{ if w_sm && h_sm }}
+        <!-- X-SMALL -->
+        <source
+            media="(max-width: 640px)"
+            srcset="{{ glide:url width='{{ w_sm }}' height='{{ h_sm }}' fit='{{ fit ?? 'crop_focal' }}' format='webp' }} 1x,
+                    {{ glide:url width='{{ w_sm | multiply:2 }}' height='{{ h_sm | multiply:2 }}' fit='{{ fit ?? 'crop_focal' }}' format='webp' }} 2x"
+            type="image/webp"
+        >
+        <source
+            media="(max-width: 640px)"
+            srcset="{{ glide:url width='{{ w_sm }}' height='{{ h_sm }}' fit='{{ fit ?? 'crop_focal' }}' format='{ extension }' }} 1x,
+                    {{ glide:url width='{{ w_sm | multiply:2 }}' height='{{ h_sm | multiply:2 }}' fit='{{ fit ?? 'crop_focal' }}' format='{ extension }' }} 2x"
+            type="image/{{ extension }}"
+        >
+    {{ /if }}
+  
+    {{ if w_md && h_md }}
+        <!-- MEDIUM -->
+        <source
+            media="(max-width: 1024px)"
+            srcset="{{ glide:url width='{{ w_md }}' height='{{ h_md }}' fit='{{ fit ?? 'crop_focal' }}' format='webp' }} 1x,
+                    {{ glide:url width='{{ w_md | multiply:2 }}' height='{{ h_md | multiply:2 }}' fit='{{ fit ?? 'crop_focal' }}' format='webp' }} 2x"
+            type="image/webp"
+        >
+        <source
+            media="(max-width: 1024px)"
+            srcset="{{ glide:url width='{{ w_md }}' height='{{ h_md }}' fit='{{ fit ?? 'crop_focal' }}' format='{ extension }' }} 1x,
+                    {{ glide:url width='{{ w_md | multiply:2 }}' height='{{ h_md | multiply:2 }}' fit='{{ fit ?? 'crop_focal' }}' format='{ extension }' }} 2x"
+            type="image/{{ extension }}"
+        >
+    {{ /if }}
+  
+    {{ if w_lg && h_lg }}
+        <!-- LARGE -->
+        <source
+            media="(max-width: 1280px)"
+            srcset="{{ glide:url width='{{ w_lg }}' height='{{ h_lg }}' fit='{{ fit ?? 'crop_focal' }}' format='webp' }} 1x,
+                    {{ glide:url width='{{ w_lg | multiply:2 }}' height='{{ h_lg | multiply:2 }}' fit='{{ fit ?? 'crop_focal' }}' format='webp' }} 2x"
+            type="image/webp"
+        >
+        <source
+            media="(max-width: 1280px)"
+            srcset="{{ glide:url width='{{ w_lg }}' height='{{ h_lg }}' fit='{{ fit ?? 'crop_focal' }}' format='{ extension }' }} 1x,
+                    {{ glide:url width='{{ w_lg | multiply:2 }}' height='{{ h_lg | multiply:2 }}' fit='{{ fit ?? 'crop_focal' }}' format='{ extension }' }} 2x"
+            type="image/{{ extension }}"
+        >
+    {{ /if }}
+  
+    {{ if w_xl && h_xl }}
+        <!-- X-LARGE -->
+        <source
+            media="(min-width: 1280px)"
+            srcset="{{ glide:url width='{{ w_xl }}' height='{{ h_xl }}' fit='{{ fit ?? 'crop_focal' }}' format='webp' }} 1x,
+                    {{ glide:url width='{{ w_xl | multiply:2 }}' height='{{ h_xl | multiply:2 }}' fit='{{ fit ?? 'crop_focal' }}' format='webp' }} 2x"
+            type="image/webp"
+        >
+        <source
+            media="(min-width: 1280px)"
+            srcset="{{ glide:url width='{{ w_xl }}' height='{{ h_xl }}' fit='{{ fit ?? 'crop_focal' }}' format='{ extension }' }} 1x,
+                    {{ glide:url width='{{ w_xl | multiply:2 }}' height='{{ h_xl | multiply:2 }}' fit='{{ fit ?? 'crop_focal' }}' format='{ extension }' }} 2x"
+            type="image/{{ extension }}"
+        >
+    {{ /if }}
+  
+    <img
+        src="{{ glide:url width='{{ w_xl }}' height='{{ h_xl }}' fit='{{ fit ?? 'crop_focal' }}' format='webp' }}"
+        width="{{ w_xl }}"
+        height="{{ h_xl }}"
+        alt="{{ alt }}"
+        class="{{ class }}"
+        {{ if lazy }}
+            loading="lazy"
+        {{ endif }}
+    >
+</picture>

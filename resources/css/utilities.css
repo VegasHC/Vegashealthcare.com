@@ -1,0 +1,23 @@
+/* image size */
+
+.image-sm {
+    @apply max-w-sm lg:max-w-md;
+}
+.image-md {
+    @apply max-w-xl lg:max-w-2xl;
+}
+.image-lg {
+    @apply max-w-3xl lg:max-w-4xl;
+}
+
+/* flexbox */
+
+.flex-lg {
+    @apply lg:flex lg:justify-between lg:items-start;
+}
+.flex-xl {
+    @apply xl:flex xl:justify-between xl:items-start;
+}
+.flex-2xl {
+    @apply 2xl:flex 2xl:justify-between 2xl:items-start;
+}

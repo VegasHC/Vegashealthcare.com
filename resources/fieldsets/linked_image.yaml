@@ -17,13 +17,30 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+      instructions: '1024 X 576'
+  -
+    handle: image_size
+    field:
+      options:
+        sm: SM
+        md: MD
+        lg: LG
+      default: md
+      display: 'Image size'
+      type: button_group
+      icon: button_group
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      instructions: '&nbsp;'
   -
     handle: link
     field:
       display: Link
       type: link
       icon: link
-      width: 50
       listable: hidden
       instructions_position: above
       visibility: visible

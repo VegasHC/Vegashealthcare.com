@@ -1,0 +1,13 @@
+<img 
+    srcset='{{ glide:url width="{ width }" height="{ height }" fit="{ fit ?? 'contain' }" format="webp" }} 1x,
+            {{ glide:url width="{ width | multiply:2 }" height="{ height | multiply:2 }" fit="{ fit ?? 'contain' }" format="webp" }} 2x,
+            {{ glide:url width="{ width }" height="{ height }" fit="{ fit ?? 'contain' }" format="{ extension }" }} 1x,
+            {{ glide:url width="{ width | multiply:2 }" height="{ height | multiply:2 }" fit="{ fit ?? 'contain' }" :format="extension" }} 2x'
+    width="{{ width }}"
+    height="{{ height }}"
+    alt="{{ alt ?? title }}"
+    class="{{ class }}"
+    {{ if lazy == 'true' }}
+        loading="lazy"
+    {{ endif }}
+>
