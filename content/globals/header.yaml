@@ -1,5 +1,4 @@
 title: Header
 data:
-  image: CC-1400x400-01.png
-  link: 'https://facebook.com'
+  image_size: md
   main_text: 'Bringing the Community Back to Healthcare'
