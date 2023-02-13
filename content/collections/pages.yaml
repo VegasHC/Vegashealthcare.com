@@ -1,6 +1,6 @@
 title: Pages
 template: pages/show
-revisions: false
+revisions: true
 route: '{parent_uri}/{slug}'
 structure:
   root: true

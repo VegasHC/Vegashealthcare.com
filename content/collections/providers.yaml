@@ -2,7 +2,7 @@ title: Providers
 template: providers/show
 taxonomies:
   - services
-revisions: false
+revisions: true
 date_behavior:
   past: public
   future: private
