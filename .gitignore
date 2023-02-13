@@ -4,7 +4,7 @@
 /public/js
 /public/css
 /public/mix-manifest.json
-/public/vendor/statamic
+/public/vendor
 /storage/*.key
 /storage/forms/*
 /vendor
