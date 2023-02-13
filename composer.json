@@ -16,7 +16,7 @@
         "laravel/tinker": "^2.7",
         "league/csv": "^9.6",
         "rias/statamic-data-import": "^1.1",
-        "statamic/cms": "3.3.*"
+        "statamic/cms": "^3.4"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.6",
