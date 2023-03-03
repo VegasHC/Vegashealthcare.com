@@ -1,0 +1,20 @@
+---
+id: 7534bf3a-2c9c-42ba-89e3-76f98a4b988e
+blueprint: providers
+title: 'Boomers Transitions'
+org_name: 'Boomers Transitions'
+first_name: Elton
+last_name: Brown
+phone: 702-550-9345
+website: 'https://www.boomerstransitions.com/'
+email: contact@boomerstransitions.com
+image: providers/logo-1677803543.jpg
+description: 'Your "One Stop Shop" for senior services. Services include: Downsizing, Packing & Unpacking, De-cluttering, Trash Removal, Donation Haul-offs, Home set ups and all moving services. We specialize in senior moving making your move seamless with a smile.'
+sponsored: true
+category: senior-services
+services:
+  - senior-moving-specialist
+promotion_level: '10'
+updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
+updated_at: 1677803763
+---
