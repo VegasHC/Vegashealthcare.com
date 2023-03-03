@@ -10,6 +10,7 @@ phone: 702-978-5000
 category: care-services
 services:
   - assisted-living
+  - specialized-memory-care
 title: 'Legacy House of Centennial Hills'
 _geoloc:
   lat: 36.2648
@@ -23,5 +24,5 @@ description: 'Legacy House of Centennial Hills offer assisted living and memory 
 sponsored: true
 promotion_level: '10'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1677803230
+updated_at: 1677804041
 ---
