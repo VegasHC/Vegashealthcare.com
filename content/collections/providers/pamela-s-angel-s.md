@@ -6,10 +6,14 @@ org_name: "Pamela's Angel's"
 first_name: Pamela
 last_name: Paulson
 phone: 702-622-0191
-website: 'https://pamelaslist.net/'
-email: 'https://pamelaslist.net/'
+website: 'https://pamelasangels.com/'
+email: plynn@pamelaslist.net
 image: providers/screenshot-2023-03-03-111457.png
 description: "Pamela's Angels offers medical consulting for providers which treat Medicare Part B for comprehensive chronic care management."
+gallery:
+  - pamela-paulson-flyer-purple-combo__16039461_1.jpg
+  - "tinywow_pamela's-angels-executive-summary-(5)_16039517_1(1).jpg"
+  - "tinywow_pamela's-angels-executive-summary-(5)_16039517_2.jpg"
 sponsored: true
 category: medical-consulting-for-providers
 services:
@@ -23,5 +27,5 @@ _geoloc:
   lat: 36.217563544141
   lng: -115.24492552884
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1678148524
+updated_at: 1678477921
 ---
