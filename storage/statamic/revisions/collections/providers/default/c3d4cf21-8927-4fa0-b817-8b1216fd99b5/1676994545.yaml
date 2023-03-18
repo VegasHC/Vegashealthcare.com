@@ -1,0 +1,45 @@
+action: revision
+date: 1676994545
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: c3d4cf21-8927-4fa0-b817-8b1216fd99b5
+  slug: sandstone-medical-solutions
+  published: false
+  date: null
+  data:
+    title: 'Sandstone Medical Solutions'
+    org_name: 'Sandstone Medical Solutions'
+    first_name: Krystle
+    middle_name: null
+    last_name: Sirilla
+    suffix_name: null
+    phone: 702-978-8000
+    fax: 702-978-8001
+    website: 'https://sandstonemedical.com/'
+    links: {  }
+    email: ksirilla@sandstonemedical.com
+    image: providers/sms-med.jpg
+    description: 'Sandstone Medical Solutions is a professional services firm that specializes in a variety of back office solutions including accounting, taxes, payroll, medical billing, credentialing and human resources.'
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: billing-services
+    services:
+      - medical-billing
+    promotion_level: '10'
+    address: '2921 N. Tenaya Way'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89128'
+    _geoloc:
+      lat: 36.214349651448
+      lng: -115.25104215754
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
