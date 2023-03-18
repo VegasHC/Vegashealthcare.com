@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9d716941eff9dea25a880718d7e81367",
+    "content-hash": "2051017fde0b78fc9cebbd917516c335",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -2024,6 +2024,73 @@
                 "source": "https://github.com/JamesHeinrich/getID3/tree/v1.9.22"
             },
             "time": "2022-09-29T16:41:13+00:00"
+        },
+        {
+            "name": "jonassiewertsen/statamic-jobs",
+            "version": "v1.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jonassiewertsen/statamic-jobs.git",
+                "reference": "860d54a01d91695e4ae29d63b02af4558d222634"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jonassiewertsen/statamic-jobs/zipball/860d54a01d91695e4ae29d63b02af4558d222634",
+                "reference": "860d54a01d91695e4ae29d63b02af4558d222634",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "^9.0",
+                "php": "^8.0",
+                "statamic/cms": "3.3.* || 3.4.*"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^6.0",
+                "phpunit/phpunit": "^9.3"
+            },
+            "type": "statamic-addon",
+            "extra": {
+                "statamic": {
+                    "name": "Jobs",
+                    "description": ""
+                },
+                "laravel": {
+                    "providers": [
+                        "Jonassiewertsen\\Jobs\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Jonassiewertsen\\Jobs\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jonas Siewertsen"
+                }
+            ],
+            "keywords": [
+                "addon",
+                "laravel",
+                "statamic"
+            ],
+            "support": {
+                "email": "mail@jonassiewertsen.com",
+                "issues": "https://github.com/jonassiewertsen/statamic-jobs/issues",
+                "source": "https://github.com/jonassiewertsen/statamic-jobs/tree/v1.3.0"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/jonassiewertsen",
+                    "type": "github"
+                }
+            ],
+            "time": "2023-03-02T17:45:42+00:00"
         },
         {
             "name": "justinrainbow/json-schema",
