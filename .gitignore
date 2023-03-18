@@ -6,7 +6,6 @@
 /public/mix-manifest.json
 /public/vendor
 /storage/*.key
-/storage/forms/*
 /storage/glide
 /storage/statamic/attributes-cache
 /storage/statamic/glide
