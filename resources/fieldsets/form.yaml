@@ -1,0 +1,37 @@
+title: Form
+fields:
+  -
+    handle: form_heading
+    field:
+      input_type: text
+      antlers: false
+      display: Heading
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: form
+    field:
+      max_items: 1
+      display: Form
+      type: form
+      icon: form
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: template_field
+    field:
+      hide_partials: true
+      blueprint: false
+      folder: forms
+      display: 'Template Field'
+      type: template
+      icon: template
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible

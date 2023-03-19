@@ -1,16 +1,16 @@
-<div class="max-w-xl mx-auto">
+x<div class="max-w-xl mx-auto">
 
 {{ form:contact_us id="contact-form" }}
 
 
     {{ if success }}
-        <div class=" text-green text-xl p-8 text-center">
+        <div class="p-8 text-xl text-center  text-green">
             Thank you! We'll be in touch soon.
         </div>
     {{ else }}
 
     {{ if errors }}
-    <div class="bg-red-300 text-white p-2">
+    <div class="p-2 text-white bg-red-300">
         {{ errors }}
         {{ value }}<br>
         {{ /errors }}
@@ -31,7 +31,7 @@
     </div>
     {{ /fields }}
 
-    <button type="submit" class="block mx-auto bg-brand hover:bg-brand text-white rounded-lg font-bold py-2 px-20 text-lg ">Submit</button>
+    <button type="submit" class="block px-20 py-2 mx-auto text-lg font-bold text-white rounded-lg bg-brand hover:bg-brand ">Submit</button>
     {{ /if }}
 
 {{ /form:contact_us }}
