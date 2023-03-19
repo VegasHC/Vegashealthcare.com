@@ -12,7 +12,7 @@ fields:
       instructions_position: above
       visibility: visible
   -
-    handle: form
+    handle: form_handle
     field:
       max_items: 1
       display: Form
@@ -23,12 +23,12 @@ fields:
       instructions_position: above
       visibility: visible
   -
-    handle: template_field
+    handle: form_template
     field:
       hide_partials: true
       blueprint: false
       folder: forms
-      display: 'Template Field'
+      display: Template
       type: template
       icon: template
       width: 50
