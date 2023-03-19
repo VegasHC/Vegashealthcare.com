@@ -1,10 +1,10 @@
-x<div class="max-w-xl mx-auto">
+<div class="max-w-xl mx-auto">
 
-{{ form:contact_us id="contact-form" }}
+{{ form:create in="contact_us" id="contact-form" }}
 
 
     {{ if success }}
-        <div class="p-8 text-xl text-center  text-green">
+        <div class="p-8 text-xl text-center text-green">
             Thank you! We'll be in touch soon.
         </div>
     {{ else }}
@@ -34,6 +34,6 @@ x<div class="max-w-xl mx-auto">
     <button type="submit" class="block px-20 py-2 mx-auto text-lg font-bold text-white rounded-lg bg-brand hover:bg-brand ">Submit</button>
     {{ /if }}
 
-{{ /form:contact_us }}
+{{ /form:create }}
 
 </div>
