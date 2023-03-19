@@ -6,8 +6,15 @@
 /public/mix-manifest.json
 /public/vendor
 /storage/*.key
-/storage/forms/*
 /storage/glide
+/storage/statamic/attributes-cache
+/storage/statamic/glide
+/storage/statamic/password_resets/
+/storage/statamic/search
+/storage/statamic/stache-locks
+/storage/statamic/tokens
+/storage/statamic/updater
+/storage/statamic/users
 /vendor
 .env
 .env.backup

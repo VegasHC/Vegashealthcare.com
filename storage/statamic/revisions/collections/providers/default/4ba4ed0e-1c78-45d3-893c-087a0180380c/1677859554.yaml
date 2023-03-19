@@ -1,0 +1,45 @@
+action: publish
+date: 1677859554
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 4ba4ed0e-1c78-45d3-893c-087a0180380c
+  slug: pamela-s-angel-s
+  published: true
+  date: null
+  data:
+    title: "Pamela's Angel's"
+    org_name: "Pamela's Angel's"
+    first_name: Pamela
+    middle_name: null
+    last_name: Paulson
+    suffix_name: null
+    phone: 702-622-0191
+    fax: null
+    website: null
+    links: {  }
+    email: 'https://pamelaslist.net/'
+    image: providers/logo-1677859449.jpg
+    description: "Pamela's Angels offers medical consulting for providers which treat Medicare Part B for comprehensive chronic care management."
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: medical-consulting-for-providers
+    services:
+      - comprehensive-chronic-care-mgmt
+    promotion_level: '10'
+    address: '3157 N. Rainbow Blvd #196'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89108'
+    _geoloc:
+      lat: 36.217563544141
+      lng: -115.24492552884
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

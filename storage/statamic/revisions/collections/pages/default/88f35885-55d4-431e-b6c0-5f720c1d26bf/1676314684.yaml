@@ -1,0 +1,497 @@
+action: revision
+date: 1676314684
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 88f35885-55d4-431e-b6c0-5f720c1d26bf
+  slug: infusion-education
+  published: false
+  date: null
+  data:
+    title: 'Infusion Education'
+    rows:
+      -
+        id: le36anhs
+        content:
+          -
+            type: heading
+            attrs:
+              level: 2
+            content:
+              -
+                type: text
+                text: 'What is infusion therapy?'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Infusion therapy — also known as IV therapy — involves administering medications intravenously. This is done by injecting a needle directly into the patient’s arm. It allows for much more efficient treatment of chronic illnesses since it delivers medicine, antibiotics, and/or hydration directly into the bloodstream. As a result, there’s a higher absorption rate and you can obtain relief faster.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'IV therapy is used to treat a long list of chronic conditions, including but not limited to:'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: Hyperemesis
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Rheumatoid arthritis'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Psoriatic arthritis'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: Gout
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: Psoriasis
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: Lupus
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: Dermatomyositis
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Ankylosing spondylitis'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Iron deficiency anemia'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Primary immune deficiency diseases (PIDDs)'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Inflammatory bowel disease'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Magnesium deficiency'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Multiple sclerosis'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Opioid and alcohol dependence'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Post-operative hydration'
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: one_column_content
+        enabled: true
+      -
+        id: le36bpii
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: image
+                attrs:
+                  src: 'asset::assets::istockphoto-1188462407-612x612.jpg'
+                  alt: null
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: one_column_content
+        enabled: true
+      -
+        id: le36drwl
+        content:
+          -
+            type: heading
+            attrs:
+              level: 2
+            content:
+              -
+                type: text
+                text: "What can you expect?\_"
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'IV infusion therapy typically takes place in a clinical setting, such as a doctor’s office, hospital, outpatient facility, or infusion center. Some types of infusion therapy can be given by healthcare providers in the home.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Each IV session means new needle sticks. So, if you’re expected to need multiple IV therapy sessions, your doctor may recommend alternatives to a standard IV line. Central lines can be inserted into your chest, arm, neck, or groin and remain for an extended time.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Another alternative is to have a port surgically implanted under your skin. In future treatments, the needle can be inserted into the port to access the vein without sticking you. The port will be surgically removed after you’ve completed all your treatments.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Whatever the setting, IV therapy is administered by nurses or other trained medical professionals. The procedure requires careful monitoring, so if the process is going to take more than a few minutes, there is usually some sort of control mechanism attached to the line to ensure proper delivery. Frequent or remote monitoring always accompanies infusion therapy.'
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: one_column_content
+        enabled: true
+      -
+        id: le36c4um
+        content:
+          -
+            type: heading
+            attrs:
+              level: 2
+            content:
+              -
+                type: text
+                text: 'Are there any side effects?'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'While rare, side effects would depend on the medication being administered. Some of them may include:'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: Dizziness
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: Nausea
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Muscle Stiffness'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Itchiness at the injection site'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: Headaches
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Prior to starting your infusion therapy, one of our healthcare professionals will review your prescribed medication and discuss all possible side effects with you.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Other risks include infection at the injection site where the IV needle is inserted. The needle could also become dislodged, causing the solution to enter the surrounding tissues. To lower these risks, each infusion is monitored by either a physician or a registered nurse.'
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: one_column_content
+        enabled: true
+      -
+        id: le36ezht
+        content:
+          -
+            type: heading
+            attrs:
+              level: 2
+            content:
+              -
+                type: text
+                text: 'How to Prepare for Infusion Therapy'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'At Infusion Associates, first and foremost, we want you to feel at ease. To ensure your treatment goes smoothly:'
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: one_column_content
+        enabled: true
+      -
+        id: le36f5nm
+        col_1:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: '1. Follow your doctor’s instructions.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Some infusions require a patient to hydrate prior to treatment. Others may require a particular diet or taking medication prior to the infusion. Before referring you to our clinics, your doctor will let you know what you need to do to best prepare for your infusion therapy.'
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: '2. Write down all of your concerns.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Prior to commencing therapy, make a list of all your questions. We’ll be happy to discuss them with you. We’ll explain the entire process, the risk of side effects — and what those side effects are — as well as any additional matter that may be making you anxious.'
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: '3. Make a list of medications you’re taking.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Regardless of whether you’re taking prescription medications or over-the-counter painkillers, let our team members know. This is essential to ensure that you don’t experience an adverse reaction from mixing items that don’t work well together.'
+        col_2:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: '4. Wear comfortable clothes.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'This serves a dual purpose. First, it’s practical — one of our healthcare professionals will take your vital signs — and wearing loose-fitting clothes will make this process easier. Second, while we’ll make sure you’re in a comfortable environment, what you wear can help make you feel more relaxed.'
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: '5. Clear your schedule.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'You’ll want to have time to rest after each infusion treatment. Your body may either need the time to fully recover, or you may need time off if you experience side effects. Do not stress yourself out thinking that you have to rush to get to work or run other errands.'
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: two_column_content
+        enabled: true
+      -
+        id: le36gry5
+        content:
+          -
+            type: heading
+            attrs:
+              level: 2
+            content:
+              -
+                type: text
+                text: 'The bottom line'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Infusion therapy is the administration of medication or fluids in a controlled method. It’s done most often intravenously or subcutaneously.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Since the timing can be controlled, it’s used to deliver chemotherapy drugs and other medications that need to enter your system slowly. It can also be used to deliver drugs into your bloodstream quickly in the case of a life threatening emergency.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Infusion therapy is used to dispense many treatments for a wide variety of conditions. It’s typically administered by nurses or other trained healthcare providers, usually in a clinical setting.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Speak with your healthcare provider about the potential benefits and risks of infusion therapy, and what you can do to make it as safe and effective as possible.'
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: one_column_content
+        enabled: true
+      -
+        id: le36gws9
+        content:
+          -
+            type: heading
+            attrs:
+              level: 2
+            content:
+              -
+                type: text
+                text: 'Contact us for questions!'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '{{ partial src="forms.contact_us" }}'
+        invert_text_colors: false
+        text_alignment: center
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: one_column_content
+        enabled: true
+    review: null
+    parent: null
+    template: null

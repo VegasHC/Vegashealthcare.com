@@ -1,0 +1,45 @@
+action: publish
+date: 1677859039
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 348273fc-ecf8-4559-8060-bdcc4a287145
+  slug: pamela-s-list
+  published: true
+  date: null
+  data:
+    title: "Pamela's List"
+    org_name: "Pamela's List"
+    first_name: Pamela
+    middle_name: null
+    last_name: Paulson
+    suffix_name: null
+    phone: 702-622-0191
+    fax: null
+    website: 'https://pamelaslist.net/'
+    links: {  }
+    email: plynn@pamelaslist.net
+    image: providers/logo-1677858950.jpg
+    description: "Pamela's List is the leading agency in helping professionals find their ideal jobs. We staff industries such as Nursing, Allied, Therapy, Government, Correctional, and corporate companies with our own personal touch. Pamela's List features the best jobs, locations, and pay while offering twenty-four hour support through the entire process."
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: staffing-and-recruting
+    services:
+      - health-care-staffing-services
+    promotion_level: '10'
+    address: '3157 N. Rainbow Blvd #196'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89108'
+    _geoloc:
+      lat: 36.217563544141
+      lng: -115.24492552884
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

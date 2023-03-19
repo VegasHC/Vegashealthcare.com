@@ -1,0 +1,45 @@
+action: publish
+date: 1677803205
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 51a58bc7-c1f5-4ab6-a17b-2d426f7885a0
+  slug: senior-services-60bc37e0212a6
+  published: true
+  date: null
+  data:
+    org_name: 'Legacy House of Centennial Hills'
+    address: '6310 N. DURANGO DRIVE'
+    city: 'LAS VEGAS'
+    zip: '89149'
+    state: NV
+    phone: 702-978-5000
+    category: care-services
+    services:
+      - assisted-living
+    title: 'Legacy House of Centennial Hills'
+    _geoloc:
+      lat: 36.2648
+      lng: -115.279
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    fax: 702-396-4049
+    website: 'https://legacycentennialhills.com/'
+    links: {  }
+    email: lauraw@wslm.biz
+    image: providers/logo-mobile.jpg
+    description: 'Legacy House of Centennial Hills offer assisted living and memory care in a warm and inviting community in the Centennial Hills area of Las Vegas. We assist with all activities of daily living and provide amenities such as restaurant-style dining, full activity program and transportation to outings and medical appointments, as well as weekly housekeeping services.'
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    promotion_level: '10'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

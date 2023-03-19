@@ -62,11 +62,18 @@ sections:
                     instructions_position: above
                 -
                   import: content_row
+            form:
+              display: Form
+              fields:
+                -
+                  import: form
           display: Rows
           type: replicator
           icon: replicator
           listable: hidden
           instructions_position: above
+          visibility: visible
+          previews: true
   sidebar:
     display: Sidebar
     fields:

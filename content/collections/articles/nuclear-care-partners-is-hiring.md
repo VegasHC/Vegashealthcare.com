@@ -5,9 +5,9 @@ title: 'Nuclear Care Partners is Hiring!'
 hero: untitled-design-(12).png
 author: 'Nuclear Care Partners'
 snippet: 'Here at Nuclear Care Partners, as we continue to rapidly grow in pursuit of our mission to provide the highest level of home-care available to our Hometown Atomic Heroes, including Nevada Test Site retirees, we find our team rapidly growing as well!'
-homepage: true
+homepage: false
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1667322228
+updated_at: 1677686504
 content:
   -
     type: paragraph
