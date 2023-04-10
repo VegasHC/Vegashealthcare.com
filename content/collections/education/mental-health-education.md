@@ -1,7 +1,6 @@
 ---
 id: f95d8ac5-04b1-4457-b61c-484d3a0060bc
 published: false
-blueprint: pages
 title: 'Mental Health Education'
 rows:
   -
