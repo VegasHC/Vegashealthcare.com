@@ -1,7 +1,6 @@
 ---
 id: f3a21265-ac5a-4d51-a5d9-a4a39fb325b4
 published: false
-blueprint: pages
 title: 'Assisted Living Education'
 rows:
   -

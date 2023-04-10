@@ -1,7 +1,6 @@
 ---
 id: 8d3d4956-251d-4243-b84e-9cf8bada021f
 published: false
-blueprint: pages
 title: 'Personal Care Agency Education'
 rows:
   -

@@ -1,6 +1,6 @@
 ---
 id: 88313a9e-4e97-4d23-84e0-521a29303e9a
-blueprint: pages
+blueprint: education
 title: 'Hospice Education'
 rows:
   -

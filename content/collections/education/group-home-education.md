@@ -1,7 +1,6 @@
 ---
 id: 9f27b8ee-92ea-4ef8-9368-78154f148da0
 published: false
-blueprint: pages
 title: 'Group Home Education'
 rows:
   -
