@@ -5,9 +5,9 @@ title: 'Adding COVID-19 to Your White Card as a Consequential Illness'
 hero: adding-covid-19-as-a-consequentional-illness.png
 author: 'Nuclear Care Partners'
 snippet: 'Can COVID-19 be added to a DOL white card as a consequential illness? According to the Department of Labor, it is possible!'
-homepage: true
+homepage: false
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1677686510
+updated_at: 1681326751
 content:
   -
     type: paragraph

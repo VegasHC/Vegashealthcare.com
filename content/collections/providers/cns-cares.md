@@ -32,6 +32,8 @@ zip: '89119'
 _geoloc:
   lat: 36.116603006812
   lng: -115.14107282884
+gallery:
+  - tinywow_doc010_19524829_1.jpg
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1664823105
+updated_at: 1681250757
 ---
