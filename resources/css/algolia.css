@@ -1,3 +1,10 @@
+.ais-RefinementList-checkbox {
+    margin-right: 4px;
+}
+
+.ais-RefinementList-count {
+    margin-left: 4px;
+}
 .ais-Breadcrumb-list, .ais-CurrentRefinements-list, .ais-HierarchicalMenu-list, .ais-InfiniteHits-list, .ais-InfiniteResults-list, .ais-Menu-list, .ais-NumericMenu-list, .ais-Pagination-list, .ais-RatingMenu-list, .ais-RefinementList-list, .ais-Results-list, .ais-ToggleRefinement-list {
     margin: 0;
     padding: 0;
