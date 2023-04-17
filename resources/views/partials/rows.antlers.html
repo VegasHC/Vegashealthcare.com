@@ -9,7 +9,10 @@
         {{ code }}
     {{ elseif type == "two_column_video_content" }}
         {{ partial src="partials.two_column_video_row" }}
+    {{ elseif type == "calendar" }}
+        {{ partial src="partials.calendar" }}
+    {{ elseif type == "upcoming_events" }}
+        {{ partial src="partials.upcoming_events" }}
     {{ else }}
     {{ /if }}
 {{ /rows }}
-
