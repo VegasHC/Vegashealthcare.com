@@ -1,0 +1,11 @@
+<div>
+    <ul>
+        {{ events:upcoming :limit="limit" }}
+            <li>{{ title }}{{ start }} - {{ end }}</li>
+        {{ /events:upcoming }}
+    </ul>
+    {{ if show_more }}
+        <div>
+            <a href="{{ show_more_link }}">{{ show_more_text }}</a>
+        </div>
+    {{ /if }}

@@ -62,11 +62,23 @@ sections:
                     instructions_position: above
                 -
                   import: content_row
+            upcoming_events:
+              display: 'Upcoming Events'
+              fields:
+                -
+                  import: upcoming_events
+            calendar:
+              display: Calendar
+              fields:
+                -
+                  import: calendar
           display: Rows
           type: replicator
           icon: replicator
           listable: hidden
           instructions_position: above
+          visibility: visible
+          previews: true
   sidebar:
     display: Sidebar
     fields:
