@@ -235,7 +235,7 @@ search.addWidgets([
                 </div>
                     <div>
                         {{#services}}
-                            <span class="flex-shrink-0 inline-block px-2 py-0.5  text-xs font-medium bg-secondary text-white rounded-full service-tag" >{{ . }}</span>
+                            <span class="shrink-0 inline-block px-2 py-0.5  text-xs font-medium bg-secondary text-white rounded-full service-tag" >{{ . }}</span>
                         {{/services}}
                     </div>
 
