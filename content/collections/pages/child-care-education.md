@@ -246,13 +246,13 @@ rows:
               -
                 type: link
                 attrs:
-                  href: 'https://www.dwss.nv.gov/care/childcare'
+                  href: 'https://dwss.nv.gov/Care/Childcare/'
                   rel: null
                   target: _blank
                   title: null
               -
                 type: bold
-            text: www.dwss.nv.gov/care/childcare
+            text: 'https://dwss.nv.gov/Care/Childcare/'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -261,5 +261,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1681834013
+updated_at: 1681834182
 ---
