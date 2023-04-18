@@ -229,6 +229,30 @@ rows:
           -
             type: text
             text: "Child care is a significant aspect of parenting that requires careful consideration. Researching different types of child care, assessing quality, building a strong caregiver-child relationship, prioritizing health and safety, ensuring early learning opportunities, maintaining open communication, and having flexibility and backup plans in place are all essential factors to consider when choosing child care for your child. By being informed and actively involved in your child's child care experience, you can ensure that they receive the best care and early learning opportunities that support their development and well-being. Remember, child care is not just about supervision, but also about providing a nurturing and enriching environment that fosters your child's growth and prepares them for a successful future. Your child deserves the best care, so take the time to carefully evaluate your options and make an informed decision that meets your family's needs."
+      -
+        type: paragraph
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'If you would like more information please visit '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.dwss.nv.gov/care/childcare'
+                  rel: null
+                  target: _blank
+                  title: null
+              -
+                type: bold
+            text: www.dwss.nv.gov/care/childcare
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -237,5 +261,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1681765901
+updated_at: 1681834013
 ---
