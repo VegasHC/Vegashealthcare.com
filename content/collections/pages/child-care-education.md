@@ -239,7 +239,7 @@ rows:
             marks:
               -
                 type: bold
-            text: 'If you would like more information please visit '
+            text: 'If you would like more information please visit: '
           -
             type: text
             marks:
@@ -253,6 +253,25 @@ rows:
               -
                 type: bold
             text: 'https://dwss.nv.gov/Care/Childcare/'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.nevadachildcare.org/'
+                  rel: null
+                  target: _blank
+                  title: null
+              -
+                type: bold
+            text: 'https://www.nevadachildcare.org/'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -261,5 +280,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1681834182
+updated_at: 1681834479
 ---
