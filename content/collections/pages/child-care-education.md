@@ -240,38 +240,188 @@ rows:
               -
                 type: bold
             text: 'If you would like more information please visit: '
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://dwss.nv.gov/Care/Childcare/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'https://dwss.nv.gov/Care/Childcare/'
+                  -
+                    type: text
+                    text: ' '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.nevadachildcare.org/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'https://www.nevadachildcare.org/'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            marks:
+            text: 'Quality Matters:'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
               -
-                type: link
-                attrs:
-                  href: 'https://dwss.nv.gov/Care/Childcare/'
-                  rel: null
-                  target: _blank
-                  title: null
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Access our quality child care checklist'
+                  -
+                    type: text
+                    text: ': '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.childrenscabinet.org/wp-content/uploads/2022/10/QualityChecklist-Only.pdf'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'https://www.childrenscabinet.org/wp-content/uploads/2022/10/QualityChecklist-Only.pdf'
+          -
+            type: listItem
+            content:
               -
-                type: bold
-            text: 'https://dwss.nv.gov/Care/Childcare/'
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Access our brochure for finding quality childcare'
+                  -
+                    type: text
+                    text: ': '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.childrenscabinet.org/wp-content/uploads/2022/10/Quality-Brochure.pdf'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'https://www.childrenscabinet.org/wp-content/uploads/2022/10/Quality-Brochure.pdf'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            marks:
+            text: "\_Health and Safety"
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
               -
-                type: bold
-            text: ' '
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Link to Licensing Portals to access inspection reports'
+              -
+                type: bulletList
+                content:
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://nvdpbh.aithent.com/Protected/LIC/LicenseeSearch.aspx?Program=HF&PubliSearch=Y&returnURL=~/Login.aspx?TI=2#noback'
+                                  rel: null
+                                  target: _blank
+                                  title: null
+                            text: 'https://nvdpbh.aithent.com/Protected/LIC/LicenseeSearch.aspx?Program=HF&PubliSearch=Y&returnURL=~/Login.aspx?TI=2#noback'
+                  -
+                    type: listItem
+                    content:
+                      -
+                        type: paragraph
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: link
+                                attrs:
+                                  href: 'https://webapp.sanswrite.com/washoecc/childcare/'
+                                  rel: null
+                                  target: _blank
+                                  title: null
+                            text: 'https://webapp.sanswrite.com/washoecc/childcare/'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            marks:
+            text: "\_Financial Support – Support for income eligible parents with childcare costs:"
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
               -
-                type: link
-                attrs:
-                  href: 'https://www.nevadachildcare.org/'
-                  rel: null
-                  target: _blank
-                  title: null
-              -
-                type: bold
-            text: 'https://www.nevadachildcare.org/'
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://www.nevadachildcare.org/child-care-subsidy-assistance/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'https://www.nevadachildcare.org/child-care-subsidy-assistance/'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -280,5 +430,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1681834498
+updated_at: 1682365124
 ---
