@@ -67,11 +67,6 @@ sections:
               fields:
                 -
                   import: upcoming_events
-            calendar:
-              display: Calendar
-              fields:
-                -
-                  import: calendar
           display: Rows
           type: replicator
           icon: replicator

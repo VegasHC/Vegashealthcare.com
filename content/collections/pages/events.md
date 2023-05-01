@@ -5,7 +5,8 @@ title: Events
 rows:
   -
     id: lgldcaqf
-    type: calendar
+    type: upcoming_events
+    limit: 10
     enabled: true
 updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
 updated_at: 1681768164
