@@ -1,18 +1,22 @@
 ---
 id: 145375c2-c280-4f29-89e5-1d5c2cf542a4
+blueprint: providers
 first_name: Douglas
-last_name: TANITA
+last_name: Tanita
 license: M.D.
 services:
   - obstetrics-gynecology
 category: doctors
-address: '1528 W Warm Springs Rd  Ste 100'
+address: '650 S Green Valley Pkwy Ste 120'
 city: Henderson
 state: NV
-zip: '89014'
-phone: 702-213-5601
-title: 'Douglas TANITA'
+zip: '89052'
+phone: 702-847-6252
+title: 'Douglas Tanita'
 _geoloc:
-  lng: -115.0778
-  lat: 36.045811
+  lat: 36.004763304875
+  lng: -115.08183728651
+sponsored: false
+updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
+updated_at: 1683577786
 ---
