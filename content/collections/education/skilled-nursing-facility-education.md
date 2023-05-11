@@ -1,7 +1,6 @@
 ---
 id: c503a661-10a4-4ce6-94d2-38422f4586de
 published: false
-blueprint: pages
 title: 'Skilled Nursing Facility Education'
 rows:
   -

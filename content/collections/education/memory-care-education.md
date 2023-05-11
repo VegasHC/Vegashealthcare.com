@@ -1,7 +1,6 @@
 ---
 id: b5ccc2cd-2bd8-4ef0-86ae-e11f0301fbe0
 published: false
-blueprint: pages
 title: 'Memory Care Education'
 rows:
   -

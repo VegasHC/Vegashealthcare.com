@@ -1,0 +1,13 @@
+title: Entries
+fields:
+  -
+    handle: collection
+    field:
+      max_items: 1
+      mode: default
+      display: Collection
+      type: collections
+      icon: collections
+      listable: hidden
+      instructions_position: above
+      visibility: visible

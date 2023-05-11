@@ -1,7 +1,6 @@
 ---
 id: 2ddefed1-1ec2-4a53-b298-e4352de0b68e
 published: false
-blueprint: pages
 title: 'Pain Management Education'
 rows:
   -
