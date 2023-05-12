@@ -57,6 +57,11 @@ fields:
           fields:
             -
               import: entries
+        upcoming_events:
+          display: 'Upcoming Events'
+          fields:
+            -
+              import: upcoming_events
       display: Rows
       type: replicator
       icon: replicator

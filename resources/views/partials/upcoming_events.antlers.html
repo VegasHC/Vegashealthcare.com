@@ -1,7 +1,7 @@
-<div>
+<div class="relative px-4 mx-auto max-w-7xl lg:px-0">
     <ul>
         {{ events:upcoming :limit="limit" }}
-            <li>{{ title }}{{ start }} - {{ end }}</li>
+            {{ partial:events/event }}
         {{ /events:upcoming }}
     </ul>
     {{ if show_more }}
@@ -9,3 +9,4 @@
             <a href="{{ show_more_link }}">{{ show_more_text }}</a>
         </div>
     {{ /if }}
+</div>
