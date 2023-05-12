@@ -16,5 +16,6 @@ description:
         type: text
         text: 'What a great event'
 updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
-updated_at: 1682960509
+updated_at: 1683926114
+registration_link: 'https://google.com'
 ---
