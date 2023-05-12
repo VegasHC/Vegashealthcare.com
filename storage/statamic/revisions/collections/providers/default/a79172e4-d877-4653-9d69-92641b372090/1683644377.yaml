@@ -1,0 +1,45 @@
+action: publish
+date: 1683644377
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: a79172e4-d877-4653-9d69-92641b372090
+  slug: procare-home-health
+  published: true
+  date: null
+  data:
+    title: 'ProCare Home Health'
+    org_name: null
+    first_name: Tad
+    middle_name: null
+    last_name: 'Kebede RN, BSN'
+    suffix_name: null
+    phone: 725-201-1440
+    fax: 725-201-1554
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    category: care-services
+    services:
+      - home-health
+    promotion_level: null
+    address: '6655 W Sahara Ave # D110'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89146'
+    _geoloc:
+      lat: 36.143578843798
+      lng: -115.23784628651
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

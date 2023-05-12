@@ -1,13 +1,11 @@
 module.exports = {
-    purge: {
-      content: [
-         './resources/**/*.antlers.html',
-          './resources/**/*.antlers.php',
-          './resources/**/search.js',
-          './resources/**/*.blade.php',
-          './content/**/*.md'
-      ]
-    },
+    content: [
+        './public/**/*.{html,js}',
+        './resources/**/*.{html,js}',
+        './resources/**/*.antlers.php',
+        './resources/**/*.blade.php',
+        './content/**/*.md'
+    ],
     important: true,
     theme: {
         extend: {
@@ -23,12 +21,9 @@ module.exports = {
                 '01': '.001',
             }
         },
-
-
     },
-    variants: {},
     plugins: [
         require('@tailwindcss/forms'),
         require('@tailwindcss/typography'),
     ],
-  }
+}
