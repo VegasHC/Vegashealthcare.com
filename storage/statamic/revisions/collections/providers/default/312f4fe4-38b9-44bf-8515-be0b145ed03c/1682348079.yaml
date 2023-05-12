@@ -1,0 +1,46 @@
+action: publish
+date: 1682348079
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 312f4fe4-38b9-44bf-8515-be0b145ed03c
+  slug: centennial-medical-group
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Centennial Medical Group'
+    org_name: 'Centennial Medical Group'
+    first_name: Nicole
+    last_name: Hanna
+    phone: 702-839-1203
+    fax: 702-751-3231
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: false
+    category: doctors
+    services:
+      - pain-management
+    promotion_level: '10'
+    address: '2110 E. Flamingo Rd. #330'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89119'
+    _geoloc:
+      lat: 36.115573729554
+      lng: -115.12286161119
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

@@ -1,18 +1,3 @@
 {{ rows }}
-    {{ if type == "one_column_content" }}
-        {{ partial src="partials.content_row" }}
-    {{ elseif type == "two_column_content" }}
-        {{ partial src="partials.two_column_row" }}
-    {{ elseif type == "three_column_content" }}
-        {{ partial src="partials.three_column_row" }}
-    {{ elseif type == "code" }}
-        {{ code }}
-    {{ elseif type == "two_column_video_content" }}
-        {{ partial src="partials.two_column_video_row" }}
-    {{ elseif type == "calendar" }}
-        {{ partial src="partials.calendar" }}
-    {{ elseif type == "upcoming_events" }}
-        {{ partial src="partials.upcoming_events" }}
-    {{ else }}
-    {{ /if }}
+    {{ partial src="partials/{type}" }}
 {{ /rows }}

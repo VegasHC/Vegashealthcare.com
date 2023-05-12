@@ -1,0 +1,46 @@
+action: publish
+date: 1683577860
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 4853a2af-1acf-41e2-a6f1-c29d940cf187
+  slug: doctors-60bc397cac615
+  published: true
+  date: null
+  data:
+    first_name: Reesa
+    last_name: Goravanchi
+    license: M.D.
+    services:
+      - obstetrics-gynecology
+    category: doctors
+    address: '650 S Green Valley Pkwy Ste 120'
+    city: Henderson
+    state: NV
+    zip: '89052'
+    phone: 702-847-6252
+    title: 'Reesa Goravanchi'
+    _geoloc:
+      lat: 36.004789342729
+      lng: -115.0818051
+    org_name: null
+    middle_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    promotion_level: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
