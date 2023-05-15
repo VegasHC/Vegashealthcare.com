@@ -48,7 +48,9 @@ rows:
     id: lfr4ki5c
     col_1:
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -63,7 +65,9 @@ rows:
             type: text
             text: "Medication is often the first line of treatment for pain. There are many different types of pain medication, including over-the-counter options like acetaminophen and ibuprofen, as well as prescription opioids, muscle relaxants, and nerve blockers. It is important to work closely with a healthcare provider to determine the best type and dosage of medication for each individual's pain."
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -78,7 +82,9 @@ rows:
             type: text
             text: 'Physical therapy is another common approach to pain management. Physical therapists use exercises and other techniques to help individuals reduce pain, increase range of motion, and improve strength and flexibility. Physical therapy can be particularly helpful for individuals with chronic pain, as it can help to improve physical function and reduce the risk of further injury.'
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -93,7 +99,9 @@ rows:
             type: text
             text: 'Cognitive behavioral therapy (CBT) is a type of therapy that focuses on changing negative thought patterns and behaviors that contribute to pain. CBT can be helpful for individuals with chronic pain, as it can help to reduce anxiety and depression, which can often exacerbate pain.'
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -109,7 +117,9 @@ rows:
             text: 'Acupuncture is a traditional Chinese medicine technique that involves inserting fine needles into specific points on the body. Acupuncture is thought to stimulate the release of endorphins, which are natural painkillers produced by the body. Acupuncture has been shown to be effective for a variety of types of pain, including back pain, neck pain, and osteoarthritis.'
     col_2:
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -124,7 +134,9 @@ rows:
             type: text
             text: 'Relaxation techniques, such as deep breathing, meditation, and progressive muscle relaxation, can be helpful for reducing pain and promoting relaxation. These techniques can be particularly helpful for individuals with chronic pain, as they can help to reduce stress and improve sleep.'
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -139,7 +151,9 @@ rows:
             type: text
             text: 'Surgery may be necessary for individuals with severe pain that cannot be managed through other approaches. Surgery can be used to repair injuries or correct structural abnormalities that are causing pain.'
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 3
         content:
           -
             type: text
@@ -194,12 +208,12 @@ rows:
             type: text
             text: '{{ partial src="forms.contact_us" }}'
     invert_text_colors: false
-    text_alignment: left
+    text_alignment: center
     background_size: cover
     background_position: 'center center'
     background_padding: py-8
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1684179678
+updated_at: 1684179832
 ---
