@@ -63,6 +63,17 @@ rows:
                     type: text
                     marks:
                       -
+                        type: bold
+                      -
+                        type: underline
+                    text: 'Click the link below to view opportunities'
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
                         type: link
                         attrs:
                           href: 'https://www.employnv.gov/vosnet/default.aspx'
@@ -88,6 +99,17 @@ rows:
                   -
                     type: text
                     text: 'Networking is a valuable tool for job seekers in any industry, including healthcare. Reach out to professionals already working in the healthcare field, such as doctors, nurses, administrators, or researchers. Attend healthcare conferences, seminars, or workshops where you can meet and connect with industry experts. Join relevant professional associations or online communities to expand your network further. Networking can provide you with valuable insights, advice, and potential job leads. It may even lead to mentorship opportunities that can guide you in making the right career choices.'
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: underline
+                    text: 'Click the links below to view our groups'
               -
                 type: paragraph
                 content:
@@ -126,5 +148,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1684182983
+updated_at: 1684184708
 ---
