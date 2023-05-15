@@ -1,6 +1,7 @@
 ---
 id: c503a661-10a4-4ce6-94d2-38422f4586de
 published: false
+blueprint: education
 title: 'Skilled Nursing Facility Education'
 rows:
   -
@@ -483,7 +484,7 @@ rows:
         content:
           -
             type: text
-            text: '{{ partial src="forms.contact_us" }}'
+            text: '{{ partial src="forms.snf.contact.us" }}'
     invert_text_colors: false
     text_alignment: center
     background_size: cover
@@ -492,5 +493,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1676316739
+updated_at: 1684178772
 ---
