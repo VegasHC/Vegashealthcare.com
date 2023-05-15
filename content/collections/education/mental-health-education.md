@@ -1,6 +1,7 @@
 ---
 id: f95d8ac5-04b1-4457-b61c-484d3a0060bc
 published: false
+blueprint: education
 title: 'Mental Health Education'
 rows:
   -
@@ -137,6 +138,30 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+  -
+    id: lhp92y1p
+    content:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Contact us for questions!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '{{ partial src="forms.contact_us" }}'
+    invert_text_colors: false
+    text_alignment: left
+    background_size: cover
+    background_position: 'center center'
+    background_padding: py-8
+    type: one_column_content
+    enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1680127903
+updated_at: 1684179658
 ---
