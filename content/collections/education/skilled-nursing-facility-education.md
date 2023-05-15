@@ -1,6 +1,5 @@
 ---
 id: c503a661-10a4-4ce6-94d2-38422f4586de
-published: false
 blueprint: education
 title: 'Skilled Nursing Facility Education'
 rows:
@@ -448,19 +447,11 @@ rows:
     id: le37k8ty
     content:
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Conclusion
-      -
         type: paragraph
         content:
           -
             type: text
-            text: "In conclusion, a skilled nursing facility is an excellent option for individuals who require more extensive medical care and support. These facilities offer a range of benefits, including 24-hour medical care, therapy services, personalized care plans, socialization opportunities, access to specialized care, and peace of mind for families. With a focus on promoting the health and well-being of residents, skilled nursing facilities provide high-quality care and can play an important role in helping individuals recover from injury or illness, manage chronic conditions, and live fulfilling lives. It's important to do your research and choose a skilled nursing facility that meets your needs and expectations in order to receive the best possible care."
+            text: "A skilled nursing facility is an excellent option for individuals who require more extensive medical care and support. These facilities offer a range of benefits, including 24-hour medical care, therapy services, personalized care plans, socialization opportunities, access to specialized care, and peace of mind for families. With a focus on promoting the health and well-being of residents, skilled nursing facilities provide high-quality care and can play an important role in helping individuals recover from injury or illness, manage chronic conditions, and live fulfilling lives. It's important to do your research and choose a skilled nursing facility that meets your needs and expectations in order to receive the best possible care."
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -493,5 +484,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1684178903
+updated_at: 1684179750
 ---
