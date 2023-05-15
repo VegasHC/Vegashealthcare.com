@@ -1,6 +1,5 @@
 ---
 id: 9f27b8ee-92ea-4ef8-9368-78154f148da0
-published: false
 blueprint: education
 title: 'Group Home Education'
 rows:
@@ -187,12 +186,12 @@ rows:
             type: text
             text: '{{ partial src="forms.contact_us" }}'
     invert_text_colors: false
-    text_alignment: left
+    text_alignment: center
     background_size: cover
     background_position: 'center center'
     background_padding: py-8
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1684179553
+updated_at: 1684179877
 ---
