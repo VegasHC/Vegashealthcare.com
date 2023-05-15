@@ -1,6 +1,5 @@
 ---
 id: 2ddefed1-1ec2-4a53-b298-e4352de0b68e
-published: false
 blueprint: education
 title: 'Pain Management Education'
 rows:
@@ -215,5 +214,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1684179832
+updated_at: 1684180646
 ---
