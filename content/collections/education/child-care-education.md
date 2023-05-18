@@ -1,7 +1,7 @@
 ---
 id: ac09d083-53f7-46c4-a132-e8e6a5d01d7d
 published: false
-blueprint: pages
+blueprint: education
 title: 'Child Care Education'
 rows:
   -

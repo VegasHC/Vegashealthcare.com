@@ -1,7 +1,7 @@
 ---
 id: d57b95da-4742-4bb7-97b7-dc3757db154f
 published: false
-blueprint: pages
+blueprint: education
 title: 'Primary Care Education'
 rows:
   -
