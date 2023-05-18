@@ -1,7 +1,7 @@
 ---
 id: c1ef50e9-38ba-4e01-84d4-5c92fc1252dc
 published: false
-blueprint: pages
+blueprint: education
 title: 'Endocrinology Education'
 rows:
   -

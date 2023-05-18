@@ -1,6 +1,6 @@
 ---
 id: 88f35885-55d4-431e-b6c0-5f720c1d26bf
-published: false
+blueprint: education
 title: 'Infusion Education'
 rows:
   -

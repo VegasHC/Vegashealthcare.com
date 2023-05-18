@@ -1,7 +1,7 @@
 ---
 id: 694da3d1-5648-403d-ae70-fdb92f36af26
 published: false
-blueprint: pages
+blueprint: education
 title: 'Dermatology Education'
 rows:
   -

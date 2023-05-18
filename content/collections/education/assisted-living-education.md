@@ -1,6 +1,6 @@
 ---
 id: f3a21265-ac5a-4d51-a5d9-a4a39fb325b4
-published: false
+blueprint: education
 title: 'Assisted Living Education'
 rows:
   -
@@ -341,5 +341,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1679328081
+updated_at: 1684179861
 ---

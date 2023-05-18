@@ -1,6 +1,6 @@
 ---
 id: 8d3d4956-251d-4243-b84e-9cf8bada021f
-published: false
+blueprint: education
 title: 'Personal Care Agency Education'
 rows:
   -
@@ -276,5 +276,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1679328476
+updated_at: 1684179707
 ---

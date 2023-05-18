@@ -1,7 +1,7 @@
 ---
 id: 2dd4f1e3-8b35-4bf9-ae21-2c701f294f0d
 published: false
-blueprint: pages
+blueprint: education
 title: 'Cardiology Education'
 rows:
   -

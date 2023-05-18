@@ -1,6 +1,6 @@
 ---
 id: 9f27b8ee-92ea-4ef8-9368-78154f148da0
-published: false
+blueprint: education
 title: 'Group Home Education'
 rows:
   -
@@ -153,24 +153,6 @@ rows:
     type: one_column_content
     enabled: true
   -
-    id: lepw5qwu
-    content:
-      -
-        type: paragraph
-        content:
-          -
-            type: image
-            attrs:
-              src: 'asset::assets::nursinghome.jpg'
-              alt: null
-    invert_text_colors: false
-    text_alignment: left
-    background_size: cover
-    background_position: 'center center'
-    background_padding: py-8
-    type: one_column_content
-    enabled: true
-  -
     id: lepw10oa
     content:
       -
@@ -186,6 +168,30 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+  -
+    id: lhp90k0c
+    content:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Contact us for questions!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '{{ partial src="forms.contact_us" }}'
+    invert_text_colors: false
+    text_alignment: center
+    background_size: cover
+    background_position: 'center center'
+    background_padding: py-8
+    type: one_column_content
+    enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1679329529
+updated_at: 1684179877
 ---
