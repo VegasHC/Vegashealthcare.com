@@ -1,7 +1,7 @@
 ---
 id: 2c7afb70-e0c9-4bbe-8712-ea1cec6e69e3
 published: false
-blueprint: pages
+blueprint: education
 title: 'Gynecology Education'
 rows:
   -
