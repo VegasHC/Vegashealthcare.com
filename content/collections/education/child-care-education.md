@@ -297,13 +297,7 @@ rows:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Access our quality child care checklist'
-                  -
-                    type: text
-                    text: ': '
+                    text: ' '
                   -
                     type: text
                     marks:
@@ -323,13 +317,7 @@ rows:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Access our brochure for finding quality childcare'
-                  -
-                    type: text
-                    text: ': '
+                    text: ' '
                   -
                     type: text
                     marks:
@@ -348,6 +336,8 @@ rows:
             type: text
             text: "\_Health and Safety"
       -
+        type: paragraph
+      -
         type: bulletList
         content:
           -
@@ -358,44 +348,32 @@ rows:
                 content:
                   -
                     type: text
-                    text: 'Link to Licensing Portals to access inspection reports'
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://nvdpbh.aithent.com/Protected/LIC/LicenseeSearch.aspx?Program=HF&PubliSearch=Y&returnURL=~/Login.aspx?TI=2#noback'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'https://nvdpbh.aithent.com/Protected/LIC/LicenseeSearch.aspx?Program=HF&PubliSearch=Y&returnURL=~/Login.aspx?TI=2#noback'
+          -
+            type: listItem
+            content:
               -
-                type: bulletList
+                type: paragraph
                 content:
                   -
-                    type: listItem
-                    content:
+                    type: text
+                    marks:
                       -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: link
-                                attrs:
-                                  href: 'https://nvdpbh.aithent.com/Protected/LIC/LicenseeSearch.aspx?Program=HF&PubliSearch=Y&returnURL=~/Login.aspx?TI=2#noback'
-                                  rel: null
-                                  target: _blank
-                                  title: null
-                            text: 'https://nvdpbh.aithent.com/Protected/LIC/LicenseeSearch.aspx?Program=HF&PubliSearch=Y&returnURL=~/Login.aspx?TI=2#noback'
-                  -
-                    type: listItem
-                    content:
-                      -
-                        type: paragraph
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: link
-                                attrs:
-                                  href: 'https://webapp.sanswrite.com/washoecc/childcare/'
-                                  rel: null
-                                  target: _blank
-                                  title: null
-                            text: 'https://webapp.sanswrite.com/washoecc/childcare/'
+                        type: link
+                        attrs:
+                          href: 'https://webapp.sanswrite.com/washoecc/childcare/'
+                          rel: null
+                          target: _blank
+                          title: null
+                    text: 'https://webapp.sanswrite.com/washoecc/childcare/'
       -
         type: paragraph
         content:
@@ -430,5 +408,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1682365124
+updated_at: 1684427428
 ---
