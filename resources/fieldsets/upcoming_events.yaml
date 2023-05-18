@@ -1,0 +1,53 @@
+title: 'Upcoming Events'
+fields:
+  -
+    handle: limit
+    field:
+      display: Limit
+      type: integer
+      icon: integer
+      width: 50
+      listable: hidden
+      default: 6
+      instructions_position: above
+      visibility: visible
+  -
+    handle: show_more
+    field:
+      default: false
+      display: 'Show More?'
+      type: toggle
+      icon: toggle
+      instructions: 'Include a "more" link that goes to another page?'
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+  -
+    handle: show_more_link
+    field:
+      collections:
+        - pages
+      display: 'Show More Link'
+      type: link
+      icon: link
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      if:
+        show_more: 'equals true'
+  -
+    handle: show_more_text
+    field:
+      input_type: text
+      antlers: false
+      display: 'Show More Text'
+      type: text
+      icon: text
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      if:
+        show_more: 'equals true'
