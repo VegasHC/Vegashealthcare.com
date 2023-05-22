@@ -13,15 +13,11 @@ description:
     type: paragraph
     content:
       -
-        type: text
-        text: 'Come Join VHC and La Mansion for a Healthcare/Legal mixer. Enjoy appetizers, beer and wine.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Bring those business cards and let's collaborate in this beautiful La Mansion."
+        type: image
+        attrs:
+          src: 'asset::assets::la-mansion-mixer.png'
+          alt: null
 registration_link: 'https://go.thryv.com/site/fb2a4xhihzphkg1l/online-scheduling?event=8577w8i8b1q9h0on'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1684426322
+updated_at: 1684781187
 ---
