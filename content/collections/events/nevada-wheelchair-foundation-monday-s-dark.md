@@ -13,6 +13,11 @@ description:
     type: paragraph
     content:
       -
+        type: image
+        attrs:
+          src: 'asset::assets::tinywow_mondays-dark-event-info-jun-19-with-qr_24276218_1.jpg'
+          alt: null
+      -
         type: text
         marks:
           -
@@ -20,5 +25,5 @@ description:
         text: "Tickets on line only $20 and $50 table seats pp. Many entertainers giving tribute to David Bowie.\_ Raffle items needed please get hold of John Williams at 702-900-3362"
 registration_link: 'https://e.givesmart.com/events/wQR/'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1684515797
+updated_at: 1684780879
 ---
