@@ -1,0 +1,46 @@
+action: publish
+date: 1684949641
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 12227201-4a13-42bd-9d8b-bd8186d305dc
+  slug: trusted-ally-home-care
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Trusted Ally Home Care'
+    org_name: 'Trusted Ally Home Care'
+    first_name: 'Shelby Hardi'
+    last_name: Hardy
+    phone: 702-670-0044
+    fax: null
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: false
+    category: care-services
+    services:
+      - home-health
+    promotion_level: null
+    address: '1017 E BASIN AVE STE #5'
+    city: PAHRUMP
+    state: NV
+    zip: '89060'
+    _geoloc:
+      lat: 36.219425173629
+      lng: -115.99625867116
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
