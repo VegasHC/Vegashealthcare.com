@@ -15,9 +15,9 @@ description:
       -
         type: image
         attrs:
-          src: 'asset::assets::profusion-infusion-flyer-final.png'
+          src: 'asset::assets::profusion-infusion-final.png'
           alt: null
 registration_link: 'https://www.eventbrite.com/e/dip-drip-tickets-640122111467'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1684781498
+updated_at: 1684944472
 ---
