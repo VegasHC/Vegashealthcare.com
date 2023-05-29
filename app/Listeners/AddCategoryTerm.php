@@ -23,7 +23,7 @@ class AddCategoryTerm
      * @param  object  $event
      * @return void
      */
-    public function handle($event)
+    public function handle($event): void
     {
         if (App::runningInConsole()) {
             //Do not run on bulk imports

@@ -24,7 +24,7 @@ class AddProviderGeoloc
      *
      * @return void
      */
-    public function handle(EntrySaving $event)
+    public function handle(EntrySaving $event): void
     {
         if (App::runningInConsole()) {
             //Do not run on bulk imports

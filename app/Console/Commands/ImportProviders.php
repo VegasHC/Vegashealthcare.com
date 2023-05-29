@@ -45,7 +45,7 @@ class ImportProviders extends Command
      *
      * @return int
      */
-    public function handle()
+    public function handle(): int
     {
         $filename = $this->argument('filename');
         $path = storage_path('import');
