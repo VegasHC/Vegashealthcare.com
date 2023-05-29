@@ -71,7 +71,7 @@ class ImportProviders extends Command
 
             $data['category'] = Str::slug($data['category']);
             $data['services'] = array_map(function ($term) {
-            return Str::slug(trim($term));
+                return Str::slug(trim($term));
             }, explode(',', $data['services']));
 
             foreach ($services as $service) {

@@ -14,7 +14,7 @@ class SearchController extends Controller
 
         if (! empty($currentServices)) {
             $currentServices = array_map(function ($text) {
-            return \Statamic\Support\Str::slug($text);
+                return \Statamic\Support\Str::slug($text);
             }, $currentServices);
         }
 
@@ -76,7 +76,7 @@ class SearchController extends Controller
 
         if (! empty($currentServices)) {
             $currentServices = array_map(function ($text) {
-            return \Statamic\Support\Str::slug($text);
+                return \Statamic\Support\Str::slug($text);
             }, $currentServices);
         }
 
