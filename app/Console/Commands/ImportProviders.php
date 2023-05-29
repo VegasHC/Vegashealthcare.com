@@ -42,10 +42,8 @@ class ImportProviders extends Command
 
     /**
      * Execute the console command.
-     *
-     * @return int
      */
-    public function handle()
+    public function handle(): int
     {
         $filename = $this->argument('filename');
         $path = storage_path('import');
@@ -71,7 +69,7 @@ class ImportProviders extends Command
 
             $data['category'] = Str::slug($data['category']);
             $data['services'] = array_map(function ($term) {
-            return Str::slug(trim($term));
+                return Str::slug(trim($term));
             }, explode(',', $data['services']));
 
             foreach ($services as $service) {
