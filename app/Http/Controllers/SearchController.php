@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Statamic\Facades\Entry;
 use Statamic\Facades\Term;
@@ -14,7 +15,7 @@ class SearchController extends Controller
 
         if (! empty($currentServices)) {
             $currentServices = array_map(function ($text) {
-            return \Statamic\Support\Str::slug($text);
+                return \Statamic\Support\Str::slug($text);
             }, $currentServices);
         }
 
@@ -47,7 +48,7 @@ class SearchController extends Controller
             ->with($vars);
     }
 
-    public function getGeoloc(Request $request)
+    public function getGeoloc(Request $request): JsonResponse
     {
         $zip = $request->input('zip');
         $zipcode = Entry::query()
@@ -76,7 +77,7 @@ class SearchController extends Controller
 
         if (! empty($currentServices)) {
             $currentServices = array_map(function ($text) {
-            return \Statamic\Support\Str::slug($text);
+                return \Statamic\Support\Str::slug($text);
             }, $currentServices);
         }
 
