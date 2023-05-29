@@ -1,6 +1,6 @@
 ---
 id: 9c31244c-e7d7-4a09-abcb-0b5e3f19ec3a
-published: false
+blueprint: education
 title: 'Home Health Education'
 rows:
   -

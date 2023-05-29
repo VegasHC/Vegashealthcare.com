@@ -5,9 +5,9 @@ title: 'A Long Term Care Solution for Nevada Test Site & Atomic Retirees'
 hero: 'a-long-term-care-solution-for-nevada-test-site-&-atomic-retirees.jpg'
 author: 'Nuclear Care Partners'
 snippet: 'Now that the new year is upon us, what health resources & support do your patients currently have in place? Medicare? Hospice? Long-Term Care Insurance? Veterans Resources? Whatever plan they may have, their EEOICPA Benefits will augment their current health care plan and extend coverage for their approved illness on their DOL white card until the end of life!'
-homepage: true
+homepage: false
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1681326804
+updated_at: 1684427250
 content:
   -
     type: paragraph

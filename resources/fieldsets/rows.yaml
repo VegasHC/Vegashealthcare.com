@@ -62,6 +62,11 @@ fields:
           fields:
             -
               import: upcoming_events
+        form:
+          display: 'Form'
+          fields:
+            -
+              import: form
       display: Rows
       type: replicator
       icon: replicator

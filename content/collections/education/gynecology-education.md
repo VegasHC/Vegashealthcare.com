@@ -1,7 +1,6 @@
 ---
 id: 2c7afb70-e0c9-4bbe-8712-ea1cec6e69e3
-published: false
-blueprint: pages
+blueprint: education
 title: 'Gynecology Education'
 rows:
   -
@@ -191,7 +190,7 @@ rows:
       -
         type: heading
         attrs:
-          level: 3
+          level: 4
         content:
           -
             type: text
@@ -203,6 +202,30 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+  -
+    id: lhtc2e7y
+    content:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Contact us for questions!'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '{{ partial src="forms.contact_us" }}'
+    invert_text_colors: false
+    text_alignment: center
+    background_size: cover
+    background_position: 'center center'
+    background_padding: py-8
+    type: one_column_content
+    enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1681767421
+updated_at: 1684426552
 ---
