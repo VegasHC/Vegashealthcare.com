@@ -1,0 +1,17 @@
+title: Education
+template: pages/show
+layout: layout
+mount: d23be4ef-03ae-4f84-8e3b-cbb9a98f9a97
+revisions: false
+route: '/{mount}/{slug}'
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
+preview_targets:
+  -
+    label: Entry
+    url: '{permalink}'
+structure:
+  root: false
+  max_depth: 1

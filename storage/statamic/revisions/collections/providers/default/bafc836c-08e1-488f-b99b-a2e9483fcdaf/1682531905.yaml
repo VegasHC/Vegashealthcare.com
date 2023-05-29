@@ -1,0 +1,46 @@
+action: publish
+date: 1682531905
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: bafc836c-08e1-488f-b99b-a2e9483fcdaf
+  slug: center-for-wellness-and-pain
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Center for Wellness and Pain'
+    org_name: 'Center for Wellness and Pain'
+    first_name: Tashi
+    last_name: Campbell
+    phone: 702-476-9700
+    fax: 702-476-9138
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: false
+    category: doctors
+    services:
+      - pain-management
+    promotion_level: null
+    address: '6930 S Cimarron Rd Ste 260'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89113'
+    _geoloc:
+      lat: 36.062532795116
+      lng: -115.2695846
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

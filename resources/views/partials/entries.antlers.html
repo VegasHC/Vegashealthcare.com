@@ -1,0 +1,9 @@
+<div class="w-full px-8 py-8">
+    <div class="mx-auto prose prose-xl max-w-7xl">
+        <ul>
+            {{ %collection :from="collection" }}
+                <li><a href="{{ permalink }}">{{ title }}</a></li>
+            {{ /%collection }}
+        </ul>
+    </div>
+</div>

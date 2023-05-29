@@ -12,6 +12,9 @@ tree:
     id: ab2f6e0e-f5e2-4da2-a6db-4810a9e593bd
     entry: 345cac2c-09b9-4c69-b4ce-b35025a6537e
   -
+    id: a5ea4f05-0108-42da-8f6e-675921e73792
+    entry: b500f107-2094-4b5f-8fa9-2990c8481d13
+  -
     id: 0bdf232a-44ae-45d4-950d-cfdfdf1267bd
     title: 'General & Community Info'
     url: 'https://www.lasvegasnevada.gov/'
@@ -19,8 +22,8 @@ tree:
     id: 6e57982e-43df-4be5-bf51-b1bd5ff15966
     entry: c3aa4296-b6a4-42f1-9f98-aa0e132a5aab
   -
-    id: 6fe4764e-51ea-4376-826b-05a8899a655f
-    entry: 88313a9e-4e97-4d23-84e0-521a29303e9a
+    id: 4dc89d72-86bb-4e5a-9a68-5ea4adf7a677
+    entry: d23be4ef-03ae-4f84-8e3b-cbb9a98f9a97
   -
     id: 9f829f33-6a32-41cc-b501-9aee30141a57
     title: 'Educational Videos'

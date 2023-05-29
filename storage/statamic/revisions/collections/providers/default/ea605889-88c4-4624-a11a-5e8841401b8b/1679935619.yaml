@@ -1,0 +1,45 @@
+action: publish
+date: 1679935619
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: ea605889-88c4-4624-a11a-5e8841401b8b
+  slug: 702recovery
+  published: true
+  date: null
+  data:
+    title: 702Recovery
+    org_name: 702Recovery
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    phone: 702-232-5992
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    category: behavioral-health
+    services:
+      - pain-management
+    promotion_level: null
+    address: '1815 W. Charleston Blvd #5'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89102'
+    _geoloc:
+      lat: 36.158229903385
+      lng: -115.166229
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

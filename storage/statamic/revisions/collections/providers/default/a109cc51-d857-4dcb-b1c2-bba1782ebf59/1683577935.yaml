@@ -1,0 +1,45 @@
+action: publish
+date: 1683577935
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: a109cc51-d857-4dcb-b1c2-bba1782ebf59
+  slug: dr-felix-hernandez-iii
+  published: true
+  date: null
+  data:
+    title: 'Dr. Felix Hernandez III'
+    org_name: null
+    first_name: Felix
+    middle_name: null
+    last_name: Hernandez
+    suffix_name: null
+    phone: 702-847-6252
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    category: doctors
+    services:
+      - obstetricsgynecology
+    promotion_level: null
+    address: '650 S Green Valley Pkwy Ste 120'
+    address_2: null
+    city: Henderson
+    state: NV
+    zip: '89052'
+    _geoloc:
+      lat: 36.004789342729
+      lng: -115.0818051
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

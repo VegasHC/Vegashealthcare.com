@@ -221,8 +221,8 @@ search.addWidgets([
             data-objectid="{{objectID}}"
             x-data="{ video: null }"
         >
-        <div class="w-full flex items-center justify-between p-4 space-x-6">
-            <div class="flex-1 truncate">
+        <div class="w-full flex flex-col-reverse md:flex-row justify-between p-4">
+            <div class="flex-1">
                 <div class="flex items-center space-x-3">
                     <h3 class="text-gray-900 text-lg font-medium truncate">
                     {{#website}}
@@ -235,7 +235,7 @@ search.addWidgets([
                 </div>
                     <div>
                         {{#services}}
-                            <span class="flex-shrink-0 inline-block px-2 py-0.5  text-xs font-medium bg-secondary text-white rounded-full service-tag" >{{ . }}</span>
+                            <span class="shrink-0 inline-block px-2 py-0.5  text-xs font-medium bg-secondary text-white rounded-full service-tag" >{{ . }}</span>
                         {{/services}}
                     </div>
 
@@ -258,7 +258,7 @@ search.addWidgets([
             </div>
 
             {{#image}}
-            <img class="h-full rounded flex-shrink-0" src="/assets/{{ image }}" style="max-width: 300px; max-height: 150px" alt="">
+            <img class="h-full rounded" src="/assets/{{ image }}" style="max-width: 300px; max-height: 150px; min-width: 0;">
             {{/image}}
         </div>
 

@@ -1,4 +1,4 @@
-<div id="masthead" class="relative bg-no-repeat bg-cover bg-center">
+<div id="masthead" class="relative bg-center bg-no-repeat bg-cover">
     <div class="float-right mt-8 mr-2 lg:hidden" id="mobile-toggle">
         <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10" fill="none" viewBox="0 0 24 24" stroke="#fff">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -28,7 +28,7 @@
 
 <nav id="mobile-nav" class="absolute flex flex-col hidden w-full p-4 mx-auto space-y-2 lg:hidden bg bg-secondary">
     {{ nav:main }}
-        <a href="{{ url }}" class="flex-grow text-lg font-bold text-center text-white hover:text-brand">
+        <a href="{{ url }}" class="text-lg font-bold text-center text-white grow hover:text-brand">
             {{ title }}
         </a>
     {{ /nav:main }}
@@ -50,7 +50,7 @@
     <div class="container px-2 mx-auto lg:px-0 ">
         <nav class="flex-col hidden w-3/5 mx-auto divide-x-2 lg:flex lg:flex-row">
             {{ nav:main }}
-                <a href="{{ url }}" class="flex-grow font-bold text-center text-primary hover:text-brand">
+                <a href="{{ url }}" class="px-1 font-bold text-center text-primary hover:text-brand">
                     {{ title }}
                 </a>
             {{ /nav:main }}
