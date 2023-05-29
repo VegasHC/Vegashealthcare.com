@@ -18,8 +18,6 @@ class AddProviderTitle
 
     /**
      * Handle the event.
-     *
-     * @return void
      */
     public function handle(EntrySaving $event): void
     {
