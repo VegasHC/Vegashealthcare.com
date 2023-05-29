@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Statamic\Facades\Entry;
 use Statamic\Facades\Term;
@@ -47,7 +48,7 @@ class SearchController extends Controller
             ->with($vars);
     }
 
-    public function getGeoloc(Request $request)
+    public function getGeoloc(Request $request): JsonResponse
     {
         $zip = $request->input('zip');
         $zipcode = Entry::query()
