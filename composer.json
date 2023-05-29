@@ -10,7 +10,7 @@
     "type": "project",
     "require": {
         "php": "^8.2",
-        "algolia/algoliasearch-client-php": "^2.7",
+        "algolia/algoliasearch-client-php": "^3.0",
         "guzzlehttp/guzzle": "^7.2",
         "jonassiewertsen/statamic-jobs": "^1.3",
         "laravel/framework": "^10.12",
@@ -18,8 +18,8 @@
         "league/csv": "^9.6",
         "rias/statamic-data-import": "^1.1",
         "statamic/cms": "^4.0",
-        "transformstudios/events": "^4.2",
-        "transformstudios/review": "^3.8"
+        "transformstudios/events": "^5.0",
+        "transformstudios/review": "^4.0"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.8",
