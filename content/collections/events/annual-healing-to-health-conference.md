@@ -1,7 +1,7 @@
 ---
 id: 6025e65d-c5f2-4a16-bf99-17077ab1c731
 blueprint: event
-title: 'Worship and Prayer Experience'
+title: 'Annual Healing to Health Conference'
 all_day: false
 multi_day: false
 start_date: '2023-07-14'
@@ -37,5 +37,5 @@ description:
             type: bold
         text: 'https://solutionsofchange.org/'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1685738502
+updated_at: 1685738535
 ---
