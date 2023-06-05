@@ -42,14 +42,9 @@ return [
                 'test', 'video', 'video2', 'video3', 'video4', 'website', 'zip',
             ],
             'transformers' => [
-                // Return a value to store in the index.
-                'description' => function ($description) {
-                    return Markdown::parse((string) $description);
-                },
-                'insurance_accepted' => function ($text) {
-                    return Markdown::parse((string) $text);
-                },
                 'services' => function ($services) {
+                'description' => fn ($description) => Markdown::parse((string) $description),
+                'insurance_accepted' => fn ($text) => Markdown::parse((string) $text),
                     if (empty($services)) {
                         return [];
                     }
