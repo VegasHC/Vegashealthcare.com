@@ -4,6 +4,7 @@ blueprint: education
 title: 'Hospice Education'
 rows:
   -
+    id: eD4fuUXl
     content:
       -
         type: paragraph
@@ -21,6 +22,7 @@ rows:
     type: one_column_content
     enabled: true
   -
+    id: VqValza4
     content:
       -
         type: paragraph
@@ -36,6 +38,7 @@ rows:
     type: one_column_content
     enabled: true
   -
+    id: xViszc2V
     content:
       -
         type: heading
@@ -59,6 +62,7 @@ rows:
     type: one_column_content
     enabled: true
   -
+    id: AEAdnPAX
     video: 'https://www.youtube.com/watch?v=Mzo0OPg4Gxg'
     invert_text_colors: false
     text_alignment: left
@@ -68,6 +72,7 @@ rows:
     type: two_column_video_content
     enabled: true
   -
+    id: amZMTtHQ
     content:
       -
         type: heading
@@ -112,6 +117,7 @@ rows:
     type: one_column_content
     enabled: true
   -
+    id: rne7aK2R
     col_1:
       -
         type: heading
@@ -150,6 +156,7 @@ rows:
     type: two_column_content
     enabled: true
   -
+    id: z5aGHNBc
     content:
       -
         type: paragraph
@@ -167,6 +174,7 @@ rows:
     type: one_column_content
     enabled: true
   -
+    id: RTPeDwSK
     content:
       -
         type: heading
@@ -196,6 +204,7 @@ rows:
     type: one_column_content
     enabled: true
   -
+    id: oMbQUKVv
     video: 'https://www.youtube.com/watch?v=QTusP7Y40iI'
     invert_text_colors: false
     text_alignment: left
@@ -205,6 +214,7 @@ rows:
     type: two_column_video_content
     enabled: true
   -
+    id: KqwDIreY
     col_1:
       -
         type: heading
@@ -360,6 +370,7 @@ rows:
     type: two_column_content
     enabled: true
   -
+    id: JdVAVAxV
     video: 'https://www.youtube.com/watch?v=f6KyvCMghpE'
     content:
       -
@@ -432,6 +443,7 @@ rows:
     type: two_column_video_content
     enabled: true
   -
+    id: ZGZjEQ4k
     video: 'https://www.youtube.com/watch?v=ZKYPa7HIrLo'
     content:
       -
@@ -483,29 +495,16 @@ rows:
     type: two_column_video_content
     enabled: true
   -
-    content:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Contact us for questions!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '{{ partial src="forms.contact_us" }}'
-    invert_text_colors: false
-    text_alignment: center
-    background_size: cover
-    background_position: 'center center'
-    background_padding: py-8
-    type: one_column_content
+    id: lfeo99pl
+    form_heading: 'Contact us for questions!'
+    form:
+      - contact_us
+    template_field: forms/default
+    type: form
     enabled: true
+    form_handle: contact_us
+    form_template: forms/default
 parent: home
-updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1673570796
+updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
+updated_at: 1679187487
 ---
