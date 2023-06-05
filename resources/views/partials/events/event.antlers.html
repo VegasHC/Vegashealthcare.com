@@ -1,20 +1,19 @@
-<li class="flex flex-row flex-no-wrap my-8 border border-primary relative overflow-hidden">
+<li class="relative flex flex-row flex-no-wrap my-8 overflow-hidden border border-primary">
     {{ if registration_link }}
-    <a class="absolute -right-24 -top-24 w-48 h-48 bg-brand transform rotate-45 flex items-end p-2 justify-center text-white uppercase text-center underline" href="{{ registration_link }}" target="_blank" rel="noopener noreferrer">Register<br/>here</a>
+    <a class="absolute flex items-end justify-center w-48 h-48 p-2 text-center text-white underline uppercase transform rotate-45 -right-24 -top-24 bg-brand" href="{{ registration_link }}" target="_blank" rel="noopener noreferrer">Register<br/>here</a>
     {{ /if }}
-    <div class="bg-secondary flex items-center justify-center">
-        <div class="text-center text-white p-4 w-24 lg:w-32">
+    <div class="flex items-center justify-center bg-secondary">
+        <div class="w-24 p-4 text-center text-white lg:w-32">
             <span class="text-2xl font-bold">{{ start | iso_format("MMM") }}</span><br/>
             <span class="font-bold">{{ start | iso_format("Do") }}</span>
         </div>
     </div>
     <div class="flex flex-col flex-no-wrap py-4">
-        <div class="px-4 lg:px-8 py-16 lg:py-0 prose prose-sm lg:prose-xl max-w-none">
-            <h3>{{ title }}</h3>
+        <div class="px-4 py-16 prose-sm prose lg:px-8 lg:py-0 lg:prose-xl max-w-none">
             <h3 {{ if registration_link }}class="pr-8"{{ /if }}>{{ title }}</h3>
             {{ description }}
         </div>
-        <div class="h-1/4 pl-4 lg:pl-8 pt-8 pb-4 pr-4 text-sm flex flex-row items-center">
+        <div class="flex flex-row items-center pt-8 pb-4 pl-4 pr-4 text-sm h-1/4 lg:pl-8">
             {{ if start_time }}
                 <span class="mr-2 lg:text-lg"><strong>Starts:</strong> {{ start_time }}</span>
             {{ /if }}
@@ -22,13 +21,13 @@
                 <span class="mr-2 lg:text-lg"><strong>Ends:</strong> {{ end_time }}</span>
             {{ /if }}
             {{ if all_day }}
-                <span class="bg-primary rounded p-1 mr-2 font-bold text-xs text-white text-center">ALL DAY</span>
+                <span class="p-1 mr-2 text-xs font-bold text-center text-white rounded bg-primary">ALL DAY</span>
             {{ /if }}
             {{ if multi_day }}
-                <span class="bg-brand rounded p-1 mr-2 font-bold text-xs text-white text-center">MULTI DAY</span>
+                <span class="p-1 mr-2 text-xs font-bold text-center text-white rounded bg-brand">MULTI DAY</span>
             {{ /if }}
             {{ if recurrence }}
-                <span class="bg-heading rounded p-1 mr-2 font-bold text-xs text-white text-center">RECURRING</span>
+                <span class="p-1 mr-2 text-xs font-bold text-center text-white rounded bg-heading">RECURRING</span>
             {{ /if }}
         </div>
     </div>
