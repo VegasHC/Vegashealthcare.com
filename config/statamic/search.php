@@ -42,28 +42,19 @@ return [
                 'test', 'video', 'video2', 'video3', 'video4', 'website', 'zip',
             ],
             'transformers' => [
-                'services' => function ($services) {
                 'description' => fn ($description) => Markdown::parse((string) $description),
                 'insurance_accepted' => fn ($text) => Markdown::parse((string) $text),
+                'services' => function (array $services) {
                     if (empty($services)) {
                         return [];
                     }
 
-                    $newServices = [];
-                    foreach ($services as $key) {
-                        $service = Term::findBySlug($key, 'services');
-                        if ($service) {
-                            $newServices[] = $service->get('title');
-                        } else {
-                            var_dump($key);
-                        }
-                    }
+                    $titles = collect($services)
+                        ->map(fn (string $service) => Term::find('services::'.$service)->title)
+                        ->all();
 
-                    if (empty($newServices)) {
-                        $newServices = $services;
-                    }
+                    return ['services' => $titles];
 
-                    return ['services' => $newServices];
                 },
             ],
         ],
