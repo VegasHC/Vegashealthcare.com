@@ -18,11 +18,8 @@ class AddProviderTitle
 
     /**
      * Handle the event.
-     *
-     * @param  EntrySaving  $event
-     * @return void
      */
-    public function handle(EntrySaving $event)
+    public function handle(EntrySaving $event): void
     {
         return;
         $entry = $event->entry;
