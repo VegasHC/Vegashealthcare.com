@@ -44,7 +44,7 @@ return [
             'transformers' => [
                 'description' => fn ($description) => Markdown::parse((string) $description),
                 'insurance_accepted' => fn ($text) => Markdown::parse((string) $text),
-                'services' => function (array $services) {
+                'services' => function (?array $services = []) {
                     if (empty($services)) {
                         return [];
                     }
