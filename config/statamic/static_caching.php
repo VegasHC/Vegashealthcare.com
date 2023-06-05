@@ -53,8 +53,9 @@ return [
     */
 
     'exclude' => [
-        '/search/*',
         '/contact-us',
+        '/events',
+        '/search/*',
     ],
 
     /*

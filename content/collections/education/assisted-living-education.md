@@ -332,7 +332,7 @@ rows:
         content:
           -
             type: text
-            text: '{{ partial src="forms.contact_us" }}'
+            text: '{{ partial src="forms.default" }}'
     invert_text_colors: false
     text_alignment: center
     background_size: cover
