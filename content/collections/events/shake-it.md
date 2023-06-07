@@ -17,6 +17,15 @@ description:
         attrs:
           src: 'asset::assets::shake-it-up.jpg'
           alt: null
+      -
+        type: text
+        text: 'Address: 2000 N Rampart Blvd. LV NV 89128'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Phone: 702.804.6800'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1686172321
+updated_at: 1686175557
 ---
