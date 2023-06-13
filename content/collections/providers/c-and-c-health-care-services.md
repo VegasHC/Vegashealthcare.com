@@ -10,7 +10,7 @@ fax: 702-995-6509
 sponsored: false
 category: behavioral-health
 services:
-  - mental-health-and-addiction
+  - advanced-wound-care
 address: '1500 E Tropicana Ave #180'
 city: 'Las Vegas'
 state: NV
@@ -19,5 +19,5 @@ _geoloc:
   lat: 36.102146799179
   lng: -115.13267891534
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1682348184
+updated_at: 1686690414
 ---
