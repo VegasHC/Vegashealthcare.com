@@ -1,0 +1,50 @@
+action: revision
+date: 1686767343
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 2e3f954f-22b4-494b-9b6d-1c82e66df125
+  slug: durango-personal-care
+  published: false
+  date: null
+  data:
+    title: 'Durango Personal Care'
+    org_name: 'Durango Personal Care'
+    first_name: Scott
+    middle_name: null
+    last_name: Bakolar
+    suffix_name: null
+    phone: 702-514-0294
+    fax: 702-514-0256
+    website: 'https://www.durangopersonalcare.com/'
+    links: {  }
+    email: info@dps.vegas
+    image: providers/logonotext.jpg
+    description: |-
+      At Durango Personal Care, we believe in providing unique and personalized services to meet each of our clients needs. Our goal is to help them remain independent in their homes with the added support from our compassionate and caring caregivers also known as PCA’s (Personal Care Assistants).
+      Through our individualized services and supportive care programs, we improve quality of life: by uplifting their spirits and caring for their physical well being. We help maintain their dignity by assisting and supporting their activities of daily living, in a comfortable environment in which they reside with the atmosphere of familiarity, caring loved ones, treasured mementos and cherished memories.
+      We can assist with a wide range of Services, ranging from Companion Care & Home Helper, Alzheimer’s & Dementia Care, Respite Care and so much more. Reach out to us and we can go over our individualized services with you.
+    gallery:
+      - 348943921_2530565593766386_8703904210299417765_n.jpg
+      - 346476424_562584515925034_4053524862322595969_n.jpg
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: care-services
+    services:
+      - personal-care-agencies
+    promotion_level: '10'
+    address: '8431 W Fisher Ave'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89149'
+    _geoloc:
+      lat: 36.257402256565
+      lng: -115.27924997116
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
