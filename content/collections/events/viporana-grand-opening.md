@@ -15,6 +15,6 @@ description:
         attrs:
           src: 'asset::assets::grand-opening.jpg'
           alt: null
-updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1686954371
+updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
+updated_at: 1686954875
 ---

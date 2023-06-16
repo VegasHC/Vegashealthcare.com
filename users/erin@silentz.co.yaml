@@ -1,3 +1,12 @@
 super: true
 id: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
 password_hash: $2y$10$p59qLiCQHulxeL3h0..v7.M4TLJMiYp9Ro6MFF6skvA1H.59czmlq
+preferences:
+  collections:
+    events:
+      columns:
+        - title
+        - slug
+        - status
+        - start_date
+        - end_date
