@@ -13,8 +13,8 @@ description:
       -
         type: image
         attrs:
-          src: 'asset::assets::ribbon-cutting.png'
+          src: 'asset::assets::ribbon-cutting-flyer-1687969133.png'
           alt: null
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687879939
+updated_at: 1687969140
 ---
