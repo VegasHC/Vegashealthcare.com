@@ -5,9 +5,9 @@ title: 'Paid Family Caregivers'
 hero: paid-family-caregivers-image.png
 author: 'Nuclear Care Partners'
 snippet: 'Founded in 2011, Nuclear Care Partners proudly provides EEOICPA benefits guidance, advocacy, and no-cost in-home care to former atomic workers who have developed serious illnesses due to their workplace exposure to harmful radiation and toxic chemicals. Our founding belief holds that these brave men and women, who enhanced our nation’s security, deserve kind, compassionate, and the highest quality care available.'
-homepage: true
+homepage: false
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1684427255
+updated_at: 1688774633
 content:
   -
     type: paragraph
