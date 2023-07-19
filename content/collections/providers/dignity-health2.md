@@ -1,6 +1,5 @@
 ---
 id: 4fb1e5e5-c255-4d9a-b7e6-1cc3d256d8e1
-published: false
 blueprint: providers
 title: 'Dignity Health'
 org_name: 'Dignity Health'
@@ -17,5 +16,5 @@ _geoloc:
   lat: 36.280997050571
   lng: -115.28517613176
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1689807724
+updated_at: 1689807728
 ---
