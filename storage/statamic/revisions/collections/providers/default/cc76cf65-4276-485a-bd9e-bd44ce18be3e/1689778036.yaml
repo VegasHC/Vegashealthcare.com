@@ -1,0 +1,45 @@
+action: publish
+date: 1689778036
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: cc76cf65-4276-485a-bd9e-bd44ce18be3e
+  slug: senior-services-60bc3549b3c9c
+  published: true
+  date: null
+  data:
+    org_name: 'Kindred Subacute and Transitional Center'
+    phone: 702-784-4300
+    category: senior-services
+    services:
+      - ltc
+    address: '2250 E. Flamingo Rd.'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89119'
+    title: 'Kindred Subacute and Transitional Center'
+    _geoloc:
+      lat: 36.0715
+      lng: -115.189
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    promotion_level: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

@@ -1,0 +1,45 @@
+action: publish
+date: 1689778085
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 595fa7bd-7463-4c24-913e-18beab1101f6
+  slug: senior-services-60bc3549bb037
+  published: true
+  date: null
+  data:
+    org_name: 'Kindred Transitional Care and Rehabilitation'
+    phone: 702-470-1102
+    category: senior-services
+    services:
+      - ltc
+    address: '5650 South Rainbow Blvd.'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89119'
+    title: 'Kindred Transitional Care and Rehabilitation'
+    _geoloc:
+      lat: 36.1517
+      lng: -115.243
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    promotion_level: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
