@@ -1,0 +1,45 @@
+action: publish
+date: 1689795530
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 606d635f-87e5-4cb8-85e0-bf5eee828168
+  slug: senior-services-60bc37dd5cd53
+  published: true
+  date: null
+  data:
+    org_name: 'ATRIA SEVILLE'
+    address: '2000 N RAMPART'
+    city: 'LAS VEGAS'
+    zip: '89128'
+    state: NV
+    phone: 702-804-6800
+    category: senior-services
+    services:
+      - assisted-living
+    title: 'ATRIA SEVILLE'
+    _geoloc:
+      lat: 36.1973
+      lng: -115.285
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    promotion_level: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
