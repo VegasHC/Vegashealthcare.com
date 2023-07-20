@@ -1,0 +1,45 @@
+action: publish
+date: 1689890622
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 386cf872-b2b3-4b78-909b-d6b06ef875db
+  slug: skin-station
+  published: true
+  date: null
+  data:
+    title: 'Skin Station'
+    org_name: 'Skin Station'
+    first_name: Rose
+    middle_name: null
+    last_name: 'Jusayan NP'
+    suffix_name: null
+    phone: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    category: complementary-medicine
+    services:
+      - weight-loss-programs
+    promotion_level: null
+    address: '8550 W Charleston Blvd Suite 108'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89117'
+    _geoloc:
+      lat: 36.160162160752
+      lng: -115.27961265767
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
