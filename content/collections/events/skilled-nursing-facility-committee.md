@@ -16,5 +16,6 @@ description:
           src: 'asset::assets::snf-committee.png'
           alt: null
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1689369165
+updated_at: 1690506690
+registration_link: 'https://vegashealthcare.zohobackstage.com/SkilledNursingFacilityCommittee'
 ---
