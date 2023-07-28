@@ -21,7 +21,7 @@ last_name: Gonzales
 fax: 702-475-4003
 website: 'https://www.brightstarcare.com/las-vegas-w'
 email: Franchesca.Gonzales@BrightStarCare.com
-image: providers/logo.PNG
+image: providers/original-ce665bc6-78f6-4495-9c35-803b47974c56.jpeg
 description: |-
   BrightStar Care of Las Vegas is a high-quality Home Care & Home Health company which has served the Las Vegas valley for nearly 10 years.  We are proud to be accredited with the Joint Commission and a consistent recipient of the Enterprise Champion Award for Quality, the Employer of Choice award, and the Provider of Choice award.
 
@@ -35,5 +35,5 @@ description: |-
 sponsored: true
 promotion_level: '10'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1690327006
+updated_at: 1690561095
 ---
