@@ -342,11 +342,11 @@ rows:
     enabled: false
   -
     id: lj5x3w39
-    form_heading: 'Contact us for questions!'
+    form_heading: 'Do you have questions? Contact us to get more information'
     form_handle: contact_us
     form_template: forms/default
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687364342
+updated_at: 1690568587
 ---
