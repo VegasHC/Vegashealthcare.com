@@ -8,13 +8,12 @@ start_date: '2023-09-06'
 recurrence: false
 description:
   -
-    type: paragraph
-    content:
-      -
+    type: set
+    attrs:
+      id: lkofhccn
+      values:
         type: image
-        attrs:
-          src: 'asset::assets::ewq.jpg'
-          alt: null
-updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1690382668
+        image: ewq.jpg
+updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
+updated_at: 1690660293
 ---
