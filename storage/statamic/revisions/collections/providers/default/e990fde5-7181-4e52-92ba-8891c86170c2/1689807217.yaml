@@ -1,0 +1,45 @@
+action: publish
+date: 1689807217
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: e990fde5-7181-4e52-92ba-8891c86170c2
+  slug: hospitals-surgery-center-60bc37c871caa
+  published: true
+  date: null
+  data:
+    org_name: 'DIGNITY HEALTH-ST. ROSE DOMINICAN BLUE DIAMOND CAMPUS'
+    phone: 702-216-7305
+    category: hospitals-and-surgery-centers
+    services:
+      - all-hospitals
+    address: '4855 BLUE DIAMOND ROAD'
+    city: 'LAS VEGAS'
+    state: NV
+    zip: '89139'
+    title: 'DIGNITY HEALTH-ST. ROSE DOMINICAN BLUE DIAMOND CAMPUS'
+    _geoloc:
+      lat: 36.0436
+      lng: -115.18
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    promotion_level: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

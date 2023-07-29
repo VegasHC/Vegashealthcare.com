@@ -6,8 +6,16 @@ rows:
   -
     id: lgldcaqf
     type: upcoming_events
-    limit: 10
+    limit: 20
     enabled: true
-updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
-updated_at: 1681768164
+    show_more: false
+  -
+    id: lkmxvusi
+    form_heading: 'Contact us if you would like your event added'
+    form_handle: contact_us
+    form_template: forms/default
+    type: form
+    enabled: true
+updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
+updated_at: 1690570329
 ---

@@ -77,6 +77,7 @@ return [
     */
 
     'paths' => [
+        base_path('config'),
         base_path('content'),
         base_path('users'),
         resource_path('blueprints'),

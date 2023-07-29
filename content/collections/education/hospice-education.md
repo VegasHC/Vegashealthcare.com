@@ -499,11 +499,11 @@ rows:
     form_heading: 'Contact us for questions!'
     form:
       - contact_us
-    template_field: forms/contact_us
+    template_field: forms/default
     type: form
     enabled: true
     form_handle: contact_us
-    form_template: forms/contact_us
+    form_template: forms/default
 parent: home
 updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
 updated_at: 1679187487

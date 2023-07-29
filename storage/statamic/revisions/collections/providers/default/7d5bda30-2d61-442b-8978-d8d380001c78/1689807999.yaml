@@ -1,0 +1,45 @@
+action: revision
+date: 1689807999
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 7d5bda30-2d61-442b-8978-d8d380001c78
+  slug: dignity-health4
+  published: false
+  date: null
+  data:
+    title: 'Dignity Health'
+    org_name: 'Dignity Health'
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    phone: 877-200-9777
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    category: hospitals-and-surgery-centers
+    services:
+      - all-hospitals
+    promotion_level: null
+    address: '2110 E Flamingo Rd Suite 314'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89119'
+    _geoloc:
+      lat: 36.115756747832
+      lng: -115.12286197409
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

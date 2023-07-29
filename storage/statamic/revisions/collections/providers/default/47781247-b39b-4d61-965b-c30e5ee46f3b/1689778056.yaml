@@ -1,0 +1,45 @@
+action: publish
+date: 1689778056
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 47781247-b39b-4d61-965b-c30e5ee46f3b
+  slug: senior-services-60bc3549b7799
+  published: true
+  date: null
+  data:
+    org_name: 'Kindred Transitional (St. Rose Dominican)'
+    phone: 702-856-0633
+    category: senior-services
+    services:
+      - ltc
+    address: '102 East Lake Mead Pkwy.'
+    city: Henderson
+    state: NV
+    zip: '89015'
+    title: 'Kindred Transitional (St. Rose Dominican)'
+    _geoloc:
+      lng: -114.96787
+      lat: 36.030927
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    promotion_level: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
