@@ -10,13 +10,12 @@ end_time: '17:30'
 recurrence: false
 description:
   -
-    type: paragraph
-    content:
-      -
+    type: set
+    attrs:
+      id: lkoed040
+      values:
         type: image
-        attrs:
-          src: 'asset::assets::tinywow_cliff-shadows-open-house-flyer_consumer_27899457_1.jpg'
-          alt: null
-updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687969929
+        image: tinywow_cliff-shadows-open-house-flyer_consumer_27899457_1.jpg
+updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
+updated_at: 1690658429
 ---

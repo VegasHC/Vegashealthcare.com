@@ -8,14 +8,13 @@ start_date: '2023-08-10'
 recurrence: false
 description:
   -
-    type: paragraph
-    content:
-      -
+    type: set
+    attrs:
+      id: lkoff1yt
+      values:
         type: image
-        attrs:
-          src: 'asset::assets::snf-committee.png'
-          alt: null
-updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1690506690
+        image: snf-committee.png
+updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
+updated_at: 1690660185
 registration_link: 'https://vegashealthcare.zohobackstage.com/SkilledNursingFacilityCommittee'
 ---

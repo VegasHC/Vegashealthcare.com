@@ -8,13 +8,15 @@ start_date: '2023-10-07'
 recurrence: false
 description:
   -
+    type: set
+    attrs:
+      id: lkofit5s
+      values:
+        type: image
+        image: gala.jpg
+  -
     type: paragraph
     content:
-      -
-        type: image
-        attrs:
-          src: 'asset::assets::gala.jpg'
-          alt: null
       -
         type: text
         text: 'Order tickets or tables today! Call 725-244-4200'
@@ -48,6 +50,6 @@ description:
       -
         type: text
         text: administrator@foundationassistingseniors.org
-updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687189251
+updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
+updated_at: 1690660376
 ---

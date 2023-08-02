@@ -1,6 +1,6 @@
 <li class="relative flex flex-row flex-no-wrap my-8 overflow-hidden border border-primary">
     {{ if registration_link }}
-    <a class="absolute flex items-end justify-center w-48 h-48 p-2 text-center text-white underline uppercase transform rotate-45 -right-24 -top-24 bg-brand" href="{{ registration_link }}" target="_blank" rel="noopener noreferrer">Register<br/>here</a>
+        <a class="absolute flex items-end justify-center w-48 h-48 p-2 text-center text-white underline uppercase transform rotate-45 -right-24 -top-24 bg-brand" href="{{ registration_link }}" target="_blank" rel="noopener noreferrer">Register<br/>here</a>
     {{ /if }}
     <div class="flex items-center justify-center bg-secondary">
         <div class="w-24 p-4 text-center text-white lg:w-32">
@@ -12,6 +12,12 @@
         <div class="px-4 py-16 prose-sm prose lg:px-8 lg:py-0 lg:prose-xl max-w-none">
             <h3 {{ if registration_link }}class="pr-8"{{ /if }}>{{ title }}</h3>
             {{ description }}
+                {{ if type == 'text' }}
+                    {{ text }}
+                {{ elseif type == 'image' }}
+                    <img src="{{ glide:image height="900" }}">
+                {{ /if }}
+            {{ /description }}
         </div>
         <div class="flex flex-row items-center pt-8 pb-4 pl-4 pr-4 text-sm h-1/4 lg:pl-8">
             {{ if start_time }}

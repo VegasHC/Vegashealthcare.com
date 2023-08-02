@@ -8,14 +8,13 @@ start_date: '2023-08-17'
 recurrence: false
 description:
   -
-    type: paragraph
-    content:
-      -
+    type: set
+    attrs:
+      id: lkofgbee
+      values:
         type: image
-        attrs:
-          src: 'asset::assets::mental-health-committee-1690504065.png'
-          alt: null
+        image: mental-health-committee-1690504065.png
 registration_link: 'https://vegashealthcare.zohobackstage.com/MentalHealthCommittee'
-updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1690504074
+updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
+updated_at: 1690660244
 ---
