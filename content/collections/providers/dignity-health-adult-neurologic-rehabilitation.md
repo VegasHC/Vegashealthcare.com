@@ -12,9 +12,9 @@ address: '2850 W Horizon Ridge Pkwy Suite 320'
 city: Henderson
 state: NV
 zip: '89052'
-_geoloc: |-
+_geoloc:
   lat: 35.99972826949083
-    lng: -115.11189793176706
+  lng: -115.11189793176706
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
 updated_at: 1689809229
 ---
