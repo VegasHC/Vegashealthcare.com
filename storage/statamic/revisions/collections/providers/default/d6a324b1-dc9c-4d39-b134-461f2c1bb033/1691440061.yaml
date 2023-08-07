@@ -1,0 +1,46 @@
+action: publish
+date: 1691440061
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: d6a324b1-dc9c-4d39-b134-461f2c1bb033
+  slug: senior-services-60bc3774ee992
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    org_name: 'NUCLEAR CARE PARTNERS'
+    address: '2355 Red Rock St Suite 104'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89146'
+    phone: 702-551-1173
+    category: senior-services
+    services:
+      - home-health
+    title: 'NUCLEAR CARE PARTNERS'
+    _geoloc:
+      lat: 36.146344379577
+      lng: -115.2238769
+    first_name: Maritza
+    last_name: Ridgle
+    fax: 888-525-5115
+    website: null
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    sponsored: false
+    promotion_level: null
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
