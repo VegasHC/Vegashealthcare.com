@@ -119,29 +119,11 @@ rows:
     type: one_column_content
     enabled: true
   -
-    id: lefz6x19
-    content:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Contact us for questions!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '{{ partial src="forms.default" }}'
-    invert_text_colors: false
-    text_alignment: center
-    background_size: cover
-    background_position: 'center center'
-    background_padding: py-8
-    type: one_column_content
+    id: ll5gj8tm
+    form_handle: contact_us
+    form_template: forms/default
+    type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1677088507
+updated_at: 1691689987
 ---
