@@ -1,0 +1,45 @@
+action: publish
+date: 1692116008
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 1f04803a-4dae-478d-a66f-10c278508d2d
+  slug: hand-in-hand-senior-care-llc
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Hand in Hand Senior Care LLC'
+    org_name: 'Hand in Hand Senior Care LLC'
+    first_name: Sidney
+    last_name: Wilson
+    phone: 702-934-0000
+    website: null
+    email: null
+    image: null
+    description: null
+    insurance_accepted: null
+    sponsored: false
+    category: care-services
+    services:
+      - pca
+      - personal-care-agencies
+    promotion_level: null
+    middle_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    gallery: {  }
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address: null
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
