@@ -1,0 +1,43 @@
+action: revision
+date: 1693262885
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: f9295292-a451-44c6-b858-4f37226cf5d0
+  slug: e-admin
+  published: false
+  date: null
+  data:
+    title: E-Admin
+    org_name: E-Admin
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    phone: 702-827-8803
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    category: community-resources
+    services:
+      - administrative-medicine
+    promotion_level: null
+    address: null
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
