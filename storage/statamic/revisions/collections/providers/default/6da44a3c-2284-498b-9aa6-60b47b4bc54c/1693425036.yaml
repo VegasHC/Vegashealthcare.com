@@ -1,0 +1,43 @@
+action: revision
+date: 1693425036
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 6da44a3c-2284-498b-9aa6-60b47b4bc54c
+  slug: cannaglobe
+  published: false
+  date: null
+  data:
+    title: Cannaglobe
+    org_name: Cannaglobe
+    first_name: Terry
+    middle_name: null
+    last_name: Bruesehoff
+    suffix_name: null
+    phone: 808-476-2005
+    fax: null
+    website: 'https://www.cannaglobe.biz/terryb'
+    links: {  }
+    email: jandtllc3@gmail.com
+    image: null
+    description: 'We are changing the world by transforming lives with scared plants that put smiles on faces, happiness in hearts, laughter in love and health back in the home.'
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: complementary-medicine
+    services:
+      - virtual-dispensary
+    promotion_level: '10'
+    address: null
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
