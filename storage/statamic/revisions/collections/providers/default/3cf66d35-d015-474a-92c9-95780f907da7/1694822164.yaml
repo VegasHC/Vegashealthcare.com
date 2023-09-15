@@ -1,0 +1,44 @@
+action: publish
+date: 1694822164
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 3cf66d35-d015-474a-92c9-95780f907da7
+  slug: profusion-infusion
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Profusion Infusion'
+    org_name: 'Profusion Infusion'
+    first_name: Aisha
+    last_name: 'Payne RN'
+    phone: 702-955-3825
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: false
+    category: complementary-medicine
+    services:
+      - iv-hydration
+    promotion_level: null
+    middle_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address: null
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
