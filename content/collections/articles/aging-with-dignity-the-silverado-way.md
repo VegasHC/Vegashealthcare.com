@@ -2,12 +2,11 @@
 id: a95a609f-91d0-44ea-87f4-d23e608a5c13
 blueprint: articles
 title: 'Aging With Dignity The Silverado Way'
-hero: article-pic.jpg
 author: 'Irma Prettenhofer'
 snippet: 'Aging does not have to be boring and dull.  You do not have to be confined to a dark and lonely place. Come join us at Silverado and see how we are changing lives, one person at a time- in an environment where normalization and love conquer the fear and turn it into love…'
 homepage: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1674686726
+updated_at: 1695065032
 content:
   -
     type: paragraph
