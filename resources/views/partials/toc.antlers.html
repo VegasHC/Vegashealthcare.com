@@ -1,0 +1,17 @@
+<div class="lg:sticky lg:top-0 lg:pt-4 border p-4 lg:mr-8">
+    <div class="lg:text-3xl text-center lg:text-left text-primary font-bold">Table Of Contents</div>
+    <div class="py-4">
+        <ol class="list-decimal list-inside lg:space-y-2">
+            {{ toc content="{ content }" depth="3" }}
+            <li class="pt-2">
+                <a class="text-primary lg:text-xl underline" href="#{{ toc_id }}">{{ toc_title }}</a>
+                {{ if children }}
+                <ol class="lg:space-y-2 lg:py-2 pl-10 list-decimal">
+                    {{ *recursive children* }}
+                </ol>
+                {{ /if }}
+            </li>
+            {{ /toc }}
+        </ol>
+    </div>
+</div>
