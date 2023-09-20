@@ -1,6 +1,12 @@
 title: '1-Col Content Row'
 fields:
   -
+    handle: show_toc
+    field:
+      default: false
+      display: 'Show Table of Contents'
+      type: toggle
+  -
     handle: content
     field:
       always_show_set_button: false

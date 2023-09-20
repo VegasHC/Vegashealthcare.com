@@ -1,4 +1,4 @@
-<div class="w-full px-8 {{ background_padding ?? 'py-8' }}" 
+<div class="w-full px-8 {{ background_padding ?? 'py-8' }}"
     style="
         background-color: {{ background_color ?? 'transparent' }};
         {{ if background_image }}
@@ -10,8 +10,20 @@
         background-blend-mode: {{ background_blend_mode ?? 'normal' }};
     "
     >
-    
+    {{ if show_toc }}
+    <div class="flex flex-row flex-wrap lg:flex-no-wrap">
+        <div class="w-full lg:w-1/4 mb-8">
+        {{ partial:toc }}
+        </div>
+        <div class="w-full lg:w-3/4">
+            <div class="prose prose-xl {{ if invert_text_colors }}prose-invert {{ /if }}max-w-7xl">
+                {{ content | toc }}
+            </div>
+        </div>
+    </div>
+    {{ else }}
     <div class="prose prose-xl {{ if invert_text_colors }}prose-invert {{ /if }}max-w-7xl mx-auto">
         {{ content }}
     </div>
+    {{ /if }}
 </div>

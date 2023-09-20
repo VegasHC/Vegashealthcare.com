@@ -5,9 +5,9 @@ title: '5 Tips for Talking with Your Aging Parents about Senior Living'
 hero: untitled.png
 author: 'Oakmont of the Lakes Assisted Living & Memory Care'
 snippet: 'Your parents probably mean the world to you, and you are concerned about their future. Will they be able to successfully live alone even as they age? What will happen when they are no longer able to drive, no longer able to maintain the house, or remember to take their medication? Chances are that these and other concerns about their safety have led you to question whether or not it’s time to talk with your parents about senior living.'
-homepage: true
+homepage: false
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1669679977
+updated_at: 1693491353
 content:
   -
     type: paragraph
@@ -133,10 +133,10 @@ content:
             type: bold
         text: 'try asking them open-ended questions such as the following:'
   -
-    type: bullet_list
+    type: bulletList
     content:
       -
-        type: list_item
+        type: listItem
         content:
           -
             type: paragraph
@@ -145,7 +145,7 @@ content:
                 type: text
                 text: 'How is your health lately?'
       -
-        type: list_item
+        type: listItem
         content:
           -
             type: paragraph
@@ -154,7 +154,7 @@ content:
                 type: text
                 text: 'What kind of help do you foresee needing in the future?'
       -
-        type: list_item
+        type: listItem
         content:
           -
             type: paragraph
@@ -163,7 +163,7 @@ content:
                 type: text
                 text: 'What would be the ideal living situation as you get older?'
       -
-        type: list_item
+        type: listItem
         content:
           -
             type: paragraph
@@ -172,7 +172,7 @@ content:
                 type: text
                 text: 'How can I provide the best type of care for you?'
       -
-        type: list_item
+        type: listItem
         content:
           -
             type: paragraph
@@ -214,10 +214,10 @@ content:
         type: text
         text: 'To help keep an open mind, use empathy, listen to their concerns and wishes, and stress that this is a decision ultimately made by them. Your parents do not wish to lose their decision-making autonomy nor feel like their children are feeling sorry for them and will stop visiting. Use language such as the following:'
   -
-    type: bullet_list
+    type: bulletList
     content:
       -
-        type: list_item
+        type: listItem
         content:
           -
             type: paragraph
@@ -226,7 +226,7 @@ content:
                 type: text
                 text: 'The decision is yours. I want to help you consider all of your options.'
       -
-        type: list_item
+        type: listItem
         content:
           -
             type: paragraph
@@ -235,7 +235,7 @@ content:
                 type: text
                 text: 'I want you to be healthy for as long as possible so we can spend quality time together.'
       -
-        type: list_item
+        type: listItem
         content:
           -
             type: paragraph

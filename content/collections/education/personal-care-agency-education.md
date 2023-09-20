@@ -146,6 +146,15 @@ rows:
                   -
                     type: text
                     text: 'Respite care for family caregivers'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: "Many personal care agencies provide specialty training in areas such as Alzheimer’s & dementia, Parkinson’s, and End of Life care.\_"
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -283,5 +292,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687365428
+updated_at: 1693938690
 ---

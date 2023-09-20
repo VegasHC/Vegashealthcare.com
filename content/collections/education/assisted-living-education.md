@@ -309,6 +309,22 @@ rows:
           -
             type: text
             text: 'In conclusion, assisted living facilities provide a safe and secure environment for seniors who require assistance with daily activities but do not require the medical care provided in a nursing home. When choosing a facility, it is important to consider factors such as staffing levels, safety and security measures, cleanliness and maintenance, personalized care plans, and licensing and accreditation.'
+      -
+        type: paragraph
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://vegashealthcare.com/search/results?providers[query]=assisted%20living&providers[zip]=&providers[refinementList][services][0]=Assisted%20Living&providers[refinementList][services][1]=Assisted%20Living%20-%20Individual'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Click here to search for Assisted Living'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -348,5 +364,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1690568587
+updated_at: 1692130843
 ---

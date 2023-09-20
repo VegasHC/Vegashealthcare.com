@@ -4,9 +4,9 @@ blueprint: articles
 title: 'Security, Safety & Peace of Mind for Family Caregivers Caring for Nevada Test Site Retirees'
 hero: terry.png
 author: 'Nuclear Care Partners'
-homepage: true
+homepage: false
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1688774599
+updated_at: 1692199388
 content:
   -
     type: paragraph

@@ -357,6 +357,22 @@ rows:
           -
             type: text
             text: 'In conclusion primary care is an important aspect of healthcare that provides a wide range of medical services to patients. It is designed to promote good health, prevent illnesses, diagnose and treat medical conditions, and manage chronic diseases. By finding a primary care doctor, patients can establish a long-term relationship with a healthcare provider who will coordinate their medical care and ensure that their health needs are met.'
+      -
+        type: paragraph
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://vegashealthcare.com/search/results?providers[query]=&providers[zip]=&providers[refinementList][services][0]=Primary%20Care'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Click here to search for Primary Care'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -396,5 +412,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687365663
+updated_at: 1692130894
 ---
