@@ -20,8 +20,12 @@ last_name: Bowyer
 website: 'https://whitecoatconcierge.com/'
 email: info@whitecoatconcierge.com
 image: providers/tinywow_copy-of-t-logo-4000_35117824_1.jpg
-description: 'White Coat Concierge strives to develop trusted compassionate RELATIONSHIPS with patients. You will always see a trusted caring face or hear a concerned voice when you contact us. As a concierge practice, without traditional time constraints, all of your concerns will be heard and your needs and health goals understood. Our practice is a flexible mobile service that will come to your home, place of employment, or any other location you may find yourself needing medical care. We also offer mobile Urgent Care and 24/7 HIPAA compliant telemedicine to be ACCESSIBLE to both members and non-members. Patients can schedule their own individualized visit with an easy-to-use self-scheduling system. Appointments always start on time and are tailored to your needs. Being a patient has never been more CONVENIENT'
+description: |-
+  White Coat Concierge offers mobile primary care, urgent care and telemedicine for their patients. They also provide hormone replacement therapy for men and women, medical weight loss options, in-home blood draws and specimen collection and specialty IV infusions. They give same-day medication refills and provide patients their personal cell phone numbers for accessibility. 
+
+  [Click here to view video](https://drive.google.com/file/d/15Vyom4WlPUQLYcyRlfBnEl-zds0Ycukt/view)
+insurance_accepted: 'Aetna, United Healthcare, Anthem, Tricare, CHAMPVA, CIGNA, MultiPlan, Medicare, and Medicaid.'
 promotion_level: '10'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1695312178
+updated_at: 1695315167
 ---
