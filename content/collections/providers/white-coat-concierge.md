@@ -4,7 +4,7 @@ blueprint: providers
 title: 'White Coat Concierge'
 org_name: 'White Coat Concierge'
 phone: 702-992-4867
-sponsored: false
+sponsored: true
 category: doctors
 services:
   - mobile-physician
@@ -15,6 +15,13 @@ zip: '89052'
 _geoloc:
   lat: 35.987192227692
   lng: -115.13965272884
+first_name: Bernadette
+last_name: Bowyer
+website: 'https://whitecoatconcierge.com/'
+email: info@whitecoatconcierge.com
+image: providers/tinywow_copy-of-t-logo-4000_35117824_1.jpg
+description: 'White Coat Concierge strives to develop trusted compassionate RELATIONSHIPS with patients. You will always see a trusted caring face or hear a concerned voice when you contact us. As a concierge practice, without traditional time constraints, all of your concerns will be heard and your needs and health goals understood. Our practice is a flexible mobile service that will come to your home, place of employment, or any other location you may find yourself needing medical care. We also offer mobile Urgent Care and 24/7 HIPAA compliant telemedicine to be ACCESSIBLE to both members and non-members. Patients can schedule their own individualized visit with an easy-to-use self-scheduling system. Appointments always start on time and are tailored to your needs. Being a patient has never been more CONVENIENT'
+promotion_level: '10'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1667414210
+updated_at: 1695312178
 ---
