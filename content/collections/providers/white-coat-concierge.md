@@ -8,13 +8,6 @@ sponsored: true
 category: doctors
 services:
   - mobile-physician
-address: '3459 St. Rose Pkwy Ste #120-461'
-city: Henderson
-state: NV
-zip: '89052'
-_geoloc:
-  lat: 35.987192227692
-  lng: -115.13965272884
 first_name: Bernadette
 last_name: Bowyer
 website: 'https://whitecoatconcierge.com/'
@@ -27,5 +20,5 @@ description: |-
 insurance_accepted: 'Aetna, United Healthcare, Anthem, Tricare, CHAMPVA, CIGNA, MultiPlan, Medicare, and Medicaid.'
 promotion_level: '10'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1695315167
+updated_at: 1695358877
 ---
