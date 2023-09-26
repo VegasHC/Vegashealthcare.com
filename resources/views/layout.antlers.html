@@ -5,6 +5,11 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ title ?? site:name }}</title>
+        <meta property="og:url" content="{{ permalink }}" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="{{ title ?? site:name }}" />
+        <meta property="og:image" content="{{ site:permalink }}/logo.png" />
+
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/reset-min.css" integrity="sha256-t2ATOGCtAIZNnzER679jwcFcKYfLlw01gli6F6oszk8=" crossorigin="anonymous">
 
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZh2in60HwrDygFVQkVt8Lt2TqrnvcK4Q"></script>
