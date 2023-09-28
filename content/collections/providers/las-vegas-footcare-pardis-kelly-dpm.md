@@ -1,6 +1,5 @@
 ---
 id: e886b2f3-4c73-43e4-9618-74f9b1ae8875
-published: false
 blueprint: providers
 title: 'Las Vegas Footcare: Pardis Kelly, DPM'
 org_name: 'Las Vegas Footcare: Pardis Kelly, DPM'
@@ -17,5 +16,5 @@ _geoloc:
   lat: 36.121459789804
   lng: -115.30814705185
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1695932364
+updated_at: 1695932626
 ---
