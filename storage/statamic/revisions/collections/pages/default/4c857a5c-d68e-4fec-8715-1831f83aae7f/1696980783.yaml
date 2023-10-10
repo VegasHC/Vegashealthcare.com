@@ -1,5 +1,5 @@
-action: revision
-date: 1696979676
+action: publish
+date: 1696980783
 user: 87a74d1c-1760-42c5-afc1-1cc59be16098
 attributes:
   id: 4c857a5c-d68e-4fec-8715-1831f83aae7f
@@ -11,7 +11,7 @@ attributes:
     rows:
       -
         id: lnkxnrhl
-        video: 'https://youtu.be/RqfRwCaxlRo'
+        video: 'https://youtu.be/FzrqJB_f8yQ'
         show_toc: false
         invert_text_colors: false
         text_alignment: right
