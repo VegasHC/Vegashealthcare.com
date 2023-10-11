@@ -250,7 +250,7 @@ rows:
         content:
           -
             type: text
-            text: "\_Remember that your experience in Vegas Healthcare largely depends on how actively you participate and contribute to the community. By following these tips and being a valuable member, you can gain knowledge, make connections, and benefit from your involvement in the group. More importantly, you can work together with us in Bringing Community Back Into Healthcare. Welcome to VEGAS HEALTHCARE!"
+            text: 'Remember that your experience in Vegas Healthcare largely depends on how actively you participate and contribute to the community. By following these tips and being a valuable member, you can gain knowledge, make connections, and benefit from your involvement in the group. More importantly, you can work together with us in Bringing Community Back Into Healthcare. Welcome to VEGAS HEALTHCARE!'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -278,5 +278,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1696356533
+updated_at: 1697040605
 ---
