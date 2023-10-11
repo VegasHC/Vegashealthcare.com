@@ -5,7 +5,7 @@ title: 'Women and Leadership'
 rows:
   -
     id: lnkxnrhl
-    video: 'https://youtu.be/FzrqJB_f8yQ'
+    video: 'https://youtu.be/E0ikFxmVxNM'
     show_toc: false
     invert_text_colors: false
     text_alignment: center
@@ -30,21 +30,11 @@ rows:
               -
                 type: link
                 attrs:
-                  href: 'https://www.dropbox.com/scl/fo/00fx53e2nv5mcill08vzd/h?rlkey=7juga91l4jddm5x3x7h5wfysu&dl=0'
+                  href: 'https://azolinaphotography.pixieset.com/womeninleadership23/'
                   rel: null
-                  target: null
+                  target: _blank
                   title: null
-            text: 'https://www.dropbox.com/scl/fo/00fx53e2nv5mcill08vzd/h?rlkey=7juga91l4jddm5x3x7h5wfysu&dl=0'
-          -
-            type: hardBreak
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.dropbox.com/scl/fo/00fx53e2nv5mcill08vzd/h?rlkey=7juga91l4jddm5x3x7h5wfysu&dl=0'
-                  rel: null
-                  target: null
-                  title: null
+            text: Pictures
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1697040975
+updated_at: 1697042407
 ---
