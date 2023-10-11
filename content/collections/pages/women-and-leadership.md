@@ -8,12 +8,43 @@ rows:
     video: 'https://youtu.be/FzrqJB_f8yQ'
     show_toc: false
     invert_text_colors: false
-    text_alignment: right
+    text_alignment: center
     background_size: cover
-    background_position: 'top center'
+    background_position: 'center center'
     background_padding: py-8
     type: two_column_video_content
     enabled: true
+    content:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Here is the link to view all the photos: '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.dropbox.com/scl/fo/00fx53e2nv5mcill08vzd/h?rlkey=7juga91l4jddm5x3x7h5wfysu&dl=0'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'https://www.dropbox.com/scl/fo/00fx53e2nv5mcill08vzd/h?rlkey=7juga91l4jddm5x3x7h5wfysu&dl=0'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.dropbox.com/scl/fo/00fx53e2nv5mcill08vzd/h?rlkey=7juga91l4jddm5x3x7h5wfysu&dl=0'
+                  rel: null
+                  target: null
+                  title: null
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1696980783
+updated_at: 1697040975
 ---
