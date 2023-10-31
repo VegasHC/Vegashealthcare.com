@@ -1,0 +1,43 @@
+---
+id: 90e8ae5e-eade-4adf-b2d4-142b4032a140
+blueprint: providers
+title: 'The Vice Practice'
+org_name: 'The Vice Practice'
+first_name: Dr.Cristina
+last_name: 'Viceral,DNP,FNP-C'
+phone: 725-724-2005
+fax: 877-418-8013
+website: 'https://www.thevicepractice.com/'
+email: cristina@thevicepractice.com
+image: providers/img_3991.jpeg
+description: |-
+  At The Vice Practice, we’re committed to providing you with the most exceptional care in a compassionate and friendly atmosphere. With many years of experience, we achieved a well-
+  deserved reputation as the best Medical Clinic in the area and beyond.
+  Since the very beginning, we have had the philosophy that our patients come first, insurance issues come second. No matter why you’re visiting us, we provide comprehensive and excellent care. Find out more about our providers and let us take care of you.
+
+  The Vice Practice has a team of exceptional healthcare providers and staff to render
+  patients with the best healthcare possible. The Vice Practice’s team is specially trained
+  in internal medicine and primary care for the senior population, women, and the
+  LGBTQIA+ community. Our team can help diagnose and treat various medical
+  conditions for all ages. 
+
+  The Vice Practice LGBTQIA+ health care services include routine medical exams, hormone therapy, mental health counseling, sexual health screenings, and referrals to specialized care. The clinic's providers are trained in LGBTQIA+ health care and strive to create a safe, non-judgmental, and inclusive environment for patients. Additionally, the center offers support groups, educational resources, and advocacy services to empower LGBTQIA+ individuals to make informed decisions about their health and well-being.
+   
+  One of the core values of The Vice Practice is promoting equity and eliminating health disparities. The clinic recognizes that LGBTQIA+ individuals often face unique health challenges and barriers to care, such as discrimination, stigma, and lack of access to affirming providers. As such, the center strives to provide culturally competent care that addresses the specific needs of LGBTQIA+ patients and ensures they receive high-quality health care that is free from discrimination or bias.
+
+  The Vice Practice is a trusted and inclusive provider of LGBTQIA+ health care services. The clinic's commitment to promoting health equity and eliminating health disparities for LGBTQIA+ individuals ensures that all patients receive comprehensive, compassionate, and culturally competent care that addresses their unique needs.
+sponsored: true
+category: doctors
+services:
+  - family-practice
+promotion_level: '10'
+address: '2480 E. Tompkins Avenue'
+city: 'Las Vegas'
+state: NV
+zip: '89121'
+_geoloc:
+  lat: 36.104300705698
+  lng: -115.11730968651
+updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
+updated_at: 1698789335
+---
