@@ -18,7 +18,6 @@ last_name: Hirciag
 fax: 702-620-5844
 services:
   - residential-care-facility
-promotion_level: '10'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1699567234
+updated_at: 1700081922
 ---
