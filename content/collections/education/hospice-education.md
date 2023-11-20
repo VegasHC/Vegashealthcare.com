@@ -21,6 +21,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: VqValza4
     content:
@@ -37,6 +38,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: xViszc2V
     content:
@@ -61,6 +63,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: AEAdnPAX
     video: 'https://www.youtube.com/watch?v=Mzo0OPg4Gxg'
@@ -71,6 +74,7 @@ rows:
     background_padding: py-8
     type: two_column_video_content
     enabled: true
+    show_toc: false
   -
     id: amZMTtHQ
     content:
@@ -116,6 +120,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: rne7aK2R
     col_1:
@@ -173,6 +178,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: RTPeDwSK
     content:
@@ -203,6 +209,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: oMbQUKVv
     video: 'https://www.youtube.com/watch?v=QTusP7Y40iI'
@@ -213,6 +220,7 @@ rows:
     background_padding: py-8
     type: two_column_video_content
     enabled: true
+    show_toc: false
   -
     id: KqwDIreY
     col_1:
@@ -442,6 +450,7 @@ rows:
     background_padding: py-8
     type: two_column_video_content
     enabled: true
+    show_toc: false
   -
     id: ZGZjEQ4k
     video: 'https://www.youtube.com/watch?v=ZKYPa7HIrLo'
@@ -494,6 +503,7 @@ rows:
     background_padding: py-8
     type: two_column_video_content
     enabled: true
+    show_toc: false
   -
     id: lfeo99pl
     form_heading: 'Contact us for questions!'
@@ -501,10 +511,49 @@ rows:
       - contact_us
     template_field: forms/default
     type: form
-    enabled: true
+    enabled: false
     form_handle: contact_us
     form_template: forms/default
+  -
+    id: lp7c1892
+    col_1:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://vegashealthcare.com/search/results?providers[query]=hospice&providers[zip]='
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Search for Hospice'
+    col_2:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://vegashealthcare.com/contact-us'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Contact Us'
+    invert_text_colors: false
+    text_alignment: left
+    background_size: cover
+    background_position: 'center center'
+    background_padding: py-8
+    type: two_column_content
+    enabled: true
 parent: home
-updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
-updated_at: 1679187487
+updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
+updated_at: 1700510584
 ---
