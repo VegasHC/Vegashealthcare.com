@@ -1,7 +1,7 @@
 ---
 id: f95d8ac5-04b1-4457-b61c-484d3a0060bc
 blueprint: education
-title: 'Mental Health Education'
+title: 'Mental Health'
 rows:
   -
     id: lfr428u4
@@ -19,6 +19,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfu8kbk9
     content:
@@ -43,6 +44,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfu8kvgc
     content:
@@ -67,6 +69,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfu8mlxg
     content:
@@ -91,6 +94,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfu8o0wq
     content:
@@ -115,6 +119,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfu8oy2v
     content:
@@ -137,6 +142,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhp92y1p
     content:
@@ -161,6 +167,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5xrjb8
     form_heading: 'Contact us for questions!'
@@ -169,5 +176,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687365368
+updated_at: 1701114352
 ---

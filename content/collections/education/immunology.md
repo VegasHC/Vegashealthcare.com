@@ -1,7 +1,7 @@
 ---
 id: fc730e39-d5cf-40ae-8550-b81e55a6217a
 blueprint: education
-title: 'Immunology Education'
+title: Immunology
 rows:
   -
     id: liai1vka
@@ -27,6 +27,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: liai2kj1
     content:
@@ -105,6 +106,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: liai46sq
     content:
@@ -183,6 +185,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: liai54k7
     content:
@@ -261,6 +264,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: liai68ls
     content:
@@ -300,6 +304,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: liai6l09
     content:
@@ -324,6 +329,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5xnz8t
     form_heading: 'Contact us for questions!'
@@ -332,5 +338,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687365216
+updated_at: 1701114321
 ---

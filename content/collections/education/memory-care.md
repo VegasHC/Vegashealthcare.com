@@ -1,7 +1,7 @@
 ---
 id: b5ccc2cd-2bd8-4ef0-86ae-e11f0301fbe0
 blueprint: education
-title: 'Memory Care Education'
+title: 'Memory Care'
 rows:
   -
     id: lfr2ljbe
@@ -27,6 +27,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhp9f35m
     content:
@@ -51,6 +52,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhp9fjsk
     content:
@@ -81,6 +83,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhp9g92y
     content:
@@ -111,6 +114,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhp9hxgn
     content:
@@ -177,6 +181,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhp9jcbl
     content:
@@ -257,6 +262,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhp9ldwu
     content:
@@ -299,6 +305,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhp9mktf
     content:
@@ -323,6 +330,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5xpn0y
     form_heading: 'Contact us for questions!'
@@ -331,5 +339,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687365290
+updated_at: 1701114341
 ---

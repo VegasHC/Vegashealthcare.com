@@ -1,7 +1,7 @@
 ---
 id: 88f35885-55d4-431e-b6c0-5f720c1d26bf
 blueprint: education
-title: 'Infusion Education'
+title: Infusion
 rows:
   -
     id: le36anhs
@@ -171,6 +171,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: le36bpii
     content:
@@ -189,6 +190,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: le36drwl
     content:
@@ -231,6 +233,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: le36c4um
     content:
@@ -315,6 +318,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: le36ezht
     content:
@@ -339,6 +343,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: le36f5nm
     col_1:
@@ -462,6 +467,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: le36gws9
     content:
@@ -486,6 +492,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5xoyl4
     form_heading: 'Contact us for questions!'
@@ -494,5 +501,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687365245
+updated_at: 1701114331
 ---
