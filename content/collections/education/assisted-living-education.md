@@ -1,7 +1,7 @@
 ---
 id: f3a21265-ac5a-4d51-a5d9-a4a39fb325b4
 blueprint: education
-title: 'Assisted Living Education'
+title: 'Assisted Living'
 rows:
   -
     id: lfh0ex02
@@ -359,6 +359,14 @@ rows:
         type: paragraph
         content:
           -
+            type: image
+            attrs:
+              src: 'asset::assets::3447545.png'
+              alt: null
+      -
+        type: paragraph
+        content:
+          -
             type: text
             marks:
               -
@@ -368,7 +376,7 @@ rows:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Contact Us'
+            text: 'Still have questions, contact us!'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -377,5 +385,5 @@ rows:
     type: two_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1701111879
+updated_at: 1701113258
 ---
