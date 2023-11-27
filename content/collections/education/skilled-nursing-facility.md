@@ -1,7 +1,7 @@
 ---
 id: c503a661-10a4-4ce6-94d2-38422f4586de
 blueprint: education
-title: 'Skilled Nursing Facility Education'
+title: 'Skilled Nursing Facility'
 rows:
   -
     id: le375pya
@@ -27,6 +27,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: le3765ui
     content:
@@ -165,6 +166,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: le37f4xu
     content:
@@ -318,6 +320,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: le37bbbz
     content:
@@ -443,6 +446,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: le37k8ty
     content:
@@ -459,6 +463,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: le37p982
     content:
@@ -483,6 +488,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5xusqt
     form_heading: 'Contact us for questions!'
@@ -491,5 +497,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687365522
+updated_at: 1701114373
 ---

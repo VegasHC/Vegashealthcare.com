@@ -1,7 +1,7 @@
 ---
 id: 386037f3-9420-43c3-b7b4-1f8293f0cd56
 blueprint: education
-title: 'Chiropractor Education'
+title: Chiropractor
 rows:
   -
     id: lmr6f7cv
@@ -19,6 +19,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lmr6fex2
     content:
@@ -43,6 +44,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lmr6fvdi
     content:
@@ -109,6 +111,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lmr6kb75
     content:
@@ -175,6 +178,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lmr6ocbr
     content:
@@ -199,6 +203,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lmr6swpn
     col_1:
@@ -346,6 +351,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lmr72huq
     content:
@@ -440,6 +446,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lmr73vnf
     content:
@@ -523,6 +530,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lmr74lh7
     content:
@@ -545,6 +553,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lmr74tp3
     form_handle: contact_us
@@ -552,5 +561,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1695181234
+updated_at: 1701114453
 ---

@@ -1,7 +1,7 @@
 ---
 id: 41c9888a-2d62-4867-a9e2-3d72a2aa64f8
 blueprint: education
-title: 'Insurance Education'
+title: Insurance
 rows:
   -
     id: llwur5dy
@@ -19,6 +19,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwurbgt
     content:
@@ -74,6 +75,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwurysi
     content:
@@ -163,6 +165,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwusrnn
     content:
@@ -235,6 +238,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwutfm7
     content:
@@ -372,6 +376,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwutr4o
     content:
@@ -388,6 +393,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwutymz
     form_handle: contact_us
@@ -395,5 +401,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1693346586
+updated_at: 1701114423
 ---

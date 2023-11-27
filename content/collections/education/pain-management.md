@@ -1,7 +1,7 @@
 ---
 id: 2ddefed1-1ec2-4a53-b298-e4352de0b68e
 blueprint: education
-title: 'Pain Management Education'
+title: 'Pain Management'
 rows:
   -
     id: lfr4jenh
@@ -19,6 +19,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfr4mgdd
     content:
@@ -43,6 +44,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfr4ki5c
     col_1:
@@ -189,6 +191,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhp93dws
     content:
@@ -213,6 +216,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5xsaqh
     form_heading: 'Contact us for questions!'
@@ -221,5 +225,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687365400
+updated_at: 1701114362
 ---

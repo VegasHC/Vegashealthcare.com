@@ -1,7 +1,7 @@
 ---
 id: d578ab89-623b-491c-b370-a1e6f05f434d
 blueprint: education
-title: 'Medical Billing Education'
+title: 'Medical Billing'
 rows:
   -
     id: llpmo8u2
@@ -19,6 +19,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llpmoe4g
     content:
@@ -152,6 +153,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llpmpb5h
     content:
@@ -247,6 +249,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llpmr33e
     content:
@@ -274,6 +277,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llpmwumw
     col_1:
@@ -431,6 +435,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llpmxv7l
     content:
@@ -447,6 +452,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llpmy5sy
     form_handle: contact_us
@@ -454,5 +460,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1692910122
+updated_at: 1701114392
 ---

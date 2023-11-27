@@ -1,7 +1,7 @@
 ---
 id: 835dc478-8ca2-4f28-b567-7963abf3e953
 blueprint: education
-title: 'Woundcare Education'
+title: Woundcare
 rows:
   -
     id: llwuyi1v
@@ -30,6 +30,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwuypen
     content:
@@ -93,6 +94,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwuz230
     content:
@@ -168,6 +170,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwuzjxc
     content:
@@ -267,6 +270,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwuztx5
     content:
@@ -342,6 +346,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwv0fz8
     content:
@@ -422,6 +427,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llwv0rhc
     form_handle: contact_us
@@ -429,5 +435,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1693346904
+updated_at: 1701114432
 ---

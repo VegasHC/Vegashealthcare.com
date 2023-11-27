@@ -1,7 +1,7 @@
 ---
 id: 3ae85d1b-9c3a-4ee5-b3d4-af018f7afedd
 blueprint: education
-title: 'General Surgery Education'
+title: 'General Surgery'
 rows:
   -
     id: llvcfzwi
@@ -19,6 +19,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llvcg1xf
     content:
@@ -105,6 +106,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llvcgj9b
     content:
@@ -191,6 +193,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llvch2ca
     content:
@@ -286,6 +289,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llvci01f
     content:
@@ -364,6 +368,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llvcidat
     content:
@@ -380,6 +385,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: llvcilqb
     form_handle: contact_us
@@ -387,5 +393,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1693255356
+updated_at: 1701114414
 ---

@@ -1,7 +1,7 @@
 ---
 id: 8d3d4956-251d-4243-b84e-9cf8bada021f
 blueprint: education
-title: 'Personal Care Agency Education'
+title: 'Personal Care Agency'
 rows:
   -
     id: lfh0qhnj
@@ -61,6 +61,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh0s38p
     content:
@@ -162,6 +163,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh0sjrm
     content:
@@ -260,6 +262,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh0t94n
     content:
@@ -284,6 +287,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5xstzx
     form_heading: 'Contact us for questions!'
@@ -292,5 +296,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1693938690
+updated_at: 1701114439
 ---

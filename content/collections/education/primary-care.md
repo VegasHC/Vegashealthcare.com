@@ -1,7 +1,7 @@
 ---
 id: d57b95da-4742-4bb7-97b7-dc3757db154f
 blueprint: education
-title: 'Primary Care Education'
+title: 'Primary Care'
 rows:
   -
     id: lfh1mfly
@@ -33,6 +33,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh1my91
     content:
@@ -93,6 +94,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh1o5bd
     content:
@@ -117,6 +119,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh1rw73
     content:
@@ -219,6 +222,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh1nh2e
     content:
@@ -293,6 +297,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh1tx0g
     content:
@@ -380,6 +385,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh1v7rc
     content:
@@ -404,6 +410,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5xxvcm
     form_heading: 'Contact us for questions!'
@@ -412,5 +419,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1692130894
+updated_at: 1701114383
 ---
