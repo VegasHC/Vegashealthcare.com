@@ -1,0 +1,19 @@
+action: publish
+date: 1701114156
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: d23be4ef-03ae-4f84-8e3b-cbb9a98f9a97
+  slug: healthcare-guide
+  published: true
+  date: null
+  data:
+    blueprint: pages
+    title: 'Healthcare Guide'
+    rows:
+      -
+        id: lgb6vaaz
+        collection: education
+        type: entries
+        enabled: true
+    review: null
+    template: null
