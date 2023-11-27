@@ -1,7 +1,7 @@
 ---
 id: 2c7afb70-e0c9-4bbe-8712-ea1cec6e69e3
 blueprint: education
-title: 'Gynecology Education'
+title: Gynecology
 rows:
   -
     id: lglcsrzo
@@ -27,6 +27,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lglct31c
     content:
@@ -51,6 +52,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lglctc26
     content:
@@ -116,6 +118,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lglctph3
     content:
@@ -184,6 +187,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lglcupyu
     content:
@@ -202,6 +206,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhtc2e7y
     content:
@@ -226,6 +231,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5xm85k
     form_heading: 'Contact us for questions!'
@@ -234,5 +240,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687365118
+updated_at: 1701114292
 ---
