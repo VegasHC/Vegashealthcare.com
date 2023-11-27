@@ -1,7 +1,7 @@
 ---
 id: 9c31244c-e7d7-4a09-abcb-0b5e3f19ec3a
 blueprint: education
-title: 'Home Health Education'
+title: 'Home Health'
 rows:
   -
     id: lepv9loi
@@ -27,6 +27,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lepva44x
     content:
@@ -69,6 +70,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lepvd19v
     content:
@@ -87,6 +89,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lepveibl
     content:
@@ -168,6 +171,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lepvj45i
     content:
@@ -184,6 +188,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lepvjei1
     content:
@@ -208,6 +213,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5xmuvc
     form_heading: 'Contact us for questions!'
@@ -216,5 +222,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687365152
+updated_at: 1701114303
 ---
