@@ -1,7 +1,7 @@
 ---
 id: c1ef50e9-38ba-4e01-84d4-5c92fc1252dc
 blueprint: education
-title: 'Endocrinology Education'
+title: Endocrinology
 rows:
   -
     id: lh536f3u
@@ -27,6 +27,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lh536wax
     content:
@@ -75,6 +76,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lh537cd5
     content:
@@ -99,6 +101,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lh537wj1
     col_1:
@@ -266,6 +269,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lh539y85
     content:
@@ -338,6 +342,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lh53cgnd
     content:
@@ -354,6 +359,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhtc17nj
     content:
@@ -378,6 +384,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5x9lmj
     form_heading: 'Contact us for questions!'
@@ -386,5 +393,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687364529
+updated_at: 1701114260
 ---

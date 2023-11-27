@@ -1,7 +1,7 @@
 ---
 id: 2dd4f1e3-8b35-4bf9-ae21-2c701f294f0d
 blueprint: education
-title: 'Cardiology Education'
+title: Cardiology
 rows:
   -
     id: lgldlw2q
@@ -27,6 +27,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lgldmf22
     content:
@@ -69,6 +70,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lgldmr6o
     content:
@@ -143,6 +145,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lgldnane
     content:
@@ -173,6 +176,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lgldnk8u
     content:
@@ -215,6 +219,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lgldnvjm
     content:
@@ -251,6 +256,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhtbzxdt
     content:
@@ -275,6 +281,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj50fiqd
     form_heading: 'Contact us for questions!'
@@ -282,6 +289,6 @@ rows:
     form_template: forms/default
     type: form
     enabled: true
-updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
-updated_at: 1687309377
+updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
+updated_at: 1701114239
 ---

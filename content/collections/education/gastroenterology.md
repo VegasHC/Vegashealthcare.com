@@ -1,7 +1,7 @@
 ---
 id: 7ec25b74-80b8-47d9-a05c-95ddac492663
 blueprint: education
-title: 'Gastroenterology Education'
+title: Gastroenterology
 rows:
   -
     id: liak03jn
@@ -19,6 +19,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: liak0bry
     content:
@@ -43,6 +44,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: liak247x
     col_1:
@@ -204,6 +206,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: liak4o4m
     content:
@@ -232,6 +235,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: liak5jy1
     content:
@@ -256,6 +260,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5xk1zv
     form_heading: 'Contact us for questions!'
@@ -264,5 +269,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687365019
+updated_at: 1701114268
 ---

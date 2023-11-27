@@ -1,7 +1,7 @@
 ---
 id: 88313a9e-4e97-4d23-84e0-521a29303e9a
 blueprint: education
-title: 'Hospice Education'
+title: Hospice
 rows:
   -
     id: eD4fuUXl
@@ -555,5 +555,5 @@ rows:
     enabled: true
 parent: home
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1700510584
+updated_at: 1701114229
 ---

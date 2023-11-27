@@ -1,7 +1,7 @@
 ---
 id: 694da3d1-5648-403d-ae70-fdb92f36af26
 blueprint: education
-title: 'Dermatology Education'
+title: Dermatology
 rows:
   -
     id: lglceb32
@@ -27,6 +27,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lglcelqr
     content:
@@ -57,6 +58,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lglcewqm
     content:
@@ -144,6 +146,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lglcfi9w
     content:
@@ -248,6 +251,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lglcgxzj
     content:
@@ -419,6 +423,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lglcjfle
     content:
@@ -561,6 +566,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lhtc0txy
     content:
@@ -585,6 +591,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: false
+    show_toc: false
   -
     id: lj5x6tlb
     form_heading: 'Contact us for questions!'
@@ -593,5 +600,5 @@ rows:
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1687364410
+updated_at: 1701114248
 ---
