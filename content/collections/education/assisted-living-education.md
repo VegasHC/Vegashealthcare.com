@@ -27,6 +27,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh0ffd7
     content:
@@ -126,6 +127,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh0gab6
     content:
@@ -216,6 +218,7 @@ rows:
     background_padding: py-8
     type: one_column_content
     enabled: true
+    show_toc: false
   -
     id: lfh0htsz
     content:
@@ -309,8 +312,32 @@ rows:
           -
             type: text
             text: 'In conclusion, assisted living facilities provide a safe and secure environment for seniors who require assistance with daily activities but do not require the medical care provided in a nursing home. When choosing a facility, it is important to consider factors such as staffing levels, safety and security measures, cleanliness and maintenance, personalized care plans, and licensing and accreditation.'
+    invert_text_colors: false
+    text_alignment: left
+    background_size: cover
+    background_position: 'center center'
+    background_padding: py-8
+    type: one_column_content
+    enabled: true
+    show_toc: false
+  -
+    id: lj5x3w39
+    form_heading: 'Do you have questions? Contact us to get more information'
+    form_handle: contact_us
+    form_template: forms/default
+    type: form
+    enabled: false
+  -
+    id: lph9vkq5
+    col_1:
       -
         type: paragraph
+        content:
+          -
+            type: image
+            attrs:
+              src: 'asset::assets::10905219-1701111837.png'
+              alt: null
       -
         type: paragraph
         content:
@@ -325,44 +352,30 @@ rows:
                   target: _blank
                   title: null
             text: 'Click here to search for Assisted Living'
-    invert_text_colors: false
-    text_alignment: left
-    background_size: cover
-    background_position: 'center center'
-    background_padding: py-8
-    type: one_column_content
-    enabled: true
-  -
-    id: lfh0kptd
-    content:
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Contact us for questions!'
+        type: paragraph
+    col_2:
       -
         type: paragraph
         content:
           -
             type: text
-            text: '{{ partial src="forms.default" }}'
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://vegashealthcare.com/contact-us'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Contact Us'
     invert_text_colors: false
     text_alignment: center
     background_size: cover
     background_position: 'center center'
     background_padding: py-8
-    type: one_column_content
-    enabled: false
-  -
-    id: lj5x3w39
-    form_heading: 'Do you have questions? Contact us to get more information'
-    form_handle: contact_us
-    form_template: forms/default
-    type: form
+    type: two_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1692130843
+updated_at: 1701111850
 ---
