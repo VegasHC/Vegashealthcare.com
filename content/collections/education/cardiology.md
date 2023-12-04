@@ -258,37 +258,54 @@ rows:
     enabled: true
     show_toc: false
   -
-    id: lhtbzxdt
-    content:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Contact us for questions!'
+    id: lpraduzs
+    col_1:
       -
         type: paragraph
         content:
           -
+            type: image
+            attrs:
+              src: 'asset::assets::10905219-1701111837.png'
+              alt: null
+          -
             type: text
-            text: '{{ partial src="forms.default" }}'
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://vegashealthcare.com/search/results?providers%5Bquery%5D=cardiology&providers%5BrefinementList%5D%5Bservices%5D%5B0%5D=Cardiology'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Click here to search for Cardiology'
+    col_2:
+      -
+        type: paragraph
+        content:
+          -
+            type: image
+            attrs:
+              src: 'asset::assets::3447545.png'
+              alt: null
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://vegashealthcare.com/contact-us'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Still have questions, contact us!'
     invert_text_colors: false
-    text_alignment: center
+    text_alignment: left
     background_size: cover
     background_position: 'center center'
     background_padding: py-8
-    type: one_column_content
-    enabled: false
-    show_toc: false
-  -
-    id: lj50fiqd
-    form_heading: 'Contact us for questions!'
-    form_handle: contact_us
-    form_template: forms/default
-    type: form
+    type: two_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1701114239
+updated_at: 1701717542
 ---
