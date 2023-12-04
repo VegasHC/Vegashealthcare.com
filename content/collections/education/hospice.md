@@ -521,6 +521,11 @@ rows:
         type: paragraph
         content:
           -
+            type: image
+            attrs:
+              src: 'asset::assets::10905219-1701111837.png'
+              alt: null
+          -
             type: text
             marks:
               -
@@ -530,11 +535,16 @@ rows:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Search for Hospice'
+            text: 'Click here to search for Hospice'
     col_2:
       -
         type: paragraph
         content:
+          -
+            type: image
+            attrs:
+              src: 'asset::assets::3447545.png'
+              alt: null
           -
             type: text
             marks:
@@ -545,7 +555,7 @@ rows:
                   rel: null
                   target: _blank
                   title: null
-            text: 'Contact Us'
+            text: 'Still have questions, contact us!'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -555,5 +565,5 @@ rows:
     enabled: true
 parent: home
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1701114229
+updated_at: 1701716653
 ---
