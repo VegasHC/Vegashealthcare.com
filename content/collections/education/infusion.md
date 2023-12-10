@@ -13,19 +13,22 @@ rows:
         content:
           -
             type: text
-            text: 'What is infusion therapy?'
+            marks:
+              -
+                type: bold
+            text: 'Infusion Therapy in Las Vegas: A Vital Healthcare Option'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Infusion therapy — also known as IV therapy — involves administering medications intravenously. This is done by injecting a needle directly into the patient’s arm. It allows for much more efficient treatment of chronic illnesses since it delivers medicine, antibiotics, and/or hydration directly into the bloodstream. As a result, there’s a higher absorption rate and you can obtain relief faster.'
+            text: 'Infusion therapy, widely known as IV therapy, plays an integral role in the healthcare landscape of Las Vegas. This medical treatment involves administering medications directly into the bloodstream through an intravenous route, making it a highly efficient method for managing various chronic illnesses. In Las Vegas, where healthcare services cater to a diverse population, IV therapy stands out for its ability to deliver medicines, antibiotics, or hydration solutions quickly and effectively.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'IV therapy is used to treat a long list of chronic conditions, including but not limited to:'
+            text: 'In the bustling city of Las Vegas, IV therapy is increasingly recognized for its utility in treating a range of conditions, such as:'
       -
         type: bulletList
         content:
@@ -55,24 +58,6 @@ rows:
                 content:
                   -
                     type: text
-                    text: 'Psoriatic arthritis'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Gout
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
                     text: Psoriasis
           -
             type: listItem
@@ -91,52 +76,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: Dermatomyositis
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Ankylosing spondylitis'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
                     text: 'Iron deficiency anemia'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Primary immune deficiency diseases (PIDDs)'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Inflammatory bowel disease'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Magnesium deficiency'
           -
             type: listItem
             content:
@@ -154,7 +94,58 @@ rows:
                 content:
                   -
                     type: text
-                    text: 'Opioid and alcohol dependence'
+                    text: 'Inflammatory bowel disease'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'IV Therapy in Las Vegas: Settings and Procedures'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In Las Vegas, infusion therapy is predominantly administered in clinical environments like hospitals, doctors’ offices, or specialized outpatient facilities. For patients who require frequent therapy, healthcare providers in the city may suggest long-term solutions like central lines or surgically implanted ports to reduce the need for repeated needle insertion.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Administered by skilled nurses and medical professionals, the process in Las Vegas demands precise monitoring to ensure the correct and safe delivery of the treatment.'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Preparing for Infusion Therapy in Las Vegas'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Patients in Las Vegas should be aware that side effects, though uncommon, can vary based on the medication. These might include dizziness, nausea, or discomfort at the injection site. Las Vegas healthcare providers make it a priority to discuss potential side effects and the specifics of the prescribed medication beforehand.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'To prepare, Las Vegas residents should:'
+      -
+        type: orderedList
+        attrs:
+          start: 1
+        content:
           -
             type: listItem
             content:
@@ -163,7 +154,34 @@ rows:
                 content:
                   -
                     type: text
-                    text: 'Post-operative hydration'
+                    text: 'Follow specific instructions from their healthcare provider, including hydration or dietary guidelines.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Inform the medical team about all current medications, including non-prescription drugs.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Choose comfortable clothing for ease during the procedure and monitoring of vital signs.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Plan for rest after the treatment to recover or manage any side effects.'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -183,6 +201,18 @@ rows:
             attrs:
               src: 'asset::assets::istockphoto-1188462407-612x612.jpg'
               alt: null
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Embracing Infusion Therapy in Las Vegas'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In Las Vegas, with its dynamic healthcare needs, infusion therapy is a crucial treatment option, applicable for a variety of medical conditions from chronic diseases to emergency care. Discussing the benefits and potential risks with a healthcare provider is essential for anyone considering infusion therapy in Las Vegas, as well as understanding the preparation and process involved in this effective medical treatment.'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -192,232 +222,47 @@ rows:
     enabled: true
     show_toc: false
   -
-    id: le36drwl
-    content:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: "What can you expect?\_"
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'IV infusion therapy typically takes place in a clinical setting, such as a doctor’s office, hospital, outpatient facility, or infusion center. Some types of infusion therapy can be given by healthcare providers in the home.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Each IV session means new needle sticks. So, if you’re expected to need multiple IV therapy sessions, your doctor may recommend alternatives to a standard IV line. Central lines can be inserted into your chest, arm, neck, or groin and remain for an extended time.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Another alternative is to have a port surgically implanted under your skin. In future treatments, the needle can be inserted into the port to access the vein without sticking you. The port will be surgically removed after you’ve completed all your treatments.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Whatever the setting, IV therapy is administered by nurses or other trained medical professionals. The procedure requires careful monitoring, so if the process is going to take more than a few minutes, there is usually some sort of control mechanism attached to the line to ensure proper delivery. Frequent or remote monitoring always accompanies infusion therapy.'
-    invert_text_colors: false
-    text_alignment: left
-    background_size: cover
-    background_position: 'center center'
-    background_padding: py-8
-    type: one_column_content
-    enabled: true
-    show_toc: false
-  -
-    id: le36c4um
-    content:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Are there any side effects?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'While rare, side effects would depend on the medication being administered. Some of them may include:'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Dizziness
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Nausea
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Muscle Stiffness'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: 'Itchiness at the injection site'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
-                  -
-                    type: text
-                    text: Headaches
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Prior to starting your infusion therapy, one of our healthcare professionals will review your prescribed medication and discuss all possible side effects with you.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Other risks include infection at the injection site where the IV needle is inserted. The needle could also become dislodged, causing the solution to enter the surrounding tissues. To lower these risks, each infusion is monitored by either a physician or a registered nurse.'
-    invert_text_colors: false
-    text_alignment: left
-    background_size: cover
-    background_position: 'center center'
-    background_padding: py-8
-    type: one_column_content
-    enabled: true
-    show_toc: false
-  -
-    id: le36ezht
-    content:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'How to Prepare for Infusion Therapy'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'At Infusion Associates, first and foremost, we want you to feel at ease. To ensure your treatment goes smoothly:'
-    invert_text_colors: false
-    text_alignment: left
-    background_size: cover
-    background_position: 'center center'
-    background_padding: py-8
-    type: one_column_content
-    enabled: true
-    show_toc: false
-  -
-    id: le36f5nm
+    id: lq00o2ns
     col_1:
       -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: '1. Follow your doctor’s instructions.'
-      -
         type: paragraph
         content:
           -
-            type: text
-            text: 'Some infusions require a patient to hydrate prior to treatment. Others may require a particular diet or taking medication prior to the infusion. Before referring you to our clinics, your doctor will let you know what you need to do to best prepare for your infusion therapy.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
+            type: image
+            attrs:
+              src: 'asset::assets::10905219-1701111837.png'
+              alt: null
           -
             type: text
-            text: '2. Write down all of your concerns.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Prior to commencing therapy, make a list of all your questions. We’ll be happy to discuss them with you. We’ll explain the entire process, the risk of side effects — and what those side effects are — as well as any additional matter that may be making you anxious.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: '3. Make a list of medications you’re taking.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Regardless of whether you’re taking prescription medications or over-the-counter painkillers, let our team members know. This is essential to ensure that you don’t experience an adverse reaction from mixing items that don’t work well together.'
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://vegashealthcare.com/search/results?providers%5BrefinementList%5D%5Bservices%5D%5B0%5D=IV%20Hydration&providers%5BrefinementList%5D%5Bservices%5D%5B1%5D=Infusion%20Therapy'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Click here to search for IV Infusion'
     col_2:
       -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: '4. Wear comfortable clothes.'
-      -
         type: paragraph
         content:
           -
-            type: text
-            text: 'This serves a dual purpose. First, it’s practical — one of our healthcare professionals will take your vital signs — and wearing loose-fitting clothes will make this process easier. Second, while we’ll make sure you’re in a comfortable environment, what you wear can help make you feel more relaxed.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
+            type: image
+            attrs:
+              src: 'asset::assets::3447545.png'
+              alt: null
           -
             type: text
-            text: '5. Clear your schedule.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'You’ll want to have time to rest after each infusion treatment. Your body may either need the time to fully recover, or you may need time off if you experience side effects. Do not stress yourself out thinking that you have to rush to get to work or run other errands.'
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://vegashealthcare.com/contact-us'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Still have questions, contact us!'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -425,81 +270,6 @@ rows:
     background_padding: py-8
     type: two_column_content
     enabled: true
-  -
-    id: le36gry5
-    content:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'The bottom line'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Infusion therapy is the administration of medication or fluids in a controlled method. It’s done most often intravenously or subcutaneously.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Since the timing can be controlled, it’s used to deliver chemotherapy drugs and other medications that need to enter your system slowly. It can also be used to deliver drugs into your bloodstream quickly in the case of a life threatening emergency.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Infusion therapy is used to dispense many treatments for a wide variety of conditions. It’s typically administered by nurses or other trained healthcare providers, usually in a clinical setting.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Speak with your healthcare provider about the potential benefits and risks of infusion therapy, and what you can do to make it as safe and effective as possible.'
-    invert_text_colors: false
-    text_alignment: left
-    background_size: cover
-    background_position: 'center center'
-    background_padding: py-8
-    type: one_column_content
-    enabled: true
-    show_toc: false
-  -
-    id: le36gws9
-    content:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Contact us for questions!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '{{ partial src="forms.default" }}'
-    invert_text_colors: false
-    text_alignment: center
-    background_size: cover
-    background_position: 'center center'
-    background_padding: py-8
-    type: one_column_content
-    enabled: false
-    show_toc: false
-  -
-    id: lj5xoyl4
-    form_heading: 'Contact us for questions!'
-    form_handle: contact_us
-    form_template: forms/default
-    type: form
-    enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1701114331
+updated_at: 1702245261
 ---
