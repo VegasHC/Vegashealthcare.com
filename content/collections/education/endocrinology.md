@@ -13,13 +13,13 @@ rows:
         content:
           -
             type: text
-            text: 'The Fundamentals of Endocrinology: Understanding Hormones and their Functions'
+            text: 'Endocrinology and Home Health Care in Las Vegas: A Comprehensive Guide'
       -
         type: paragraph
         content:
           -
             type: text
-            text: "Endocrinology is the study of hormones and the endocrine system. Hormones are chemicals produced by glands in the endocrine system that regulate various bodily functions, including growth and development, metabolism, and reproductive processes. Hormones play an essential role in maintaining the body's homeostasis or internal balance."
+            text: "Endocrinology, vital in understanding hormonal functions and disorders, becomes especially relevant in the context of Las Vegas's home health care sector. Hormones, produced by the endocrine system's glands, are key in regulating growth, metabolism, and reproduction, essential for maintaining the body's internal balance."
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -75,7 +75,7 @@ rows:
     background_position: 'center center'
     background_padding: py-8
     type: one_column_content
-    enabled: true
+    enabled: false
     show_toc: false
   -
     id: lh537cd5
@@ -280,61 +280,19 @@ rows:
         content:
           -
             type: text
-            text: 'Diagnosis and Treatment of Hormonal Imbalances'
+            text: 'Diagnosis and Treatment of Hormonal Imbalances in Las Vegas'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Diagnosing hormonal imbalances typically involves blood tests to measure hormone levels. Depending on the hormone involved and the severity of the imbalance, treatment options may include medication, lifestyle changes, or surgery.'
+            text: 'For home health care providers in Las Vegas, accurately diagnosing and treating these imbalances is essential. This often involves blood tests and a combination of medication, lifestyle changes, and sometimes surgery. Treatments are tailored to conditions, such as thyroid disorders requiring hormone replacement and diabetes needing blood sugar regulation.'
       -
         type: paragraph
         content:
           -
             type: text
-            marks:
-              -
-                type: underline
-            text: 'Thyroid Disorders'
-          -
-            type: text
-            text: ': Treatment for thyroid disorders typically involves medication to replace or suppress thyroid hormone levels. In some cases, surgery may be necessary to remove part or all of the thyroid gland.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: underline
-            text: Diabetes
-          -
-            type: text
-            text: ': Treatment for diabetes typically involves medication to regulate blood sugar levels, as well as lifestyle changes such as diet and exercise.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: underline
-            text: PCOS
-          -
-            type: text
-            text: ': Treatment for PCOS typically involves medication to regulate hormone levels, as well as lifestyle changes such as weight loss and exercise.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: underline
-            text: "Cushing's Syndrome"
-          -
-            type: text
-            text: ": Treatment for Cushing's syndrome typically involves medication to suppress cortisol production, as well as surgery to remove tumors or glands causing the excess cortisol production."
+            text: "In Las Vegas, where access to health care and patient education is critical, understanding the endocrine system's role is vital for home health care professionals. They play a key role in managing conditions like diabetes, which is prevalent due to lifestyle factors common in the city."
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -351,7 +309,15 @@ rows:
         content:
           -
             type: text
-            text: 'In summary, the endocrine system and its hormones play a crucial role in regulating bodily functions and maintaining internal balance. Hormonal imbalances can cause a range of health problems and symptoms, but with proper diagnosis and treatment, many hormonal disorders can be effectively managed. If you suspect you may have a hormonal imbalance, it is important to speak with your healthcare provider for proper evaluation and treatment.'
+            text: "In Las Vegas, where lifestyle and environmental factors might influence hormonal health, understanding hormonal imbalances is crucial. Conditions like thyroid disorders, diabetes, PCOS, and Cushing's Syndrome highlight the importance of hormonal balance. Symptoms can range from fatigue and weight gain to more severe complications like heart disease."
+      -
+        type: paragraph
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "In summary, in Las Vegas's home health care landscape, understanding endocrinology is crucial for managing various health conditions. Hormonal imbalances, if not properly managed, can lead to significant health issues. Home health care providers are at the forefront of diagnosing and treating these imbalances, offering personalized care to maintain the health and well-being of Las Vegas residents."
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -361,37 +327,54 @@ rows:
     enabled: true
     show_toc: false
   -
-    id: lhtc17nj
-    content:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Contact us for questions!'
+    id: lpzzcb0o
+    col_1:
       -
         type: paragraph
         content:
           -
+            type: image
+            attrs:
+              src: 'asset::assets::10905219-1701111837.png'
+              alt: null
+          -
             type: text
-            text: '{{ partial src="forms.default" }}'
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://vegashealthcare.com/search/results?providers%5Bquery%5D=endoc&providers%5BrefinementList%5D%5Bservices%5D%5B0%5D=Endocrinology'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Search here to look for a Endocrinologist'
+    col_2:
+      -
+        type: paragraph
+        content:
+          -
+            type: image
+            attrs:
+              src: 'asset::assets::3447545.png'
+              alt: null
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://vegashealthcare.com/contact-us'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Still have questions, contact us!'
     invert_text_colors: false
-    text_alignment: center
+    text_alignment: left
     background_size: cover
     background_position: 'center center'
     background_padding: py-8
-    type: one_column_content
-    enabled: false
-    show_toc: false
-  -
-    id: lj5x9lmj
-    form_heading: 'Contact us for questions!'
-    form_handle: contact_us
-    form_template: forms/default
-    type: form
+    type: two_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1701114260
+updated_at: 1702242742
 ---
