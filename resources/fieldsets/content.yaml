@@ -96,7 +96,7 @@ fields:
                     type: select
                     display: Color
                     icon: select
-                    width: 50
+                    width: 33
                     listable: hidden
                     instructions_position: above
                     visibility: visible
@@ -113,6 +113,19 @@ fields:
                     visibility: visible
                     replicator_preview: true
                     hide_display: false
-                    width: 50
+                    width: 33
                     directory: vendor/statamic/cms/resources/svg/icons
                     folder: light
+                -
+                  handle: open_in_new_window
+                  field:
+                    default: false
+                    type: toggle
+                    display: 'Open In New Window'
+                    icon: toggle
+                    width: 33
+                    listable: hidden
+                    instructions_position: above
+                    visibility: visible
+                    replicator_preview: true
+                    hide_display: false
