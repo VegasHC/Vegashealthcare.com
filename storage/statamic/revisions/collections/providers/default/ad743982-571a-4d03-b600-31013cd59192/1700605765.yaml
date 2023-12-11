@@ -1,0 +1,44 @@
+action: revision
+date: 1700605765
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: ad743982-571a-4d03-b600-31013cd59192
+  slug: elite-medical-suites
+  published: false
+  date: null
+  data:
+    title: 'ELITE MEDICAL SUITES'
+    org_name: 'ELITE MEDICAL SUITES'
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    phone: 702-490-9449
+    fax: null
+    website: 'https://elitemedsuites.com/'
+    links: {  }
+    email: info@elitemedsuites.com
+    image: providers/elitemedsuite_logo(icon)-08.png
+    description: 'Elite MedSuites offers a comprehensive clinic setup for practitioners of various disciplines, effectively eliminating operational and financial challenges associated with starting a clinic. Our point-of-care clinic allows practitioners to represent their practice with a professional setup, making it an ideal option for healthcare providers.'
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: doctors
+    services: {  }
+    promotion_level: '10'
+    address: '8905 W Post Road suite 110'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89148'
+    _geoloc:
+      lat: 36.073629970036
+      lng: -115.2866218
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

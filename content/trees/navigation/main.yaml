@@ -6,18 +6,8 @@ tree:
     id: f3c89ed9-ec3d-4ffb-a9a0-6cd5ad9fae46
     entry: home
   -
-    id: b5e011e6-6ffc-4ff3-b285-288378b565a3
-    entry: a0d2bbb3-706e-4242-a664-54ea8c04cae7
-  -
-    id: ab2f6e0e-f5e2-4da2-a6db-4810a9e593bd
-    entry: 345cac2c-09b9-4c69-b4ce-b35025a6537e
-  -
     id: a5ea4f05-0108-42da-8f6e-675921e73792
     entry: b500f107-2094-4b5f-8fa9-2990c8481d13
-  -
-    id: 0bdf232a-44ae-45d4-950d-cfdfdf1267bd
-    title: 'General & Community Info'
-    url: 'https://www.lasvegasnevada.gov/'
   -
     id: 6e57982e-43df-4be5-bf51-b1bd5ff15966
     entry: c3aa4296-b6a4-42f1-9f98-aa0e132a5aab
@@ -25,6 +15,6 @@ tree:
     id: 4dc89d72-86bb-4e5a-9a68-5ea4adf7a677
     entry: d23be4ef-03ae-4f84-8e3b-cbb9a98f9a97
   -
-    id: 9f829f33-6a32-41cc-b501-9aee30141a57
-    title: 'Educational Videos'
-    url: 'https://www.youtube.com/channel/UCduqDnunTVDv-mFzF5Q1h_w'
+    id: b6fbd26a-30ca-4af3-b801-ad657179586d
+    entry: 4c857a5c-d68e-4fec-8715-1831f83aae7f
+    title: 'Women & Leadership'

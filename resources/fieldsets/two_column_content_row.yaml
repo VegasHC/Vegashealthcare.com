@@ -2,88 +2,14 @@ title: '2-Col Content Row'
 fields:
   -
     handle: col_1
-    field:
-      always_show_set_button: false
-      previews: true
-      buttons:
-        - h2
-        - h3
-        - bold
-        - italic
-        - unorderedlist
-        - orderedlist
-        - removeformat
-        - quote
-        - anchor
-        - image
-        - table
-        - h1
-        - h4
-        - h5
-        - h6
-        - underline
-        - strikethrough
-        - horizontalrule
-      container: assets
-      save_html: false
-      toolbar_mode: fixed
-      link_noopener: false
-      link_noreferrer: false
-      target_blank: false
-      reading_time: false
-      fullscreen: true
-      allow_source: true
-      enable_input_rules: true
-      enable_paste_rules: true
-      antlers: true
+    field: content.bard_content
+    config:
       display: 'Col 1'
-      type: bard
-      icon: bard
-      listable: hidden
-      instructions_position: above
-      visibility: visible
   -
     handle: col_2
-    field:
-      always_show_set_button: false
-      previews: true
-      buttons:
-        - h2
-        - h3
-        - bold
-        - italic
-        - unorderedlist
-        - orderedlist
-        - removeformat
-        - quote
-        - anchor
-        - image
-        - table
-        - h1
-        - h4
-        - h5
-        - h6
-        - underline
-        - strikethrough
-        - horizontalrule
-      container: assets
-      save_html: false
-      toolbar_mode: fixed
-      link_noopener: false
-      link_noreferrer: false
-      target_blank: false
-      reading_time: false
-      fullscreen: true
-      allow_source: true
-      enable_input_rules: true
-      enable_paste_rules: true
-      antlers: true
+    field: content.bard_content
+    config:
       display: 'Col 2'
-      type: bard
-      icon: bard
-      listable: hidden
-      instructions_position: above
-      visibility: visible
   -
     handle: background_color
     field:

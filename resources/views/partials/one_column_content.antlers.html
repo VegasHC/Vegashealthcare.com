@@ -12,7 +12,7 @@
     >
     {{ if show_toc }}
     <div class="flex flex-row flex-wrap lg:flex-no-wrap">
-        <div class="w-full lg:w-1/4 mb-8">
+        <div class="w-full mb-8 lg:w-1/4">
         {{ partial:toc }}
         </div>
         <div class="w-full lg:w-3/4">
@@ -24,6 +24,8 @@
     {{ else }}
     <div class="prose prose-xl {{ if invert_text_colors }}prose-invert {{ /if }}max-w-7xl mx-auto">
         {{ content }}
+            {{ partial src="blocks/{type}" }}
+        {{ /content }}
     </div>
     {{ /if }}
 </div>

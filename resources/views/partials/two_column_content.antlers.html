@@ -10,11 +10,19 @@
         background-blend-mode: {{ background_blend_mode ?? 'normal' }};
     "
     >
-    
+
     <div class="prose prose-xl {{ if invert_text_colors }}prose-invert {{ /if }}max-w-7xl mx-auto">
         <div class="grid md:grid-cols-2 gap-8">
-            <div class="col-span-1">{{ col_1 }}</div>
-            <div class="col-span-1">{{ col_2 }}</div>
+            <div class="col-span-1">
+                {{ col_1 }}
+                    {{ partial src="blocks/{type}" }}
+                {{ /col_1 }}
+            </div>
+            <div class="col-span-1">
+                {{ col_2 }}
+                    {{ partial src="blocks/{type}" }}
+                {{ /col_2 }}
+            </div>
         </div>
     </div>
 </div>

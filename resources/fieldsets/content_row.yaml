@@ -8,46 +8,7 @@ fields:
       type: toggle
   -
     handle: content
-    field:
-      always_show_set_button: false
-      previews: true
-      buttons:
-        - h2
-        - h3
-        - bold
-        - italic
-        - unorderedlist
-        - orderedlist
-        - removeformat
-        - quote
-        - anchor
-        - image
-        - table
-        - h1
-        - h4
-        - h5
-        - h6
-        - underline
-        - strikethrough
-        - horizontalrule
-      container: assets
-      save_html: false
-      toolbar_mode: fixed
-      link_noopener: false
-      link_noreferrer: false
-      target_blank: false
-      reading_time: false
-      fullscreen: true
-      allow_source: true
-      enable_input_rules: true
-      enable_paste_rules: true
-      antlers: true
-      display: Content
-      type: bard
-      icon: bard
-      listable: hidden
-      instructions_position: above
-      visibility: visible
+    field: content.bard_content
   -
     handle: background_color
     field:

@@ -1,0 +1,45 @@
+action: revision
+date: 1695932446
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 0bf05adc-c12b-4133-b4da-b64f054dc8a4
+  slug: complete-foot-ankle-care-amir-shalev-dpm
+  published: false
+  date: null
+  data:
+    title: 'Complete Foot & Ankle Care: Amir Shalev, DPM'
+    org_name: 'Complete Foot & Ankle Care: Amir Shalev, DPM'
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    phone: 70-224-83668
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    category: doctors
+    services:
+      - podiatrist
+    promotion_level: null
+    address: '2701 N Tenaya Way #230'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89128'
+    _geoloc:
+      lat: 36.211356271735
+      lng: -115.25057583031
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
