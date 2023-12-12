@@ -2,3 +2,4 @@ content_admin:
   title: 'Content Admin'
   permissions:
     - super
+    - 'access default site'

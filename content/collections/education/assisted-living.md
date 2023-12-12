@@ -376,6 +376,40 @@ rows:
     type: form
     enabled: false
   -
+    id: lq07eac1
+    col_1:
+      -
+        type: set
+        attrs:
+          id: lq07ecrl
+          values:
+            type: cta
+            link: 'https://vegashealthcare.com/search/results?providers[query]=assisted%20living&providers[zip]=&providers[refinementList][services][0]=Assisted%20Living&providers[refinementList][services][1]=Assisted%20Living%20-%20Individual'
+            text: 'Search for Assisted Living'
+            icon: search
+            color: bg-primary
+      -
+        type: paragraph
+    invert_text_colors: false
+    text_alignment: left
+    background_size: cover
+    background_position: 'center center'
+    background_padding: py-8
+    type: two_column_content
+    enabled: true
+    col_2:
+      -
+        type: set
+        attrs:
+          id: lq08mn2x
+          values:
+            type: cta
+            link: 'entry::345cac2c-09b9-4c69-b4ce-b35025a6537e'
+            text: 'Contact Us'
+            color: bg-brand
+      -
+        type: paragraph
+  -
     id: lph9vkq5
     col_1:
       -
@@ -431,7 +465,7 @@ rows:
     background_position: 'center center'
     background_padding: py-8
     type: two_column_content
-    enabled: true
-updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1701113813
+    enabled: false
+updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
+updated_at: 1702260604
 ---
