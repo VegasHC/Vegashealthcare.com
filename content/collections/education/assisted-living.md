@@ -388,6 +388,7 @@ rows:
             text: 'Search for Assisted Living'
             icon: search
             color: bg-primary
+            open_in_new_window: true
       -
         type: paragraph
     invert_text_colors: false
@@ -407,65 +408,9 @@ rows:
             link: 'entry::345cac2c-09b9-4c69-b4ce-b35025a6537e'
             text: 'Contact Us'
             color: bg-brand
+            open_in_new_window: true
       -
         type: paragraph
-  -
-    id: lph9vkq5
-    col_1:
-      -
-        type: paragraph
-        content:
-          -
-            type: image
-            attrs:
-              src: 'asset::assets::10905219-1701111837.png'
-              alt: null
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://vegashealthcare.com/search/results?providers[query]=assisted%20living&providers[zip]=&providers[refinementList][services][0]=Assisted%20Living&providers[refinementList][services][1]=Assisted%20Living%20-%20Individual'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Click here to search for Assisted Living'
-      -
-        type: paragraph
-    col_2:
-      -
-        type: paragraph
-        content:
-          -
-            type: image
-            attrs:
-              src: 'asset::assets::3447545.png'
-              alt: null
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://vegashealthcare.com/contact-us'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Still have questions, contact us!'
-    invert_text_colors: false
-    text_alignment: left
-    background_size: cover
-    background_position: 'center center'
-    background_padding: py-8
-    type: two_column_content
-    enabled: false
-updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
-updated_at: 1702260604
+updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
+updated_at: 1702925191
 ---

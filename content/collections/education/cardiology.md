@@ -241,6 +241,42 @@ rows:
     enabled: true
     show_toc: false
   -
+    id: lqb9k8fw
+    col_1:
+      -
+        type: set
+        attrs:
+          id: lqb9kang
+          values:
+            type: cta
+            link: 'https://vegashealthcare.com/search/results?providers%5Bquery%5D=cardiology&providers%5BrefinementList%5D%5Bservices%5D%5B0%5D=Cardiology'
+            text: 'Click here to search for Cardiology'
+            color: bg-primary
+            icon: search
+            open_in_new_window: true
+      -
+        type: paragraph
+    col_2:
+      -
+        type: set
+        attrs:
+          id: lqb9kdco
+          values:
+            type: cta
+            link: 'entry::345cac2c-09b9-4c69-b4ce-b35025a6537e'
+            text: 'Contact Us'
+            color: bg-brand
+            open_in_new_window: true
+      -
+        type: paragraph
+    invert_text_colors: false
+    text_alignment: left
+    background_size: cover
+    background_position: 'center center'
+    background_padding: py-8
+    type: two_column_content
+    enabled: true
+  -
     id: lpraduzs
     col_1:
       -
@@ -288,7 +324,7 @@ rows:
     background_position: 'center center'
     background_padding: py-8
     type: two_column_content
-    enabled: true
+    enabled: false
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1702241728
+updated_at: 1702925103
 ---
