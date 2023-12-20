@@ -1,6 +1,5 @@
 ---
 id: e094dda9-29c6-44e8-b88c-c90dbf1a8ee0
-published: false
 blueprint: pages
 title: 'Workforce Resource'
 rows:
@@ -144,5 +143,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1684192457
+updated_at: 1703093831
 ---

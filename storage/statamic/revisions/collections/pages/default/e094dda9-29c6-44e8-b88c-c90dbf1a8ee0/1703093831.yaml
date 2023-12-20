@@ -1,0 +1,151 @@
+action: publish
+date: 1703093831
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: e094dda9-29c6-44e8-b88c-c90dbf1a8ee0
+  slug: jobs
+  published: true
+  date: null
+  data:
+    blueprint: pages
+    title: 'Workforce Resource'
+    rows:
+      -
+        id: lhpasclm
+        content:
+          -
+            type: heading
+            attrs:
+              level: 2
+            content:
+              -
+                type: text
+                text: 'Key for finding a Healthcare Career'
+          -
+            type: orderedList
+            attrs:
+              start: 1
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'Identify Your Interests and Skills'
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Begin by reflecting on your interests and skills within the healthcare field. Determine which aspects of healthcare you are most passionate about and where your strengths lie. Consider your educational background, previous work experience, and any specialized training you may have undergone. Identifying your interests and skills will help you narrow down your job search and focus on roles that align with your abilities and preferences.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'Research and Explore Opportunities'
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Conduct thorough research to explore the wide range of job opportunities available in the healthcare industry. Look into various healthcare settings such as hospitals, clinics, research institutions, pharmaceutical companies, public health organizations, and more. Explore different roles within these settings, ranging from direct patient care positions to administrative and research roles. Pay attention to the required qualifications, responsibilities, and growth prospects associated with each job. This research will help you gain a comprehensive understanding of the available options and enable you to make informed decisions about the type of job you want to pursue.'
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'Click the link below to view opportunities'
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.employnv.gov/vosnet/default.aspx'
+                              rel: null
+                              target: _blank
+                              title: EmployNV
+                        text: EmployNV
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'Network and Seek Advice'
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Networking is a valuable tool for job seekers in any industry, including healthcare. Reach out to professionals already working in the healthcare field, such as doctors, nurses, administrators, or researchers. Attend healthcare conferences, seminars, or workshops where you can meet and connect with industry experts. Join relevant professional associations or online communities to expand your network further. Networking can provide you with valuable insights, advice, and potential job leads. It may even lead to mentorship opportunities that can guide you in making the right career choices.'
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'Click the links below to view our groups'
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.facebook.com/groups/vegashealthcare'
+                              rel: null
+                              target: _blank
+                              title: 'Vegas Healthcare'
+                        text: 'Vegas Healthcare'
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: link
+                            attrs:
+                              href: 'https://www.facebook.com/groups/VegasNurses/'
+                              rel: null
+                              target: _blank
+                              title: 'Vegas Healthcare Nurses'
+                        text: 'Vegas Healthcare Nurses'
+          -
+            type: paragraph
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: one_column_content
+        enabled: true
