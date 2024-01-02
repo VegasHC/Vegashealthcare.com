@@ -103,6 +103,7 @@ rows:
     form_handle: event_sponsor_form
     type: form
     enabled: true
+    form_template: forms/default
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
 updated_at: 1704235913
 ---
