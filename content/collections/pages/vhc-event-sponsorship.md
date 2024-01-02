@@ -18,6 +18,12 @@ rows:
         content:
           -
             type: text
+            text: 'We are looking for 2 sponsors per event and the cost of sponsorship would be $1500.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
             text: 'Here are the benefits of being a sponsor:'
       -
         type: bulletList
@@ -93,10 +99,10 @@ rows:
     type: one_column_content
     enabled: true
   -
-    id: lqwvgwsa
-    form_handle: contact_us
+    id: lqwxtgk0
+    form_handle: event_sponsor_form
     type: form
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1704231638
+updated_at: 1704235913
 ---
