@@ -18,7 +18,7 @@ rows:
         content:
           -
             type: text
-            text: 'We are looking for 2 sponsors per event and the cost of sponsorship would be $1500.'
+            text: 'We are looking for 2 sponsors per event and the cost of sponsorship would be $1500 for each sponsor.'
       -
         type: paragraph
         content:
@@ -105,5 +105,5 @@ rows:
     enabled: true
     form_template: forms/default
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1704235913
+updated_at: 1704236945
 ---
