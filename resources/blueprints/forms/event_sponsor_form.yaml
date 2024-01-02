@@ -32,3 +32,17 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+          -
+            handle: email
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Email
+              icon: text
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
