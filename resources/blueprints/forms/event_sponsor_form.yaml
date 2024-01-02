@@ -19,6 +19,20 @@ tabs:
               replicator_preview: true
               hide_display: false
           -
+            handle: company_details
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Company Details'
+              icon: text
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
             handle: name
             field:
               input_type: text
@@ -39,6 +53,20 @@ tabs:
               antlers: false
               type: text
               display: Email
+              icon: text
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: phone_number
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Phone Number'
               icon: text
               instructions: '* Required'
               listable: hidden

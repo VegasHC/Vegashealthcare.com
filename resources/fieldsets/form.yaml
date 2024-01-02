@@ -35,3 +35,5 @@ fields:
       listable: hidden
       instructions_position: above
       visibility: visible
+      replicator_preview: true
+      hide_display: false
