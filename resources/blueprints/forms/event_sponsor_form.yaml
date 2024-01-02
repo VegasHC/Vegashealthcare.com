@@ -1,0 +1,103 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: company_name
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Company Name'
+              icon: text
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: name
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Name
+              icon: text
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: form_of_payment
+            field:
+              options:
+                Card: null
+                Cash: null
+                Check: null
+              inline: false
+              type: checkboxes
+              display: 'Form of Payment'
+              icon: checkboxes
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: company_description
+            field:
+              antlers: false
+              type: textarea
+              display: 'Company Description'
+              icon: textarea
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: logo
+            field:
+              max_files: 1
+              mode: list
+              container: assets
+              restrict: false
+              allow_uploads: true
+              show_filename: true
+              show_set_alt: true
+              type: assets
+              display: Logo
+              icon: assets
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: sponsor_dates
+            field:
+              options:
+                'Feb 22': null
+                'April 18': null
+                'June 20': null
+                'August 15': null
+                'October 10': null
+                'December (Ugly Sweater TBD)': null
+              inline: false
+              type: checkboxes
+              display: 'Sponsor Dates'
+              icon: checkboxes
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
