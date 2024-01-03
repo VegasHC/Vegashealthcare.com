@@ -99,11 +99,38 @@ rows:
     type: one_column_content
     enabled: true
   -
+    id: lqy52jzj
+    col_1:
+      -
+        type: paragraph
+        content:
+          -
+            type: image
+            attrs:
+              src: 'asset::assets::img_5640.jpg'
+              alt: null
+    col_2:
+      -
+        type: paragraph
+        content:
+          -
+            type: image
+            attrs:
+              src: 'asset::assets::img_5597(1).jpg'
+              alt: null
+    invert_text_colors: false
+    text_alignment: left
+    background_size: cover
+    background_position: 'center center'
+    background_padding: py-8
+    type: two_column_content
+    enabled: true
+  -
     id: lqwxtgk0
     form_handle: event_sponsor_form
     type: form
     enabled: true
     form_template: forms/default
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1704236945
+updated_at: 1704308580
 ---
