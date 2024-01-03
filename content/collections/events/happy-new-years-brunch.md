@@ -14,7 +14,7 @@ description:
       id: lqy5cjqt
       values:
         type: image
-        image: eq-1704308630.jpg
+        image: eq-1704314666.jpg
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1704308650
+updated_at: 1704314668
 ---
