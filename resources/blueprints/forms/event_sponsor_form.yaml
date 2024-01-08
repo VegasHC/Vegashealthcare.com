@@ -1,0 +1,76 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: company_name
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Company Name'
+              icon: text
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: company_details
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Company Details'
+              icon: text
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: name
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Name
+              icon: text
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: email
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Email
+              icon: text
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: phone_number
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Phone Number'
+              icon: text
+              instructions: '* Required'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false

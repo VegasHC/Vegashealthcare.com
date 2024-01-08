@@ -1,0 +1,39 @@
+---
+id: 4402de39-9482-488f-891b-f15caf737751
+blueprint: pages
+title: 'Ugly Sweater Party'
+rows:
+  -
+    id: lq6wso7r
+    col_1:
+      -
+        type: paragraph
+        content:
+          -
+            type: image
+            attrs:
+              src: 'asset::assets::ugly-sweater-flyer.jpg'
+              alt: null
+    col_2:
+      -
+        type: set
+        attrs:
+          id: lq6wt4cm
+          values:
+            type: cta
+            link: 'https://azolinaphotography.pixieset.com/vhcuglychristmasparty23/'
+            text: 'Click Here To View Pictures'
+            color: bg-primary
+            open_in_new_window: true
+      -
+        type: paragraph
+    invert_text_colors: false
+    text_alignment: left
+    background_size: cover
+    background_position: 'center center'
+    background_padding: py-8
+    type: two_column_content
+    enabled: true
+updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
+updated_at: 1702661784
+---
