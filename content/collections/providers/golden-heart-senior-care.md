@@ -4,7 +4,7 @@ blueprint: providers
 title: 'Golden Heart Senior Care'
 org_name: 'Golden Heart Senior Care'
 first_name: Bob
-last_name: Sawdkins
+last_name: Swadkins
 phone: 702-800-4616
 fax: 702-714-1204
 website: 'https://www.weprovidegoldencare.com/'
@@ -24,5 +24,5 @@ _geoloc:
   lat: 36.211671657503
   lng: -115.29759112884
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1704815995
+updated_at: 1705205692
 ---
