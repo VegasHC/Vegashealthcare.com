@@ -55,7 +55,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: ' Company description and Thank You on Newsletter'
+                    text: 'Company description and Thank You on Newsletter'
           -
             type: listItem
             content:
@@ -64,7 +64,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: '2 minutes to speak at event'
+                    text: 'You or a guest of your company/organization will have 2 minutes during the live event to get up on the microphone and tell our attendees a little more about your company.'
           -
             type: listItem
             content:
@@ -73,7 +73,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: '1 Table to place items'
+                    text: 'Complimentary promotional table will be provided.'
           -
             type: listItem
             content:
@@ -82,7 +82,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: '90 days of VHC.com'
+                    text: 'You will also receive exposure on VegasHealthcare.com for 90 days as an Enhanced Member showcasing your business to our online visitors.'
           -
             type: listItem
             content:
@@ -178,5 +178,5 @@ rows:
     enabled: true
     form_template: forms/default
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1705087704
+updated_at: 1705431618
 ---
