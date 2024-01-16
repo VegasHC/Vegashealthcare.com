@@ -126,7 +126,7 @@ rows:
           -
             type: image
             attrs:
-              src: 'asset::assets::eq2.jpg'
+              src: 'asset::assets::eq-1705441163.jpg'
               alt: null
     col_2:
       -
@@ -153,7 +153,7 @@ rows:
           -
             type: image
             attrs:
-              src: 'asset::assets::eq1-1705087631.jpg'
+              src: 'asset::assets::eq1-1705441016.jpg'
               alt: null
     col_2:
       -
@@ -178,5 +178,5 @@ rows:
     enabled: true
     form_template: forms/default
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1705431618
+updated_at: 1705441169
 ---
