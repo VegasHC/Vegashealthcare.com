@@ -1,0 +1,44 @@
+action: publish
+date: 1705866496
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 93f7d8b4-841c-4653-87b8-c3d1fd8d2ed4
+  slug: white-coat-concierge
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'White Coat Concierge'
+    org_name: 'White Coat Concierge'
+    phone: 702-992-4867
+    sponsored: false
+    category: doctors
+    services:
+      - mobile-physician
+    first_name: Bernadette
+    last_name: Bowyer
+    website: null
+    email: null
+    image: null
+    description: null
+    insurance_accepted: 'Aetna, United Healthcare, Anthem, Tricare, CHAMPVA, CIGNA, MultiPlan, Medicare, and Medicaid.'
+    promotion_level: null
+    middle_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    gallery: {  }
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address: null
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
