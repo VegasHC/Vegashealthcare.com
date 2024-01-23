@@ -17,7 +17,8 @@
                 <label class="font-bold">{{ display }}</label>
                 <div class="p-1">
                     {{ field }}
-                    <span class="text-sm text-gray-500">{{ instructions }}</span>
+                    {{ if validate|contains:required }}<p class="my-0 text-sm text-gray-500">* Required</p>{{ /if}}
+                    <p class="my-0 text-sm text-gray-500">{{ instructions }}</p>
                 </div>
 
                 {{ if error }}
@@ -25,6 +26,8 @@
                 {{ /if }}
             </div>
         {{ /fields }}
-        <button type="submit" class="block px-20 py-2 mx-auto text-lg font-bold text-white rounded-lg bg-brand hover:bg-brand ">Submit</button>
+        <div class="py-2">
+            <button type="submit" class="block px-20 py-2 mx-auto my-2 text-lg font-bold text-white rounded-lg bg-brand hover:bg-brand ">Submit</button>
+        </div>
     {{ /form:create }}
 </div>

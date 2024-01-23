@@ -1,6 +1,5 @@
 ---
 id: d56d042f-0be7-4349-a341-bb63566b2244
-published: false
 blueprint: pages
 title: 'Welcome to VHC'
 rows:
@@ -278,5 +277,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1697040605
+updated_at: 1705960817
 ---
