@@ -19,6 +19,16 @@ rows:
           -
             type: text
             text: 'We are looking for 2 sponsors per event and the cost of sponsorship would be $1500 for each sponsor.'
+    invert_text_colors: false
+    text_alignment: left
+    background_size: cover
+    background_position: 'center center'
+    background_padding: py-8
+    type: one_column_content
+    enabled: true
+  -
+    id: lrb0mm1i
+    col_1:
       -
         type: paragraph
         content:
@@ -45,7 +55,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: ' Company description and Thank You on Newsletter'
+                    text: 'Company description and Thank You on Newsletter'
           -
             type: listItem
             content:
@@ -54,7 +64,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: '2 minutes to speak at event'
+                    text: 'You or a guest of your company/organization will have 2 minutes during the live event to get up on the microphone and tell our attendees a little more about your company.'
           -
             type: listItem
             content:
@@ -63,7 +73,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: '1 Table to place items'
+                    text: 'Complimentary promotional table will be provided.'
           -
             type: listItem
             content:
@@ -72,7 +82,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: '90 days of VHC.com'
+                    text: 'You will also receive exposure on VegasHealthcare.com for 90 days as an Enhanced Member showcasing your business to our online visitors.'
           -
             type: listItem
             content:
@@ -91,12 +101,48 @@ rows:
                   -
                     type: text
                     text: 'Logo in Group Welcome'
+    col_2:
+      -
+        type: paragraph
+        content:
+          -
+            type: image
+            attrs:
+              src: 'asset::assets::eq6.jpg'
+              alt: null
     invert_text_colors: false
     text_alignment: left
     background_size: cover
     background_position: 'center center'
     background_padding: py-8
-    type: one_column_content
+    type: two_column_content
+    enabled: true
+  -
+    id: lrb0ojws
+    col_1:
+      -
+        type: paragraph
+        content:
+          -
+            type: image
+            attrs:
+              src: 'asset::assets::eq-1705441163.jpg'
+              alt: null
+    col_2:
+      -
+        type: paragraph
+        content:
+          -
+            type: image
+            attrs:
+              src: 'asset::assets::eq7.jpg'
+              alt: null
+    invert_text_colors: false
+    text_alignment: left
+    background_size: cover
+    background_position: 'center center'
+    background_padding: py-8
+    type: two_column_content
     enabled: true
   -
     id: lqy52jzj
@@ -107,7 +153,7 @@ rows:
           -
             type: image
             attrs:
-              src: 'asset::assets::img_5640.jpg'
+              src: 'asset::assets::eq1-1705441016.jpg'
               alt: null
     col_2:
       -
@@ -116,7 +162,7 @@ rows:
           -
             type: image
             attrs:
-              src: 'asset::assets::img_5597(1).jpg'
+              src: 'asset::assets::eq5-1705441231.jpg'
               alt: null
     invert_text_colors: false
     text_alignment: left
@@ -132,5 +178,5 @@ rows:
     enabled: true
     form_template: forms/default
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1704308580
+updated_at: 1705441236
 ---
