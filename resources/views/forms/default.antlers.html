@@ -12,8 +12,8 @@
             </div>
         {{ /if }}
 
-        {{ fields }}
-            <div class="p-2">
+        <div class="p-2">
+            {{ fields }}
                 <label class="font-bold">{{ display }}</label>
                 <div class="p-1">
                     {{ field }}
@@ -24,10 +24,10 @@
                 {{ if error }}
                     <p class="text-gray-500">{{ error }}</p>
                 {{ /if }}
+            {{ /fields }}
+            <div class="">
+                <button type="submit" class="block px-20 py-2 my-2 text-lg font-bold text-white rounded-lg bg-brand hover:bg-brand ">Submit</button>
             </div>
-        {{ /fields }}
-        <div class="py-2">
-            <button type="submit" class="block px-20 py-2 mx-auto my-2 text-lg font-bold text-white rounded-lg bg-brand hover:bg-brand ">Submit</button>
         </div>
     {{ /form:create }}
 </div>
