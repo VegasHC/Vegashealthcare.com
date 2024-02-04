@@ -1,49 +1,60 @@
-sections:
+tabs:
   main:
     display: Main
-    fields:
+    sections:
       -
-        handle: name
-        field:
-          input_type: text
-          antlers: false
-          display: Name
-          type: text
-          icon: text
-          listable: hidden
-          instructions: '* Required'
-          validate:
-            - required
-      -
-        handle: email
-        field:
-          input_type: email
-          antlers: false
-          display: Email
-          type: text
-          icon: text
-          listable: hidden
-          instructions: '* Required'
-          validate:
-            - required
-            - email
-      -
-        handle: phone
-        field:
-          input_type: tel
-          antlers: false
-          display: Phone
-          type: text
-          icon: text
-          listable: hidden
-      -
-        handle: message
-        field:
-          antlers: false
-          display: Message
-          type: textarea
-          icon: textarea
-          listable: hidden
-          instructions: '* Required'
-          validate:
-            - required
+        fields:
+          -
+            handle: name
+            field:
+              input_type: text
+              antlers: false
+              display: Name
+              type: text
+              icon: text
+              listable: hidden
+              validate:
+                - required
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: email
+            field:
+              input_type: email
+              antlers: false
+              display: Email
+              type: text
+              icon: text
+              listable: hidden
+              validate:
+                - required
+                - email
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: phone
+            field:
+              input_type: tel
+              antlers: false
+              display: Phone
+              type: text
+              icon: text
+              listable: hidden
+          -
+            handle: message
+            field:
+              antlers: false
+              display: Message
+              type: textarea
+              icon: textarea
+              listable: hidden
+              validate:
+                - required
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
