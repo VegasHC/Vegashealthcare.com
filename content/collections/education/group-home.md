@@ -251,44 +251,31 @@ rows:
     id: lpzzz5i9
     col_1:
       -
-        type: paragraph
-        content:
-          -
-            type: image
-            attrs:
-              src: 'asset::assets::10905219-1701111837.png'
-              alt: null
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'Click here to search for Group Homes'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Click here to search for Group Homes'
-    col_2:
+        type: set
+        attrs:
+          id: ls9bmoj9
+          values:
+            type: cta
+            link: 'https://vegashealthcare.com/search/results?providers%5Bquery%5D=group%20home&providers%5BrefinementList%5D%5Bservices%5D%5B0%5D=Group%20Home'
+            text: 'Search for Group Homes'
+            color: bg-primary
+            icon: search
+            open_in_new_window: true
       -
         type: paragraph
-        content:
-          -
-            type: image
-            attrs:
-              src: 'asset::assets::3447545.png'
-              alt: null
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://vegashealthcare.com/contact-us'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Still have questions, contact us!'
+    col_2:
+      -
+        type: set
+        attrs:
+          id: ls9bngv0
+          values:
+            type: cta
+            link: 'entry::345cac2c-09b9-4c69-b4ce-b35025a6537e'
+            text: 'Contact Us'
+            color: bg-brand
+            open_in_new_window: true
+      -
+        type: paragraph
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -297,5 +284,5 @@ rows:
     type: two_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1702243803
+updated_at: 1707161183
 ---
