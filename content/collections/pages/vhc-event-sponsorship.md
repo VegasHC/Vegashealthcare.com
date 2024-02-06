@@ -12,13 +12,13 @@ rows:
         content:
           -
             type: text
-            text: "Thank you for your interest in becoming a VHC sponsor. Your support is crucial to our success and aligns with our goals. We're excited about the potential of partnering with you to create a meaningful impact."
+            text: "From the bottom of our hearts, we thank you for your interest in becoming a VegasHealthCare sponsor. We're excited about the potential of partnering with you to create a meaningful impact in Southern Nevada. Our mission is to “bringing community back to healthcare”. As you know, VegasHealthCare was created by a group of dedicated healthcare professionals whose goals include providing education, information, communication, and available resources to our community at large. We are confident that your support through sponsorship will enable us to succeed in reaching said goals. Your support is crucial to our success, and we would be honored to partner with amazing sponsors who share a similar vision of healthcare."
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'We are looking for 2 sponsors per event and the cost of sponsorship would be $1500 for each sponsor.'
+            text: 'We are looking for 2 sponsors per event. The cost of sponsorship is $1,500 for each sponsor per event.'
     invert_text_colors: false
     text_alignment: left
     background_size: cover
@@ -34,7 +34,7 @@ rows:
         content:
           -
             type: text
-            text: 'Here are the benefits of being a sponsor:'
+            text: 'The benefits of being a sponsor include:'
       -
         type: bulletList
         content:
@@ -46,7 +46,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: 'Exposure in group'
+                    text: 'Additional exposure in our VHC Directory, where you can add your business bio along with a company logo or picture, as well as our FaceBook group, now 13k members strong!'
           -
             type: listItem
             content:
@@ -55,7 +55,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: 'Company description and Thank You on Newsletter'
+                    text: 'A detailed description of your company and “Thank You” on our VHC Newsletter.'
           -
             type: listItem
             content:
@@ -64,7 +64,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: 'You or a guest of your company/organization will have 2 minutes during the live event to get up on the microphone and tell our attendees a little more about your company.'
+                    text: 'You or a member of your company/organization will have 2 minutes during the live event to speak to all attendees a little more about your company.'
           -
             type: listItem
             content:
@@ -73,7 +73,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: 'Complimentary promotional table will be provided.'
+                    text: 'A complimentary promotional table will be provided. We encourage your company to bring all the marketing materials you can and distribute them freely.'
           -
             type: listItem
             content:
@@ -82,7 +82,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: 'You will also receive exposure on VegasHealthcare.com for 90 days as an Enhanced Member showcasing your business to our online visitors.'
+                    text: 'You will also receive exposure on VegasHealthcare.com for 90 days as an Enhanced Member showcasing your business to our online visitors (this bonus is valued at $300)'
           -
             type: listItem
             content:
@@ -91,7 +91,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: '5 min podcast interview'
+                    text: '5 min podcast interview, conducted by Diego and the content will made available for your use without restrictions. (valued at $200)'
           -
             type: listItem
             content:
@@ -100,7 +100,7 @@ rows:
                 content:
                   -
                     type: text
-                    text: 'Logo in Group Welcome'
+                    text: 'We will place your logo in the Group Welcome'
     col_2:
       -
         type: paragraph
@@ -178,5 +178,5 @@ rows:
     enabled: true
     form_template: forms/default
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1705441236
+updated_at: 1707253562
 ---

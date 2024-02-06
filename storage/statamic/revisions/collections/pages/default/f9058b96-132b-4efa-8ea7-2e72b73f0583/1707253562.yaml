@@ -1,0 +1,188 @@
+action: publish
+date: 1707253562
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: f9058b96-132b-4efa-8ea7-2e72b73f0583
+  slug: vhc-event-sponsorship
+  published: true
+  date: null
+  data:
+    blueprint: pages
+    title: 'VHC Event Sponsorship'
+    rows:
+      -
+        id: lqwv0v86
+        show_toc: false
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: "From the bottom of our hearts, we thank you for your interest in becoming a VegasHealthCare sponsor. We're excited about the potential of partnering with you to create a meaningful impact in Southern Nevada. Our mission is to “bringing community back to healthcare”. As you know, VegasHealthCare was created by a group of dedicated healthcare professionals whose goals include providing education, information, communication, and available resources to our community at large. We are confident that your support through sponsorship will enable us to succeed in reaching said goals. Your support is crucial to our success, and we would be honored to partner with amazing sponsors who share a similar vision of healthcare."
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'We are looking for 2 sponsors per event. The cost of sponsorship is $1,500 for each sponsor per event.'
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: one_column_content
+        enabled: true
+      -
+        id: lrb0mm1i
+        col_1:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'The benefits of being a sponsor include:'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'Additional exposure in our VHC Directory, where you can add your business bio along with a company logo or picture, as well as our FaceBook group, now 13k members strong!'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'A detailed description of your company and “Thank You” on our VHC Newsletter.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'You or a member of your company/organization will have 2 minutes during the live event to speak to all attendees a little more about your company.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'A complimentary promotional table will be provided. We encourage your company to bring all the marketing materials you can and distribute them freely.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'You will also receive exposure on VegasHealthcare.com for 90 days as an Enhanced Member showcasing your business to our online visitors (this bonus is valued at $300)'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: '5 min podcast interview, conducted by Diego and the content will made available for your use without restrictions. (valued at $200)'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    content:
+                      -
+                        type: text
+                        text: 'We will place your logo in the Group Welcome'
+        col_2:
+          -
+            type: paragraph
+            content:
+              -
+                type: image
+                attrs:
+                  src: 'asset::assets::eq6.jpg'
+                  alt: null
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: two_column_content
+        enabled: true
+      -
+        id: lrb0ojws
+        col_1:
+          -
+            type: paragraph
+            content:
+              -
+                type: image
+                attrs:
+                  src: 'asset::assets::eq-1705441163.jpg'
+                  alt: null
+        col_2:
+          -
+            type: paragraph
+            content:
+              -
+                type: image
+                attrs:
+                  src: 'asset::assets::eq7.jpg'
+                  alt: null
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: two_column_content
+        enabled: true
+      -
+        id: lqy52jzj
+        col_1:
+          -
+            type: paragraph
+            content:
+              -
+                type: image
+                attrs:
+                  src: 'asset::assets::eq1-1705441016.jpg'
+                  alt: null
+        col_2:
+          -
+            type: paragraph
+            content:
+              -
+                type: image
+                attrs:
+                  src: 'asset::assets::eq5-1705441231.jpg'
+                  alt: null
+        invert_text_colors: false
+        text_alignment: left
+        background_size: cover
+        background_position: 'center center'
+        background_padding: py-8
+        type: two_column_content
+        enabled: true
+      -
+        id: lqwxtgk0
+        form_handle: event_sponsor_form
+        type: form
+        enabled: true
+        form_template: forms/default
+    review: null
+    template: null
