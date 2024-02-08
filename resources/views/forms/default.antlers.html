@@ -1,5 +1,5 @@
 <div class="max-w-xl mx-auto">
-    {{ form:create :in="form_handle" id="contact-form" }}
+    {{ form:create :in="form_handle" :id="form_handle:handle" }}
         {{ if success }}
             <div class="p-8 text-xl text-center text-green">
                 Thank you! We'll be in touch soon.
@@ -17,7 +17,8 @@
                 <label class="font-bold">{{ display }}</label>
                 <div class="p-1">
                     {{ field }}
-                    <span class="text-sm text-gray-500">{{ instructions }}</span>
+                    {{ if validate|contains:required }}<p class="my-0 text-sm text-gray-500">* Required</p>{{ /if}}
+                    <p class="my-0 text-sm text-gray-500">{{ instructions }}</p>
                 </div>
 
                 {{ if error }}
@@ -25,6 +26,6 @@
                 {{ /if }}
             </div>
         {{ /fields }}
-        <button type="submit" class="block px-20 py-2 mx-auto text-lg font-bold text-white rounded-lg bg-brand hover:bg-brand ">Submit</button>
+        <button type="submit" class="px-20 py-2 my-2 text-lg font-bold text-white rounded-lg bg-brand hover:bg-brand ">Submit</button>
     {{ /form:create }}
 </div>

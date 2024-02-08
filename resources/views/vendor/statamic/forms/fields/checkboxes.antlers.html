@@ -1,0 +1,15 @@
+<input type="hidden" name="{{ handle }}[]">
+{{ foreach:options as="option|label"}}
+    <label class="{{ inline ? 'inline-flex' : 'flex justify-center' }} items-center">
+        <input
+            type="checkbox"
+            class="ml-2 mr-1"
+            name="{{ handle }}[]"
+            value="{{ option }}"
+            {{ if js_driver }}{{ js_attributes }}{{ /if }}
+            {{ if value|in_array:option }}checked{{ /if }}
+            {{ if validate|contains:required }}required{{ /if }}
+        >
+        {{ label !== null ? label : option }}
+    </label>
+{{ /foreach:options }}
