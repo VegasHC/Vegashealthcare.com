@@ -1,0 +1,46 @@
+action: publish
+date: 1707523092
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: fb7a2792-669d-4045-badb-b4ac46e8b87a
+  slug: senior-services-60bc37e0945e2
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    org_name: 'Monarch Group Home, LLC'
+    address: '6112 FISHER AVE'
+    city: 'LAS VEGAS'
+    zip: '89130'
+    state: NV
+    phone: 702-750-8938
+    category: care-services
+    services:
+      - group-home
+    title: 'Monarch Group Home, LLC'
+    _geoloc:
+      lat: 36.2574
+      lng: -115.29
+    sponsored: false
+    first_name: Cecile
+    last_name: Arca
+    fax: 702-805-4770
+    website: null
+    email: null
+    image: null
+    description: null
+    promotion_level: null
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

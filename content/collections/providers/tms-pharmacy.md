@@ -9,6 +9,7 @@ phone: 725-204-9605
 fax: 725-204-5068
 website: 'https://www.tmspharmacyus.com/'
 email: tmspharmacy89123@gmail.com
+image: providers/tms.jpg
 description: |-
   Independent retail pharmacy. We do accept most insurances, LTC, Nursing homes.
   Free medicine delivery - Free pharmacist consultation.
@@ -26,5 +27,5 @@ _geoloc:
   lat: 36.043921851059
   lng: -115.15059596137
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1706813426
+updated_at: 1707323436
 ---

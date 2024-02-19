@@ -1,12 +1,18 @@
 title: Articles
 template: articles/show
 layout: layout
+taxonomies:
+  - services
 revisions: false
 route: '/articles/{slug}'
 sort_dir: asc
 date_behavior:
   past: public
   future: private
+preview_targets:
+  -
+    label: Entry
+    url: '{permalink}'
+    refresh: true
 structure:
   root: false
-  tree: {  }
