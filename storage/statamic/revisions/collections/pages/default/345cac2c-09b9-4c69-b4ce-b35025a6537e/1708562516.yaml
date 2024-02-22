@@ -1,5 +1,5 @@
-action: revision
-date: 1676315159
+action: publish
+date: 1708562516
 user: 87a74d1c-1760-42c5-afc1-1cc59be16098
 attributes:
   id: 345cac2c-09b9-4c69-b4ce-b35025a6537e
@@ -8,6 +8,6 @@ attributes:
   date: null
   data:
     title: 'Contact Us'
-    template: pages/contact
+    template: null
     rows: {  }
     review: null
