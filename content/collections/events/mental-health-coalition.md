@@ -15,7 +15,7 @@ description:
       values:
         type: image
         image: mental-health.png
-registration_link: 'https://vegashealthcare.zohobackstage.com/ResidentialCareFacilityMeeting1'
+registration_link: 'https://vegashealthcare.zohobackstage.com/MentalHealthCoalition'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1708562499
+updated_at: 1708562626
 ---
