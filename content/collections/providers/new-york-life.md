@@ -10,13 +10,13 @@ sponsored: true
 category: navigating-health-insurance
 services:
   - financial-planning
-address: '6325 S. Rainbow Blvd Ste 400'
+address: '7736 Buckhorn Island Ave'
 city: 'Las Vegas'
 state: NV
-zip: '89118'
+zip: '89113'
 _geoloc:
-  lat: 36.073800897951
-  lng: -115.2447691
+  lat: '36.075750022276026,'
+  lng: -115.25928485767
 fax: 702-796-2073
 website: 'https://yuan.nylagents.com/'
 email: ylai1@ft.newyorklife.com
@@ -47,5 +47,5 @@ description: |-
   Licensed Insurance Agency and New York Life Company, 6325 S. Rainbow Blvd., Suite 400, NV 89118
 promotion_level: '10'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1708540908
+updated_at: 1708708128
 ---
