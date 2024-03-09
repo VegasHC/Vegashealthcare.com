@@ -1,0 +1,45 @@
+action: revision
+date: 1708540786
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 575cd375-53e8-4154-a837-8d42b53fc9a1
+  slug: medsmart
+  published: false
+  date: null
+  data:
+    title: Medsmart
+    org_name: Medsmart
+    first_name: Chris
+    middle_name: null
+    last_name: Reynolds
+    suffix_name: null
+    phone: 702-281-5530
+    fax: 702-733-0617
+    website: 'https://www.medsmartinc.com/'
+    links: {  }
+    email: Creynolds@medsmartinc.com
+    image: providers/med_smart_inc_logo.jpg
+    description: 'Our team is experienced in providing our clients with expert nurses and allied health professionals who provide patients with the most comfort and care. For over 20 years, we have had success with staffing facilities with employees they can rely on again and again.'
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: staffing-and-recruting
+    services:
+      - medical-staffing
+    promotion_level: '10'
+    address: '3185 St Rose Pkwy Ste #330'
+    address_2: null
+    city: Henderson
+    state: NV
+    zip: '89052'
+    _geoloc:
+      lat: 35.997742461332
+      lng: -115.12342792884
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
