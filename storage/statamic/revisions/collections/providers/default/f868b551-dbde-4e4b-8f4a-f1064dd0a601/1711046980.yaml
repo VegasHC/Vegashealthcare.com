@@ -1,0 +1,46 @@
+action: publish
+date: 1711046980
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: f868b551-dbde-4e4b-8f4a-f1064dd0a601
+  slug: new-york-life
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'New York Life'
+    org_name: 'New York Life'
+    first_name: Yuan-Fen
+    last_name: Lai
+    phone: 973-462-3887
+    sponsored: false
+    category: navigating-health-insurance
+    services:
+      - financial-planning
+    address: '7736 Buckhorn Island Ave'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89113'
+    _geoloc:
+      lat: '36.075750022276026,'
+      lng: -115.25928485767
+    middle_name: null
+    suffix_name: null
+    fax: 702-796-2073
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
