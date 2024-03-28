@@ -1,0 +1,45 @@
+action: publish
+date: 1711647853
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: baa5b61a-179d-49eb-afee-4e7dd33be846
+  slug: integrated-pain-relief
+  published: true
+  date: null
+  data:
+    title: 'Integrated Pain Relief'
+    org_name: 'Integrated Pain Relief'
+    first_name: 'Dr. Jon'
+    middle_name: null
+    last_name: Petrick
+    suffix_name: null
+    phone: 702-948-2520
+    fax: 702-948-2523
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    category: doctors
+    services:
+      - pain-management
+    promotion_level: null
+    address: '2779 W Horizon Ridge Pkwy #210B'
+    address_2: null
+    city: Henderson
+    state: NV
+    zip: '89052'
+    _geoloc:
+      lat: 35.999152655323
+      lng: -115.10949446931
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
