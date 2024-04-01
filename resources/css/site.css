@@ -136,3 +136,7 @@
 #mobile-nav{
     z-index: 10000;
 }
+
+.cf-turnstile {
+    display: none;
+}
