@@ -1,0 +1,43 @@
+action: publish
+date: 1711659636
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 652db294-51ad-48e3-96ee-b33d7d770eeb
+  slug: nevadahealthlink-com
+  published: true
+  date: null
+  data:
+    title: NevadaHealthLink.com
+    org_name: NevadaHealthLink.com
+    first_name: Gricelda
+    middle_name: null
+    last_name: Chapa
+    suffix_name: null
+    phone: 1-800-547-2927
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    category: insurance
+    services:
+      - health-insurance-compare-plans
+    promotion_level: null
+    address: null
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
