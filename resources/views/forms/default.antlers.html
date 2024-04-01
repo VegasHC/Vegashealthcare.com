@@ -1,7 +1,6 @@
 <div class="max-w-xl mx-auto">
     {{ nocache }}
         {{ form:create :in="form_handle" :id="form_handle:handle" }}
-            {{ captcha }}
             {{ if success }}
                 <div class="p-8 text-xl text-center text-green">
                     Thank you! We'll be in touch soon.
@@ -32,6 +31,7 @@
                 </div>
             {{ /fields }}
             <button type="submit" class="px-20 py-2 my-2 text-lg font-bold text-white rounded-lg bg-brand hover:bg-brand ">Submit</button>
+            {{ captcha }}
         {{ /form:create }}
     {{ /nocache }}
 </div>
