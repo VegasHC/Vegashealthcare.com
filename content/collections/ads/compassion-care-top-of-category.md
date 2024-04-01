@@ -4,7 +4,7 @@ blueprint: ads
 title: 'Compassion Care top of category'
 placement: top
 image: tinywow_ad-logo-new_11436757.jpg
-link: 'https://vegashealthcare.com/education/hospice-education'
+link: 'https://vegashealthcare.com/healthcare-guide/hospice'
 active: true
 services:
   - hospice
@@ -12,5 +12,5 @@ services:
 categories:
   - senior-services
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1685723225
+updated_at: 1711992224
 ---
