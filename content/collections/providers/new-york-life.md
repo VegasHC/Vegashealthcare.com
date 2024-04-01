@@ -15,7 +15,7 @@ city: 'Las Vegas'
 state: NV
 zip: '89113'
 _geoloc:
-  lat: '36.075750022276026,'
+  lat: 36.075750022276026
   lng: -115.25928485767
 fax: 702-796-2073
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
