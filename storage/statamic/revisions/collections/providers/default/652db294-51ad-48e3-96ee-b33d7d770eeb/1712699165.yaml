@@ -1,0 +1,44 @@
+action: publish
+date: 1712699165
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 652db294-51ad-48e3-96ee-b33d7d770eeb
+  slug: nevadahealthlink-com
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: NevadaHealthLink.com
+    org_name: NevadaHealthLink.com
+    first_name: null
+    last_name: null
+    phone: 1-800-547-2927
+    sponsored: false
+    category: insurance
+    services:
+      - health-insurance-compare-plans
+    middle_name: null
+    suffix_name: null
+    fax: null
+    website: 'https://www.nevadahealthlink.com/'
+    links: {  }
+    email: null
+    image: providers/eq.png
+    description: 'NevadaHealthLink.com is Nevada’s health insurance marketplace, and the only place where Nevadans can receive financial help on monthly premiums. The state-based marketplace offers a variety of health insurance plan options to every Nevadan through trusted health insurance carriers. Nevada Health Link also partners with multiple carriers to offer dental and vision plans. Nevada Health Link is ideal for those who do not qualify for Medicare or Medicaid and do not have employer-sponsored health insurance. Nevada Health Link is operated by the Silver State Health Insurance Exchange. Nevada Health Link encourages Nevadans to use the free assistance of a licensed enrollment professional by calling 1-800-547-2927 or by visiting NevadaHealthLink.com.'
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: null
+    address: null
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
