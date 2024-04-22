@@ -1,0 +1,46 @@
+action: publish
+date: 1713796985
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: d74dcbae-8c4a-42de-a990-214d0fb63f81
+  slug: genics-laboratories
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Genics Laboratories'
+    org_name: 'Genics Laboratories'
+    first_name: Yulia
+    last_name: Leontieva
+    phone: 702-302-9717
+    fax: 702-209-3495
+    website: null
+    image: null
+    description: null
+    sponsored: false
+    category: imaging-and-labs
+    services:
+      - molecular-laboratory
+    promotion_level: null
+    address: '5052 S Jones Blvd # 135'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89118'
+    _geoloc:
+      lat: 36.09754564926
+      lng: -115.22443561534
+    gallery: {  }
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    email: null
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

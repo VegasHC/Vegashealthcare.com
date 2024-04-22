@@ -1,0 +1,46 @@
+action: publish
+date: 1713797005
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: c3d4cf21-8927-4fa0-b817-8b1216fd99b5
+  slug: sandstone-medical-solutions
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Sandstone Medical Solutions'
+    org_name: 'Sandstone Medical Solutions'
+    first_name: Krystle
+    last_name: Sirilla
+    phone: 702-978-8000
+    fax: 702-978-8001
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: false
+    category: billing-services
+    services:
+      - medical-billing
+    promotion_level: null
+    address: '2921 N. Tenaya Way'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89128'
+    _geoloc:
+      lat: 36.214349651448
+      lng: -115.25104215754
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
