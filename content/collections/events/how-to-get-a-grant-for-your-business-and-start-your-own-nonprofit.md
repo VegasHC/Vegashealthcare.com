@@ -13,8 +13,8 @@ description:
       id: lvbclrvy
       values:
         type: image
-        image: workshop.png
+        image: workshop-1713820222.png
 registration_link: 'https://web.lasvegasheals.org/events/Workshop-on-How-to-Get-a-Grant-for-your-Business-and-Start-your-Own-Nonprofit--3435/details'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1713814010
+updated_at: 1713820224
 ---
