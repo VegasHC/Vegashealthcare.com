@@ -1,7 +1,7 @@
 ---
-id: 74672582-8754-4c25-93ae-f6dd800fec9e
+id: 505b4515-d549-43f2-b032-51d410e4ca02
 blueprint: event
-title: 'Business Mixer'
+title: 'Dangle & Dot: Happy Hour Memories'
 recurrence: none
 timezone: America/Los_Angeles
 all_day: false
@@ -10,10 +10,10 @@ description:
   -
     type: set
     attrs:
-      id: lvwi4y6u
+      id: lvwiddyz
       values:
         type: image
-        image: hcc-lv-business-mixer.png
+        image: 'tinywow_sdangle-&-dot-final_55186408_1.jpg'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1715093396
+updated_at: 1715093481
 ---
