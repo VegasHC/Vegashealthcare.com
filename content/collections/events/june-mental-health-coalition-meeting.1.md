@@ -1,5 +1,5 @@
 ---
-id: 857ae938-3d83-48e6-bc47-7571ffdcf764
+id: 762bb1cc-402f-4830-9a57-a5682952ce4a
 blueprint: event
 title: 'June Mental Health Coalition Meeting'
 recurrence: none
@@ -11,10 +11,10 @@ description:
   -
     type: set
     attrs:
-      id: lxpax8ou
+      id: lxrnpela
       values:
         type: image
-        image: june-mental-health-2.png
+        image: june-mental-health-2-1719153686.png
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1719011396
+updated_at: 1719153690
 ---
