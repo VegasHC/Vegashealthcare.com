@@ -15,5 +15,5 @@ description:
         image: how-to-become-a-successful-marketer.png
 registration_link: 'https://tinyurl.com/4cpd3rr2'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1718819795
+updated_at: 1719438587
 ---
