@@ -12,9 +12,9 @@ description:
       id: lxm4o2nq
       values:
         type: image
-        image: how-to-become-a-successful-marketer.png
-registration_link: 'https://tinyurl.com/4cpd3rr2'
+        image: how-to-become-a-successful-marketer-2.png
+registration_link: 'https://tinyurl.com/ydyp8ep4'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1719932545
+updated_at: 1720448229
 start_date: '2024-07-25'
 ---
