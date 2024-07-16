@@ -17,8 +17,8 @@ _geoloc:
 first_name: Noreen
 last_name: Cadawas-Padilla
 fax: 702-360-6679
-email: noreencp@cascadeliving.com
 sponsored: false
+promotion_level: '0'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1713908886
+updated_at: 1721139631
 ---
