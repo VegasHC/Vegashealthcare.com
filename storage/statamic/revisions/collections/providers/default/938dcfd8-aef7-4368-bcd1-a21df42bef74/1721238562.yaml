@@ -1,0 +1,45 @@
+action: publish
+date: 1721238562
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 938dcfd8-aef7-4368-bcd1-a21df42bef74
+  slug: hicks-and-brasier-injury-lawyers
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Hicks & Brasier Injury Lawyers'
+    org_name: 'Hicks & Brasier Injury Lawyers'
+    phone: 702.628.9888
+    fax: 702.960.4118
+    website: null
+    email: null
+    image: null
+    description: null
+    video: null
+    sponsored: true
+    category: legal-services
+    services: {  }
+    address: '2630 S Jones Blvd'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89146'
+    _geoloc:
+      lat: 36.1491
+      lng: -115.225
+    gallery: {  }
+    video2: null
+    promotion_level: '0'
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    links: {  }
+    insurance_accepted: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
