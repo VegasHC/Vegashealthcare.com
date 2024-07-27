@@ -1,0 +1,44 @@
+action: revision
+date: 1722040554
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 5af21196-0849-4622-acfa-3e909f34b878
+  slug: 4s-wellness-services
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: '4S Wellness Services'
+    org_name: '4S Wellness Services'
+    first_name: Toni
+    last_name: Warren
+    phone: 702-487-9555
+    fax: null
+    sponsored: false
+    category: behavioral-health
+    services:
+      - mental-wellness
+    address: '501 S Rancho Dr #D20'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89106'
+    _geoloc: null
+    middle_name: null
+    suffix_name: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
