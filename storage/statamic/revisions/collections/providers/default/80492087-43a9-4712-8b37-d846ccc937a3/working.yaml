@@ -1,0 +1,46 @@
+action: revision
+date: 1722043321
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 80492087-43a9-4712-8b37-d846ccc937a3
+  slug: agave-specialty-care
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Agave Specialty Care'
+    org_name: 'Agave Specialty Care'
+    first_name: Homer
+    last_name: Sims
+    phone: 725-204-9005
+    sponsored: false
+    category: care-services
+    services:
+      - group-home
+    address: '3335 Rawhide St'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89120'
+    _geoloc:
+      lat: 36.089383304404
+      lng: -115.1024307
+    middle_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
