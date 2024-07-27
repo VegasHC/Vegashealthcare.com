@@ -1,5 +1,5 @@
-action: revision
-date: 1722040857
+action: publish
+date: 1722041555
 user: 87a74d1c-1760-42c5-afc1-1cc59be16098
 attributes:
   id: 5af21196-0849-4622-acfa-3e909f34b878
@@ -21,7 +21,9 @@ attributes:
     city: 'Las Vegas'
     state: NV
     zip: '89106'
-    _geoloc: null
+    _geoloc: |-
+      lat:36.16585756932874
+      lng:-115.1712704595232
     middle_name: null
     suffix_name: null
     website: null
