@@ -1,0 +1,46 @@
+action: revision
+date: 1722185869
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: f872a9f3-746b-4503-926b-e762a5723046
+  slug: senior-services-60bc37d1ea0d2
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    org_name: 'HOSPICE DEL SOL'
+    address: '3634 NORTH RANCHO DRIVE'
+    city: 'LAS VEGAS'
+    state: NV
+    zip: '89130'
+    phone: 702-818-4270
+    category: senior-services
+    services:
+      - hospice
+    title: 'HOSPICE DEL SOL'
+    _geoloc:
+      lat: 36.3792
+      lng: -115.372
+    fax: null
+    sponsored: false
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
