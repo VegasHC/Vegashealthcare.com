@@ -1,0 +1,46 @@
+action: publish
+date: 1722188337
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 0137b207-f52c-4a9a-8400-295192005470
+  slug: v-health-center
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'V Health Center'
+    org_name: 'V Health Center'
+    first_name: 'Dr. Cristina'
+    last_name: 'Viceral, DNP, FNP-C'
+    phone: 702-790-0454
+    fax: null
+    insurance_accepted: null
+    sponsored: false
+    category: doctors
+    services:
+      - primary-care
+    address: '701 E Bridger Ave #130'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89101'
+    _geoloc:
+      lat: 36.166102548609
+      lng: -115.13914300185
+    middle_name: null
+    suffix_name: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
