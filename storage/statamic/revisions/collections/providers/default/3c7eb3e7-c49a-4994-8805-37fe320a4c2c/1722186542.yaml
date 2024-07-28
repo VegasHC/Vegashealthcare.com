@@ -1,0 +1,46 @@
+action: publish
+date: 1722186542
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 3c7eb3e7-c49a-4994-8805-37fe320a4c2c
+  slug: lifeologie-counseling-henderson
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Lifeologie Counseling Henderson'
+    org_name: 'Lifeologie Counseling Henderson'
+    first_name: Mo
+    last_name: Mehrafarin
+    phone: 702-268-7223
+    sponsored: false
+    category: behavioral-health
+    services:
+      - counseling-services
+    address: '880 Seven Hills Drive Suite 200'
+    city: Henderson
+    state: NV
+    zip: '89052'
+    _geoloc:
+      lat: 35.995878285051
+      lng: -115.121534
+    middle_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
