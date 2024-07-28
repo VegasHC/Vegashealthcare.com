@@ -6,7 +6,6 @@ org_name: 'Sandstone Medical Solutions'
 first_name: Krystle
 last_name: Sirilla
 phone: 702-978-8000
-fax: 702-978-8001
 sponsored: false
 category: billing-services
 services:
@@ -18,6 +17,7 @@ zip: '89128'
 _geoloc:
   lat: 36.214349651448
   lng: -115.25104215754
+promotion_level: '0'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1713797005
+updated_at: 1722187763
 ---
