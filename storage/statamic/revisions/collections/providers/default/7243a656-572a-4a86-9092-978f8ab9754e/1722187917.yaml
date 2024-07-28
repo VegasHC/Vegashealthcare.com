@@ -1,0 +1,46 @@
+action: publish
+date: 1722187917
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 7243a656-572a-4a86-9092-978f8ab9754e
+  slug: physical-therapy-60bc372cadc9b
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    last_name: Zimney
+    first_name: Natalie
+    license_number: '1648'
+    license_type: 'Physical Therapist'
+    org_name: 'Sonoma Home Health'
+    address: '6225 Dean Martin'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89118'
+    category: senior-services
+    services:
+      - home-health
+    title: 'Sonoma Home Health'
+    _geoloc:
+      lat: 36.0494
+      lng: -115.184
+    sponsored: false
+    phone: 702-222-0733
+    fax: null
+    middle_name: null
+    suffix_name: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    license_status: null
+    license_expiration: null
