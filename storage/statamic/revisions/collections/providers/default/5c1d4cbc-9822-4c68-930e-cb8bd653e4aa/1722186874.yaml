@@ -1,0 +1,44 @@
+action: publish
+date: 1722186874
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 5c1d4cbc-9822-4c68-930e-cb8bd653e4aa
+  slug: mind-matters
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Mind Matters'
+    org_name: 'Mind Matters'
+    first_name: 'Dr. Mayes'
+    phone: 877-926-6463
+    fax: null
+    sponsored: false
+    category: doctors
+    services:
+      - neuropsychiatry
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address: null
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
