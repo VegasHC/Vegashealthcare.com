@@ -1,0 +1,45 @@
+action: revision
+date: 1722132255
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 2e3f954f-22b4-494b-9b6d-1c82e66df125
+  slug: durango-personal-care
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Durango Personal Care'
+    org_name: 'Durango Personal Care'
+    first_name: Scott
+    last_name: Bakalor
+    phone: 702-514-0294
+    fax: null
+    website: null
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    sponsored: false
+    category: care-services
+    services: {  }
+    promotion_level: '0'
+    address: '8431 W Fisher Ave'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89149'
+    _geoloc:
+      lat: 36.257402256565
+      lng: -115.27924997116
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
