@@ -14,8 +14,8 @@ title: 'HOSPICE DEL SOL'
 _geoloc:
   lat: 36.3792
   lng: -115.372
-fax: 702-834-5184
 sponsored: false
+promotion_level: '0'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1707778573
+updated_at: 1722185874
 ---
