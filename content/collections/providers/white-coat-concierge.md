@@ -10,7 +10,7 @@ services:
   - mobile-physician
 first_name: Bernadette
 last_name: Bowyer
-insurance_accepted: 'Aetna, United Healthcare, Anthem, Tricare, CHAMPVA, CIGNA, MultiPlan, Medicare, and Medicaid.'
+promotion_level: '0'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1705866496
+updated_at: 1722188612
 ---
