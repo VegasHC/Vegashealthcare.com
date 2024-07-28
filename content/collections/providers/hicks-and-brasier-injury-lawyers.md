@@ -4,8 +4,7 @@ blueprint: providers
 title: 'Hicks & Brasier Injury Lawyers'
 org_name: 'Hicks & Brasier Injury Lawyers'
 phone: 702.628.9888
-fax: 702.960.4118
-sponsored: true
+sponsored: false
 category: legal-services
 address: '2630 S Jones Blvd'
 city: 'Las Vegas'
@@ -16,5 +15,5 @@ _geoloc:
   lng: -115.225
 promotion_level: '0'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1721238562
+updated_at: 1722185781
 ---
