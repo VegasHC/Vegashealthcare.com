@@ -1,0 +1,45 @@
+action: publish
+date: 1722188003
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 37b04fc0-6f05-43ed-ae81-bc36d40c1e93
+  slug: staffingenious
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: StaffinGenious
+    org_name: StaffinGenious
+    first_name: Tashi
+    last_name: Campbell
+    phone: 702-820-5630
+    fax: null
+    sponsored: false
+    category: staffing-and-recruting
+    services: {  }
+    address: '6930 S Cimarron Rd Ste 260'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89113'
+    _geoloc:
+      lat: 36.06255014096
+      lng: -115.2695846
+    middle_name: null
+    suffix_name: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
