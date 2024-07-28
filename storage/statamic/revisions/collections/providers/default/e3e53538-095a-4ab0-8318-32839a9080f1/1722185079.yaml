@@ -1,0 +1,46 @@
+action: publish
+date: 1722185079
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: e3e53538-095a-4ab0-8318-32839a9080f1
+  slug: senior-services-60bc37df190bc
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    org_name: 'Golden Years Residential Care'
+    address: '6990 Edna Ave'
+    city: 'LAS VEGAS'
+    zip: '89117'
+    state: NV
+    phone: 702-901-9281
+    category: care-services
+    title: 'Golden Years Residential Care'
+    _geoloc:
+      lat: 36.256
+      lng: -115.23
+    sponsored: false
+    first_name: Carmen
+    last_name: Hirciag
+    fax: null
+    services:
+      - residential-care-facility
+    middle_name: null
+    suffix_name: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
