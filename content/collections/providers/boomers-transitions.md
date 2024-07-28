@@ -6,11 +6,9 @@ org_name: 'Boomers Transitions'
 first_name: Elton
 last_name: Brown
 phone: 702-550-9345
-sponsored: true
+sponsored: false
 category: senior-services
-services:
-  - senior-moving-specialist
 promotion_level: '0'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1721139581
+updated_at: 1722131809
 ---
