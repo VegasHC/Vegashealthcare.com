@@ -9,6 +9,22 @@ fields:
   -
     handle: content
     field: content.bard_content
+    config:
+      buttons:
+        - h2
+        - h3
+        - h4
+        - h5
+        - bold
+        - italic
+        - underline
+        - unorderedlist
+        - orderedlist
+        - removeformat
+        - quote
+        - anchor
+        - image
+        - table
   -
     handle: background_color
     field:
@@ -25,7 +41,6 @@ fields:
         - hex
       display: 'Background Color'
       type: color
-      icon: color
       width: 33
       listable: hidden
       instructions_position: above
@@ -41,7 +56,6 @@ fields:
       max_files: 1
       display: 'Background Image'
       type: assets
-      icon: assets
       width: 33
       listable: hidden
       instructions_position: above
@@ -70,7 +84,6 @@ fields:
       cast_booleans: false
       display: 'Background Blend Mode'
       type: select
-      icon: select
       width: 33
       listable: hidden
       instructions_position: above
@@ -81,7 +94,6 @@ fields:
       default: false
       display: 'Invert Text Colors'
       type: toggle
-      icon: toggle
       width: 50
       listable: hidden
       instructions_position: above
@@ -98,7 +110,6 @@ fields:
       default: left
       display: 'Text Alignment'
       type: radio
-      icon: radio
       width: 50
       listable: hidden
       instructions_position: above
@@ -113,7 +124,6 @@ fields:
       default: cover
       display: 'Background Size'
       type: radio
-      icon: radio
       width: 33
       listable: hidden
       instructions_position: above
@@ -131,7 +141,6 @@ fields:
       default: 'center center'
       display: 'Background Position'
       type: radio
-      icon: radio
       width: 33
       listable: hidden
       instructions_position: above
@@ -149,7 +158,6 @@ fields:
       default: py-8
       display: 'Background Padding'
       type: radio
-      icon: radio
       width: 33
       listable: hidden
       instructions_position: above
