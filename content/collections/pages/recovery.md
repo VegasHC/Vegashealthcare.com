@@ -260,7 +260,7 @@ rows:
             marks:
               -
                 type: bold
-            text: '(SMAHSA Certified)'
+            text: '(SAMHSA Certified)'
       -
         type: paragraph
         content:
@@ -333,7 +333,7 @@ rows:
             marks:
               -
                 type: bold
-            text: '(SMAHSA Certified)'
+            text: '(SAMHSA Certified)'
       -
         type: paragraph
         content:
@@ -398,7 +398,7 @@ rows:
             marks:
               -
                 type: bold
-            text: ' (SMAHSA Certified)'
+            text: ' (SAMHSA Certified)'
       -
         type: orderedList
         attrs:
@@ -491,7 +491,7 @@ rows:
             marks:
               -
                 type: bold
-            text: '(SMAHSA Certified)'
+            text: '(SAMHSA Certified)'
       -
         type: paragraph
         content:
@@ -666,5 +666,5 @@ rows:
     type: one_column_content
     enabled: true
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1701461327
+updated_at: 1722902827
 ---
