@@ -4,7 +4,7 @@ blueprint: providers
 title: 'CompassionCare Hospice'
 org_name: 'Compassion Care'
 phone: 702-636-0200
-sponsored: true
+sponsored: false
 category: senior-services
 address: '7842 West Sahara Avenue'
 city: 'Las Vegas'
@@ -15,5 +15,5 @@ _geoloc:
   lng: -115.248
 promotion_level: '0'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1722040189
+updated_at: 1724710889
 ---

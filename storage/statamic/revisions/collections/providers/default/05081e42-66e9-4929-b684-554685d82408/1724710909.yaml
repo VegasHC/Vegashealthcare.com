@@ -1,0 +1,45 @@
+action: publish
+date: 1724710909
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 05081e42-66e9-4929-b684-554685d82408
+  slug: your-health-insurance-guide
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Your Health Insurance Guide'
+    org_name: 'Your Health Insurance Guide'
+    first_name: Troy
+    last_name: Guidash
+    phone: 972-345-3070
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: false
+    category: navigating-health-insurance
+    services: {  }
+    promotion_level: '0'
+    address: '1750 Valley View Lane STE 140'
+    city: 'Farmers Branch'
+    state: TX
+    zip: '75234'
+    _geoloc:
+      lat: 32.918149154558
+      lng: -96.920420671164
+    middle_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
