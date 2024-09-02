@@ -1,0 +1,45 @@
+action: publish
+date: 1724710873
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 8e0d5060-f8a5-4279-80aa-9da72c4fb52c
+  slug: aegis-living
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Aegis Living'
+    org_name: 'Aegis Living'
+    first_name: Shanon
+    last_name: Moore
+    phone: 702-240-3070
+    fax: null
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: false
+    category: care-services
+    services: {  }
+    promotion_level: '0'
+    address: '9100 W. Desert Inn Road, LV, NV  89117'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89117'
+    _geoloc:
+      lat: 36.130558041273
+      lng: -115.2958896
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
