@@ -2,6 +2,7 @@
 
 use Statamic\Facades\Markdown;
 use Statamic\Facades\Term;
+use Statamic\Support\Arr;
 
 return [
 
@@ -38,12 +39,20 @@ return [
             'fields' => [
                 '_geoloc', 'address', 'category', 'city', 'description', 'email', 'fax', 'first_name', 'gallery', 'id',
                 'image', 'insurance_accepted', 'last_name', 'license_type', 'location', 'middle_name', 'org_name',
-                'phone', 'promotion_level', 'service_category', 'services', 'sponsored', 'state', 'suffix_name', 'title',
-                'test', 'video', 'video2', 'video3', 'video4', 'website', 'zip',
+                'phone', 'priority', 'promotion_level', 'service_category', 'services', 'sponsored', 'state', 'suffix_name',
+                'title', 'test', 'video', 'video2', 'video3', 'video4', 'website', 'zip',
             ],
             'transformers' => [
                 'description' => fn ($description) => Markdown::parse((string) $description),
                 'insurance_accepted' => fn ($text) => Markdown::parse((string) $text),
+                'promotion_level' => function ($level, $searchable) {
+                    $sponsoredPriority = boolval(Arr::get($searchable, 'sponsored')) ? 5 : 0;
+
+                    return [
+                        'priority' => intval($level) + $sponsoredPriority,
+                        'promotion_level' => $level,
+                    ];
+                },
                 'services' => function (?array $services = []) {
                     if (empty($services)) {
                         return [];
