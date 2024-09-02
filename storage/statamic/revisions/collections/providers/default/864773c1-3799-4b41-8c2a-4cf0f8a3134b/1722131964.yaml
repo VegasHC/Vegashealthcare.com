@@ -1,0 +1,45 @@
+action: publish
+date: 1722131964
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 864773c1-3799-4b41-8c2a-4cf0f8a3134b
+  slug: carnegie-heights
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Carnegie Heights'
+    org_name: 'Carnegie Heights'
+    first_name: Cassandra
+    last_name: Grisar
+    phone: 702-476-1501
+    sponsored: false
+    category: senior-services
+    services: {  }
+    address: '525 Carnegie St'
+    city: Henderson
+    state: NV
+    zip: '89052'
+    _geoloc:
+      lat: 36.0075823772
+      lng: -115.0965468
+    middle_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

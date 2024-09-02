@@ -1,0 +1,45 @@
+action: publish
+date: 1722042102
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: fafdbe8e-8a3b-4b1f-bd9a-0b822d574914
+  slug: a-better-solution-in-home-care
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'A Better Solution in Home Care'
+    org_name: 'A Better Solution in Home Care'
+    first_name: Kent
+    last_name: Christensen
+    phone: 702-765-0520
+    fax: null
+    sponsored: false
+    category: care-services
+    services: {  }
+    address: '7251 W Lake Mead Blvd Ste 300'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89128'
+    _geoloc:
+      lat: 36.195697568447
+      lng: -115.25019042884
+    middle_name: null
+    suffix_name: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

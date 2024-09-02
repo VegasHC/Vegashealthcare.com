@@ -5,11 +5,11 @@ title: 'Mind Matters'
 org_name: 'Mind Matters'
 first_name: 'Dr. Mayes'
 phone: 877-926-6463
-fax: 877-421-9262
 sponsored: false
 category: doctors
 services:
   - neuropsychiatry
+promotion_level: '0'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1709319236
+updated_at: 1722186874
 ---

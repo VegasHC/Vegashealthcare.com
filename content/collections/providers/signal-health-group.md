@@ -17,6 +17,7 @@ zip: '89169'
 _geoloc:
   lat: 36.121706994136
   lng: -115.15846667116
+promotion_level: '0'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1698184791
+updated_at: 1722187838
 ---

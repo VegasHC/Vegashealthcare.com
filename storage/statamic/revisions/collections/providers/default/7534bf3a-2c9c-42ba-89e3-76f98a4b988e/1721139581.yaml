@@ -1,0 +1,44 @@
+action: publish
+date: 1721139581
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 7534bf3a-2c9c-42ba-89e3-76f98a4b988e
+  slug: boomers-transitions
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Boomers Transitions'
+    org_name: 'Boomers Transitions'
+    first_name: Elton
+    last_name: Brown
+    phone: 702-550-9345
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: true
+    category: senior-services
+    services:
+      - senior-moving-specialist
+    promotion_level: '0'
+    middle_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address: null
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

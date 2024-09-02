@@ -1,0 +1,45 @@
+action: publish
+date: 1722187380
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 348273fc-ecf8-4559-8060-bdcc4a287145
+  slug: pamela-s-list
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: "Pamela's List"
+    org_name: "Pamela's List"
+    first_name: Pamela
+    last_name: Paulson
+    phone: 702-622-0191
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: false
+    category: staffing-and-recruting
+    services: {  }
+    promotion_level: '0'
+    address: '3157 N. Rainbow Blvd #196'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89108'
+    _geoloc:
+      lat: 36.217563544141
+      lng: -115.24492552884
+    middle_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

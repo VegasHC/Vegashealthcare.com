@@ -17,6 +17,7 @@ zip: '89052'
 _geoloc:
   lat: 35.995878285051
   lng: -115.121534
+promotion_level: '0'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1692294609
+updated_at: 1722186542
 ---

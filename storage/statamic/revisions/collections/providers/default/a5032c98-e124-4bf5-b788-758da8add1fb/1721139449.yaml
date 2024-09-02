@@ -1,0 +1,46 @@
+action: publish
+date: 1721139449
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: a5032c98-e124-4bf5-b788-758da8add1fb
+  slug: good-samaritan-pca
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Good Samaritan PCA'
+    org_name: 'Good Samaritan PCA'
+    first_name: Ana
+    last_name: Bailetti
+    phone: 702-331-4161
+    fax: 702-543-1649
+    insurance_accepted: null
+    sponsored: false
+    category: senior-services
+    services:
+      - pca
+    address: '3365 S. WYNN RD STE F'
+    city: 'LAS VEGAS'
+    state: NV
+    zip: '89102'
+    _geoloc:
+      lat: 36.129194175539
+      lng: -115.19506994233
+    middle_name: null
+    suffix_name: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

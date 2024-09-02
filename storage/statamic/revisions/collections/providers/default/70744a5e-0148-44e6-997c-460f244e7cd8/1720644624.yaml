@@ -1,0 +1,44 @@
+action: publish
+date: 1720644624
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 70744a5e-0148-44e6-997c-460f244e7cd8
+  slug: vibrance-wellness-weight-loss-and-esthetics-llc
+  published: true
+  date: null
+  data:
+    title: 'Vibrance Wellness, Weight Loss and Esthetics, LLC'
+    org_name: 'Vibrance Wellness, Weight Loss and Esthetics, LLC'
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    phone: 720-432-6557
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    category: null
+    services: {  }
+    promotion_level: '0'
+    address: '304 S Jones Blvd #3549'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89107'
+    _geoloc:
+      lat: 30.362693464007
+      lng: -97.952753130683
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
