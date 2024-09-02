@@ -12,9 +12,9 @@ address: '501 S Rancho Dr #D20'
 city: 'Las Vegas'
 state: NV
 zip: '89106'
-_geoloc: |-
-  lat:36.16585756932874
-  lng:-115.1712704595232
+_geoloc:
+  lat: 36.16585756932874
+  lng: -115.1712704595232
 promotion_level: '0'
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
 updated_at: 1722041780
