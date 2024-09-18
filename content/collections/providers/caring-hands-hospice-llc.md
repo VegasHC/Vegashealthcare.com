@@ -21,6 +21,7 @@ zip: '89123'
 _geoloc:
   lat: 36.029706302432
   lng: -115.13506117914
+image: providers/main-logo.png
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1725978689
+updated_at: 1726667511
 ---
