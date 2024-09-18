@@ -1,0 +1,45 @@
+action: publish
+date: 1726622060
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 5b4fe2dd-f5f9-446f-835c-2b2e9cf6aab1
+  slug: doctors-60bc38d393350
+  published: true
+  date: null
+  data:
+    first_name: Brian
+    last_name: Le
+    license_type: DO
+    services:
+      - pain-management
+    category: doctors
+    org_name: 'Las Vegas Spine and Pain Center'
+    address: '3270 N. Buffalo Dr.'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89129'
+    phone: '7026762000'
+    title: 'Las Vegas Spine and Pain Center'
+    _geoloc:
+      lng: -115.25613867061
+      lat: 36.224575397278
+    middle_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    promotion_level: null
+    address_2: null
+    license_number: null
+    license_status: null
+    license_expiration: null
