@@ -1,0 +1,48 @@
+action: publish
+date: 1731949248
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: ef57a22c-852e-4db6-875f-10e83c158abb
+  slug: pulmonary-group-llc
+  published: true
+  date: null
+  data:
+    title: 'Pulmonary Group, LLC'
+    org_name: 'Pulmonary Group, LLC'
+    first_name: Vikas
+    middle_name: null
+    last_name: Sayal
+    suffix_name: null
+    phone: 702-780-0300
+    fax: 702-608-4977
+    website: 'https://pulmonologylasvegas.com'
+    links: {  }
+    email: vsayal5@gmail.com
+    image: providers/dr-sayal-logo-(6).jpg
+    description: |-
+      About Dr. Sayal‬
+      Vikas Sayal, MD, FCCP, is board certified in internal medicine, pulmonary medicine, and‬ critical care medicine. He’s the founder of Pulmonology Group LLC Lung Specialist in‬ Henderson, Nevada, and Kingman, Arizona, a medical practice that specializes in treating‬ the full range of lung and respiratory conditions. Dr. Sayal is also on staff at most hospitals‬ in the area and serves as an intensivist and pulmonologist at different hospitals.‬ Dr. Sayal trained at the world-renowned Yale University, where he received fellowship‬ training in pulmonary medicine, then went on to complete his fellowship in critical care at the‬ Albert Einstein College of Medicine for Pulmonary and Critical Care Medicine.‬ Prior to his advanced fellowship training, Dr. Sayal graduated from Govt. Medical College,‬ Patiala, in India, then relocated to the United States to complete a transitional year‬ residency at Tufts University, followed by an internal medicine residency at Saint Barnabas‬ Medical Center in New Jersey.‬ Dr. Sayal has extensive experience in pulmonary and critical care at several hospitals and‬ currently serves as Chair of the Department of Medicine at Valley View Medical Center. He’s‬ the author of numerous research papers and articles and continues to serve in various‬ leadership roles.‬
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: doctors
+    services:
+      - pulmonary
+      - pulmonary-disease
+    promotion_level: '10'
+    address: '2970 W Horizon Ridge'
+    address_2: null
+    city: Henderson
+    state: NV
+    zip: '89052'
+    _geoloc:
+      lat: 36.000746502515
+      lng: -115.11605952329
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
