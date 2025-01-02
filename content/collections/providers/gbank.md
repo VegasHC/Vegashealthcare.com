@@ -1,6 +1,5 @@
 ---
 id: 70792f55-a1f3-4545-b49f-123959478f10
-published: false
 blueprint: providers
 title: GBank
 org_name: GBank
@@ -13,6 +12,10 @@ image: providers/logo-(2).png
 description: 'Commercial bank providing lending, deposit, and payment solutions.'
 sponsored: true
 category: community-resources
+services:
+  - deposit
+  - lending
+  - payment-solutions
 promotion_level: '10'
 address: '9115 W Russell Road, Suite 110'
 city: 'Las Vegas'
@@ -22,5 +25,5 @@ _geoloc:
   lat: 36.092374952232
   lon: -115.28905666439
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1735835736
+updated_at: 1735836565
 ---
