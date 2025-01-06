@@ -15,7 +15,7 @@ description:
       id: m4tb4y3r
       values:
         type: image
-        image: practical-strategies-for-growing-as-a-nurse-leader-5.png
+        image: practical-strategies-for-growing-as-a-nurse-leader-7.png
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1735856520
+updated_at: 1736187878
 ---
