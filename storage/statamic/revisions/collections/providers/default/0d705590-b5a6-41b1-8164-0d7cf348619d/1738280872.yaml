@@ -1,0 +1,45 @@
+action: publish
+date: 1738280872
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 0d705590-b5a6-41b1-8164-0d7cf348619d
+  slug: nevada-wheelchair-foundation
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Nevada Wheelchair Foundation'
+    org_name: 'Nevada Wheelchair Foundation'
+    first_name: John
+    last_name: Williams
+    phone: 702-476-6532
+    website: null
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    video: null
+    sponsored: false
+    category: medical-transportation-equipment-and-supplies
+    address: '4955 S Durango Suite 123'
+    city: 'Las Vegas'
+    state: Nevada
+    zip: '89113'
+    _geoloc:
+      lat: 36.09941351174
+      lng: -115.2801198
+    middle_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    insurance_accepted: null
+    video2: null
+    video3: null
+    video4: null
+    services: {  }
+    promotion_level: '0'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
