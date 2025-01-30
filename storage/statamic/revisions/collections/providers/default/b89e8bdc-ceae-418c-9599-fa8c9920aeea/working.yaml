@@ -1,0 +1,47 @@
+action: revision
+date: 1738280894
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: b89e8bdc-ceae-418c-9599-fa8c9920aeea
+  slug: doctors-60bc39595e0f8
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    first_name: Rama
+    last_name: HAROUNI
+    license: M.D.
+    services:
+      - internal-medicine
+    category: doctors
+    address: '8960 West Tropicana Ave, Suite 100.'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89147'
+    phone: 702-385-9505
+    title: 'Rama HAROUNI'
+    _geoloc:
+      lng: -115.26791
+      lat: 36.167731
+    sponsored: false
+    org_name: null
+    middle_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
