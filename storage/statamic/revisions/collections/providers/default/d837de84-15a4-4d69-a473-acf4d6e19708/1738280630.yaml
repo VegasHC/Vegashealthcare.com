@@ -1,0 +1,45 @@
+action: publish
+date: 1738280630
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: d837de84-15a4-4d69-a473-acf4d6e19708
+  slug: ignite-teen-treatment-center
+  published: true
+  date: null
+  data:
+    title: 'Ignite Teen Treatment Center'
+    org_name: 'Ignite Teen Treatment Center'
+    phone: 866-604-7273
+    website: null
+    description: null
+    video: null
+    sponsored: false
+    category: behavioral-health
+    services:
+      - alcohol-drug-abuse-treatment-centers
+    address: '3722 Lone Mesa Dr'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89147'
+    _geoloc:
+      lng: -115.27343
+      lat: 36.113059
+    image: null
+    gallery: {  }
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    email: null
+    insurance_accepted: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

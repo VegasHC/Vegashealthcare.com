@@ -1,0 +1,46 @@
+action: publish
+date: 1738280666
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 5173ec36-39b6-4e6d-9ba1-985c6bb4cf25
+  slug: doctors-60bc38d5f3f7e
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    first_name: Rajiv
+    last_name: Amesur
+    license_type: DO
+    services:
+      - pulmonary-disease
+    category: doctors
+    org_name: 'Las Vegas Intensive & Pulmonary Specialists'
+    address: '2900 Horizon Ridge Pkwy., #221'
+    city: Henderson
+    state: NV
+    zip: '89052'
+    phone: 702-781-4800
+    title: 'Las Vegas Intensive & Pulmonary Specialists'
+    _geoloc:
+      lng: -115.09895
+      lat: 35.979863
+    fax: null
+    sponsored: false
+    middle_name: null
+    suffix_name: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: null
+    address_2: null
+    license_number: null
+    license_status: null
+    license_expiration: null
