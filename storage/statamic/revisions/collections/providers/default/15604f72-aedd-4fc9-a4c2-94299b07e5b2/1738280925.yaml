@@ -1,0 +1,44 @@
+action: publish
+date: 1738280925
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 15604f72-aedd-4fc9-a4c2-94299b07e5b2
+  slug: cbd-products-on-amazon
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'CBD Products on AMAZON'
+    org_name: 'CBD Products on AMAZON'
+    description: null
+    sponsored: false
+    category: cbd-supplements-and-herbs
+    services:
+      - cbd-products-on-amazon
+    promotion_level: '0'
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    phone: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address: null
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
