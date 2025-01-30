@@ -1,0 +1,47 @@
+action: publish
+date: 1738280392
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 2c90186d-b2c0-4341-acd2-d9ece8ac719f
+  slug: doctors-60bc39d5a29c9
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    first_name: Himansu
+    last_name: 'SHAH MD FACS'
+    license: M.D.
+    services:
+      - cosmetic-surgery
+    category: doctors
+    address: 'Signature Plastic Surgery'
+    city: Henderson
+    state: NV
+    zip: '89052'
+    phone: 702-684-5502
+    title: 'Himansu SHAH'
+    _geoloc:
+      lng: -115.09895
+      lat: 35.979863
+    org_name: 'Signature Plastic Surgery'
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: true
+    address_2: '3035 W Horizon Ridge Pkwy Ste 100'
+    video: null
+    gallery: {  }
+    insurance_accepted: null
+    middle_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
