@@ -24,6 +24,6 @@ zip: '89166'
 _geoloc:
   lat: 36.092374952232
   lng: -115.28905666439
-updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
-updated_at: 1736200963
+updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
+updated_at: 1738281772
 ---
