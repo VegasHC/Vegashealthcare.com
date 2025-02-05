@@ -1,0 +1,47 @@
+action: publish
+date: 1738793027
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: cd4ec45c-cac3-4691-9936-02a61e5a5aa6
+  slug: g-dallas-horton-and-associates-personal-injury-law
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'G. Dallas Horton & Associates Personal Injury Law'
+    org_name: 'G. Dallas Horton & Associates Personal Injury Law'
+    first_name: null
+    last_name: null
+    phone: 702-380-3100
+    fax: null
+    website: null
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    video: null
+    sponsored: false
+    category: legal-services
+    services:
+      - personal-injury-attorneys
+      - accident-and-personal-injury
+    address: '4435 S Eastern Ave'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89119'
+    _geoloc:
+      lat: 36.1653
+      lng: -115.116
+    promotion_level: '0'
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    insurance_accepted: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
