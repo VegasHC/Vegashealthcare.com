@@ -6,7 +6,7 @@ title: 'G. Dallas Horton & Associates'
 placement: right
 image: dallashorton/Dallas-Horton_-ad-1637711980.jpg
 link: 'https://www.gdallashorton.com/'
-active: true
+active: false
 services:
   - accident-and-personal-injury
   - personal-injury-attorneys
@@ -14,5 +14,5 @@ services:
 categories:
   - legal-services
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1738793040
+updated_at: 1741367701
 ---
