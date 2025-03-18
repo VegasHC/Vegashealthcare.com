@@ -5,17 +5,17 @@ title: 'JD Medical Group - Mobile Lab & Imaging'
 org_name: 'JD Medical Group - Mobile Lab & Imaging'
 first_name: Dino
 last_name: Alfonso
-phone: 702-300-6002
+phone: 702-503-8289
 fax: 725-214-1171
 website: 'https://jdmedicalgroup.net'
 email: jdmg@jdmedicalpllc.com
 image: providers/img_20250220_190756.jpg
 description: |-
-  At JD MEDICAL GROUP, we take a centered-patient-care approach. We collaborate with a network of healthcare providers to ensure compassio and effective medical treatments with patient education.
+  At JD MEDICAL GROUP, we take a centered-patient-care approach. We collaborate with a network of healthcare providers to ensure compassion and effective medical treatments with patient education.
 
   Our services include preventative care, management of acute and chronic conditions, women’s health, men’s health, weight loss/diet program, point of care testing, telemedicine, STD checks, TB testing, sports physicals, on-site lab draws, and so much more.
 
-  We see PATIENTS-IN OFFICE at our location – 3601 W Sahara Ave., Ste 211, LV NV 89102. We are also a MOBILE CLINIC providing Primary Care, Foot Care, Wound Care and Psych Evaluation services to our Medicare patients at the convenience of their own home in Las Vegas, Henderson and Pahrump. 
+  We see PATIENTS-IN OFFICE at our location – 3601 W Sahara Ave., Ste 211, 2nd floor, Las Vegas, NV 89102. We are also a MOBILE CLINIC providing Primary Care, Foot Care, Wound Care and Psych Evaluation services to our Medicare patients at the convenience of their own home in Las Vegas, Henderson and Pahrump. 
    
   Our Insurance List: Medicare, Medicaid, Silver Summit, TriWest, Cigna, Department Of Labor, Molina, Blue Cross/Blue Shields, Aetna, Anthem, United Healthcare, and Select Health 
 
@@ -34,5 +34,5 @@ _geoloc:
   lat: 36.144166843328
   lng: -115.18930987777
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1741980007
+updated_at: 1742314041
 ---
