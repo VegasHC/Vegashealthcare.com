@@ -3,15 +3,15 @@ id: 6b448ffb-9432-44d0-bab9-00338a82a6f2
 blueprint: providers
 title: 'JD Medical Group'
 org_name: 'JD Medical Group'
-first_name: Dino
-last_name: Alfonso
+first_name: Armi
+last_name: Guzman
 phone: 702-530-8289
 fax: 725-214-1171
 website: 'https://jdmedicalgroup.net'
 email: jdmg@jdmedicalpllc.com
 image: providers/img_20250220_190751.jpg
 description: |-
-  At JD MEDICAL GROUP, we take a centered-patient-care approach. We collaborate with a network of healthcare providers to ensure compassion and effective medical treatments with patient education.
+  At JD MEDICAL GROUP, we take a centered-patient-care approach. We collaborate with a network of healthcare providers to ensure compassion and effective medical treatments with patient education. CEO Dino Alfonso and medical director Jill Alfonso created this universal care to serve the diverse communities of Las Vegas.
 
   Our services include preventative care, management of acute and chronic conditions, women’s health, men’s health, weight loss/diet program, point of care testing, telemedicine, STD checks, TB testing, sports physicals, on-site lab draws, and so much more.
 
@@ -38,5 +38,5 @@ _geoloc:
   lat: 36.14423615462
   lng: -115.18900947036
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1742314564
+updated_at: 1742317444
 ---

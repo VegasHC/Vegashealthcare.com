@@ -3,14 +3,14 @@ id: b48c1387-a4cc-44fa-8137-d72afd6bd1e0
 blueprint: providers
 title: 'JD Medical Group - Wound Care'
 org_name: 'JD Medical Group - Wound Care'
-first_name: Dino
-last_name: Alfonso
+first_name: Armi
+last_name: Guzman
 phone: 702-530-8289
 fax: 725-214-1171
 website: 'https://jdmedicalgroup.net'
 email: jdmg@jdmedicalpllc.com
 description: |-
-  At JD MEDICAL GROUP, we take a centered-patient-care approach. We collaborate with a network of healthcare providers to ensure compassion and effective medical treatments with patient education.
+  At JD MEDICAL GROUP, we take a centered-patient-care approach. We collaborate with a network of healthcare providers to ensure compassion and effective medical treatments with patient education. CEO Dino Alfonso and medical director Jill Alfonso created this universal care to serve the diverse communities of Las Vegas.
 
   Our services include preventative care, management of acute and chronic conditions, women’s health, men’s health, weight loss/diet program, point of care testing, telemedicine, STD checks, TB testing, sports physicals, on-site lab draws, and so much more.
 
@@ -39,5 +39,5 @@ _geoloc:
   lat: 36.143958909083
   lng: -115.18952445448
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1742314473
+updated_at: 1742317536
 ---
