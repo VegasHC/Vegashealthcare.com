@@ -20,6 +20,10 @@ description: |-
   Our Insurance List: Medicare, Medicaid, Silver Summit, TriWest, Cigna, Department Of Labor, Molina, Blue Cross/Blue Shields, Aetna, Anthem, United Healthcare, and Select Health 
 
   We are open 6 days a week – Mondays to Fridays 9am-5pm, and Saturdays 9am-12pm. We accept also cash pay and walk ins. Same day appointments are welcome! We have staff who are bilinguals (Spanish and Tagalog) to better serve our diverse community. PLEASE CALL ARMI GUZMAN (Marketing Director) at 702-530-8289
+
+  Dino Alfonso, CEO
+  Jill Alfonso, Medical Director
+  Armi Guzman, Marketing Director
 insurance_accepted: 'Medicare, Medicaid, Silver Summit, TriWest, Cigna, Department Of Labor, Molina, Blue Cross/Blue Shields, Aetna, Anthem, United Healthcare, and Select Health'
 sponsored: true
 category: doctors
@@ -34,5 +38,5 @@ _geoloc:
   lat: 36.144305465851
   lng: -115.18900947036
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1742314159
+updated_at: 1742314501
 ---
