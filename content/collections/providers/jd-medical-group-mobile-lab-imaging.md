@@ -9,7 +9,7 @@ phone: 702-503-8289
 fax: 725-214-1171
 website: 'https://jdmedicalgroup.net'
 email: jdmg@jdmedicalpllc.com
-image: providers/img_20250220_190756.jpg
+image: providers/thumbnail_1000017999-1742397194.jpg
 description: |-
   At JD MEDICAL GROUP, we take a centered-patient-care approach. We collaborate with a network of healthcare providers to ensure compassion and effective medical treatments with patient education. CEO, Dino Alfonso and Medical Director, Jill Alfonso created these universal care to serve our diverse communities of Las Vegas and surrounding areas. 
 
@@ -38,5 +38,5 @@ _geoloc:
   lat: 36.144166843328
   lng: -115.18930987777
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1742320402
+updated_at: 1742397202
 ---
