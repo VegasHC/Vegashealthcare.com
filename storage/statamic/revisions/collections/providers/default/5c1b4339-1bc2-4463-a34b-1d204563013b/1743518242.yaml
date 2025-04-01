@@ -1,0 +1,45 @@
+action: publish
+date: 1743518242
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 5c1b4339-1bc2-4463-a34b-1d204563013b
+  slug: premier-home-care
+  published: true
+  date: null
+  data:
+    title: 'Premier Home Care'
+    org_name: 'Premier Home Care'
+    first_name: Ana
+    middle_name: null
+    last_name: Bailetti
+    suffix_name: null
+    phone: 702-629-9033
+    fax: 702-543-1649
+    website: null
+    links: {  }
+    email: premierhomecare20@gmail.com
+    image: providers/logo-premier-home-care-(3).pdf
+    description: 'We provide in home care, personal care services such as bathing, grooming, dressing, companionship, errands, and laundry.'
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: senior-services
+    services:
+      - personal-care-agencies
+    promotion_level: '10'
+    address: '1913 S. Eastern Ave'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89104'
+    _geoloc:
+      lat: 36.148908930125
+      lng: -115.11855261817
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
