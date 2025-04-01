@@ -1,5 +1,5 @@
-action: revision
-date: 1743518530
+action: publish
+date: 1743518652
 user: 87a74d1c-1760-42c5-afc1-1cc59be16098
 attributes:
   id: a5032c98-e124-4bf5-b788-758da8add1fb
@@ -14,18 +14,18 @@ attributes:
     last_name: Bailetti
     phone: 702-355-8974
     fax: 702-543-1649
-    sponsored: false
+    sponsored: true
     category: senior-services
     services:
       - pca
-    address: '3365 S. WYNN RD STE F'
+    address: '4510 W. Charleston Blvd.'
     city: 'LAS VEGAS'
     state: NV
     zip: '89102'
     _geoloc:
-      lat: 36.129194175539
-      lng: -115.19506994233
-    promotion_level: '0'
+      lat: 36.159498063879
+      lng: -115.20238660268
+    promotion_level: '10'
     middle_name: null
     suffix_name: null
     website: 'https://www.good-samaritan-pca.com'
