@@ -1,0 +1,46 @@
+action: revision
+date: 1743518530
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: a5032c98-e124-4bf5-b788-758da8add1fb
+  slug: good-samaritan-pca
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Good Samaritan PCA'
+    org_name: 'Good Samaritan PCA'
+    first_name: Ana
+    last_name: Bailetti
+    phone: 702-355-8974
+    fax: 702-543-1649
+    sponsored: false
+    category: senior-services
+    services:
+      - pca
+    address: '3365 S. WYNN RD STE F'
+    city: 'LAS VEGAS'
+    state: NV
+    zip: '89102'
+    _geoloc:
+      lat: 36.129194175539
+      lng: -115.19506994233
+    promotion_level: '0'
+    middle_name: null
+    suffix_name: null
+    website: 'https://www.good-samaritan-pca.com'
+    links: {  }
+    email: admin@goodsamaritanpca.com
+    image: providers/gs-pca-logo-1743518389.jpg
+    description: "Family owned in home care provider that services elderly and disabled population. We work with Medicaid, VA, Workman's comp, JFSA, Clark County, and cash pay. Areas of Service: Las Vegas, North Las Vegas, Henderson, Pahrump."
+    gallery: {  }
+    insurance_accepted: "Medicaid, VA, Workman's comp, JFSA, Clark County, Cash Pay"
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
