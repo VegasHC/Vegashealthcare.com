@@ -25,5 +25,5 @@ image: providers/gs-pca-logo-1743518389.jpg
 description: "Family owned in home care provider that services elderly and disabled population. We work with Medicaid, VA, Workman's comp, JFSA, Clark County, and cash pay. Areas of Service: Las Vegas, North Las Vegas, Henderson, Pahrump."
 insurance_accepted: "Medicaid, VA, Workman's comp, JFSA, Clark County, Cash Pay"
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1743518652
+updated_at: 1743518783
 ---
