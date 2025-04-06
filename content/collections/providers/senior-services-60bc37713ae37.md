@@ -15,6 +15,7 @@ _geoloc:
   lat: 36.1231
   lng: -115.19
 sponsored: false
+promotion_level: '10'
 updated_by: b5e1eafc-6f12-4e0e-a8d0-ed1f669d2be4
-updated_at: 1743895652
+updated_at: 1743897828
 ---
