@@ -25,15 +25,15 @@ category: care-services
 services:
   - home-health
 promotion_level: '10'
-address: '1050 E. Flamingo Rd Suite W-161'
+address: '7201 W. Lake Mead Blvd. Suite 200'
 city: 'Las Vegas'
 state: NV
-zip: '89119'
+zip: '89128'
 _geoloc:
-  lat: 36.116603006812
-  lng: -115.14107282884
+  lat: 36.195221873723
+  lng: -115.24947022024
 gallery:
   - tinywow_doc010_19524829_1.jpg
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1681250757
+updated_at: 1744292686
 ---
