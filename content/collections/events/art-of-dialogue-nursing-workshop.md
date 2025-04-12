@@ -15,7 +15,7 @@ description:
       id: m99cf1m0
       values:
         type: image
-        image: art-of-dialogue.png
+        image: art-of-dialogue-2.png
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1744167718
+updated_at: 1744473371
 ---
