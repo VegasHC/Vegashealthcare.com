@@ -1,5 +1,6 @@
 ---
 id: 294b7d2f-2cef-4eab-96cf-10effefc5343
+blueprint: providers
 first_name: Nighat
 last_name: BAIG
 license: M.D.
@@ -12,4 +13,7 @@ state: NV
 zip: '89183'
 phone: 702-767-0044
 title: 'Nighat BAIG'
+_geoloc:
+  lat: 36.007072295297
+  lng: -115.15157994202
 ---

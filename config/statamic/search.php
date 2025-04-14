@@ -44,7 +44,6 @@ return [
             ],
             'transformers' => [
                 'description' => fn ($description) => Markdown::parse((string) $description),
-                '_geoloc' => fn ($geoloc) => $geoloc ?: ['lat' => null, 'lon' => null],
                 'insurance_accepted' => fn ($text) => Markdown::parse((string) $text),
                 'promotion_level' => function ($level, $searchable) {
                     $sponsoredPriority = boolval(Arr::get($searchable, 'sponsored')) ? 5 : 0;
