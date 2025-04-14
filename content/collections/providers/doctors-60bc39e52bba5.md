@@ -1,5 +1,6 @@
 ---
 id: e678c91d-135e-44dc-8047-58edd564150e
+blueprint: providers
 first_name: Humberto
 last_name: RODRIGUEZ
 license: M.D.
@@ -12,4 +13,7 @@ state: NV
 zip: '89183'
 phone: 702-492-7208
 title: 'Humberto RODRIGUEZ'
+_geoloc:
+  lat: 36.007676445425
+  lng: -115.11495317467
 ---
