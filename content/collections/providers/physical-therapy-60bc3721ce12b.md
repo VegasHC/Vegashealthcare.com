@@ -1,5 +1,6 @@
 ---
 id: 5d042265-5771-453d-be40-e2a78348c7cd
+blueprint: providers
 last_name: Bishop
 first_name: Evan
 middle_name: C.
@@ -15,4 +16,7 @@ category: physical-therapy
 services:
   - all-physical-therapy
 title: 'Tru Physical Therapy'
+_geoloc:
+  lat: 36.008891883185
+  lng: -114.99103355203
 ---
