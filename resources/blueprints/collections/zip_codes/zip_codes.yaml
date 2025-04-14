@@ -59,4 +59,4 @@ sections:
           localizable: true
           required: true
           validate:
-            - 'new \Statamic\Rules\UniqueEntryValue({collection}, {id}, {site})'
+            - 'unique_entry_value:{collection},{id},{site}'

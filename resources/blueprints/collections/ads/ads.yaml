@@ -67,7 +67,7 @@ sections:
           required: true
           validate:
             - required
-            - 'new \Statamic\Rules\UniqueEntryValue({collection}, {id}, {site})'
+            - 'unique_entry_value:{collection},{id},{site}'
       -
         handle: services
         field:
