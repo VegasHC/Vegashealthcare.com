@@ -2,59 +2,38 @@
 
 namespace App\Listeners;
 
-use Algolia\AlgoliaSearch\PlacesClient;
 use Illuminate\Support\Facades\App;
+use Illuminate\Support\Facades\Http;
 use Statamic\Events\EntrySaving;
-use Statamic\Facades\Entry;
 
 class AddProviderGeoloc
 {
-    /**
-     * Create the event listener.
-     *
-     * @return void
-     */
-    public function __construct()
-    {
-        //
-    }
-
-    /**
-     * Handle the event.
-     */
     public function handle(EntrySaving $event): void
     {
         if (App::runningInConsole()) {
-            //Do not run on bulk imports
+            // Do not run on bulk imports
             return;
         }
 
-        $entry = $event->entry;
+        $provider = $event->entry;
 
-        if ($entry->collectionHandle() != 'providers') {
+        if ($provider->collectionHandle() != 'providers') {
             return;
         }
 
-        if (empty($entry->get('_geoloc')) && ! empty($entry->get('zip'))) {
-            $api = PlacesClient::create(env('PLACES_APP_ID', false), env('PLACES_API_KEY', false));
+        if (empty($provider->get('_geoloc')) && ! empty($provider->get('zip'))) {
+            $query = http_build_query([
+                'text' => "$provider->address, $provider->city, $provider->state, $provider->zip, USA",
+                'apiKey' => config('services.geoapify.key'),
+            ]);
 
-            $result = $api->search(implode(', ', [$entry->get('address'), $entry->get('city'), $entry->get('state'), $entry->get('zip')]), ['type' => 'address', 'countries' => ['us']]);
-//        $result = $places->search("9499 W Charleston Blvd, Las Vegas, NV, 89117", ["type" => "address", "countries" => ["us"]]);
+            $properties = Http::get("https://api.geoapify.com/v1/geocode/search?$query")
+                ->json('features.0.properties');
 
-            if (! empty($result['hits'])) {
-                $entry->set('_geoloc', $result['hits'][0]['_geoloc']);
-
-                return;
-            }
-
-            $zipcode = Entry::query()
-                ->where('collection', 'zip_codes')
-                ->where('code', $entry->get('zip'))
-                ->first();
-
-            if ($zipcode) {
-                $entry->set('_geoloc', ['lng' => (float) $zipcode->get('longitude'), 'lat' => (float) $zipcode->get('latitude')]);
-            }
+            $provider->set('_geoloc', [
+                'lat' => $properties['lat'],
+                'lng' => $properties['lon'],
+            ])->save();
         }
     }
 }
