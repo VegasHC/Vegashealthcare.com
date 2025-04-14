@@ -1,5 +1,6 @@
 ---
 id: 7914f03d-efc5-4724-af19-5133ea684974
+blueprint: providers
 first_name: Ahoora
 last_name: PAYAM
 license: M.D.
@@ -12,4 +13,7 @@ state: NV
 zip: '891938978'
 phone: 702-566-5500
 title: 'Ahoora PAYAM'
+_geoloc:
+  lat: 36.1672559
+  lng: -115.148516
 ---
