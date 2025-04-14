@@ -40,7 +40,7 @@ attributes:
     zip: '89166'
     _geoloc:
       lat: 36.092374952232
-      Lon: -115.28905666439
+      lng: -115.28905666439
     license_type: null
     license_number: null
     license_status: null
