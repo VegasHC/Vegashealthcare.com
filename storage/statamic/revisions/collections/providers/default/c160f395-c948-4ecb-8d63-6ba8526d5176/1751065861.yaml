@@ -1,0 +1,46 @@
+action: publish
+date: 1751065861
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: c160f395-c948-4ecb-8d63-6ba8526d5176
+  slug: c-and-c-health-care-services
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'C & C Health Care Services'
+    org_name: 'C & C Health Care Services'
+    first_name: null
+    last_name: null
+    phone: 775-682-0020
+    fax: null
+    sponsored: false
+    category: behavioral-health
+    services:
+      - advanced-wound-care
+    address: '1500 E Tropicana Ave #118'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89119'
+    _geoloc:
+      lat: 36.102146799179
+      lng: -115.13267891534
+    website: null
+    email: null
+    image: null
+    description: null
+    promotion_level: 0
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null
