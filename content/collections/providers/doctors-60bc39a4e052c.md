@@ -1,5 +1,6 @@
 ---
 id: 3f281607-dbf6-47d0-bc5f-c8d14760b191
+blueprint: providers
 first_name: Shankar
 last_name: BHAT
 license: M.D.
@@ -12,4 +13,7 @@ state: NV
 zip: '891938978'
 phone: 775-751-4600
 title: 'Shankar BHAT'
+_geoloc:
+  lat: 36.1672559
+  lng: -115.148516
 ---

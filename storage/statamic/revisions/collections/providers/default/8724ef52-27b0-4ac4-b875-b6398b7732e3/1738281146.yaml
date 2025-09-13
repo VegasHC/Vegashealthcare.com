@@ -1,0 +1,46 @@
+action: publish
+date: 1738281146
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 8724ef52-27b0-4ac4-b875-b6398b7732e3
+  slug: woundtech
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: Woundtech
+    org_name: Woundtech
+    first_name: Rebecca
+    last_name: Bauman
+    phone: 866-986-2263
+    fax: null
+    website: null
+    email: null
+    image: null
+    description: null
+    insurance_accepted: null
+    sponsored: false
+    category: care-services
+    services:
+      - advanced-wound-care
+    promotion_level: '0'
+    address: '200 S Park Rd, Suite 200'
+    city: Hollywood
+    state: FL
+    zip: '33021'
+    _geoloc:
+      lat: 26.009607765779
+      lng: -80.1771314
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    gallery: {  }
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

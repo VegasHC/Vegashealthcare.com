@@ -1,5 +1,6 @@
 ---
 id: 8956b3a6-1add-47a8-b9e3-5b86c7391339
+blueprint: providers
 first_name: Alfreda
 last_name: MALLER
 license: M.D.
@@ -13,4 +14,7 @@ state: NV
 zip: '89169'
 phone: 702-796-5505
 title: 'Alfreda MALLER'
+_geoloc:
+  lat: 36.129934
+  lng: -115.124088
 ---

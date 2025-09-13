@@ -1,0 +1,47 @@
+action: revision
+date: 1735836268
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 3c71dca2-8e59-4822-932c-6427bd0b93db
+  slug: gbank2
+  published: false
+  date: null
+  data:
+    title: GBank
+    org_name: GBank
+    first_name: Julie
+    middle_name: null
+    last_name: Peters
+    suffix_name: null
+    phone: 702-851-4200
+    fax: null
+    website: 'https://g.bank'
+    links: {  }
+    email: jpeters@g.bank
+    image: providers/logo-(2)-1735836057.png
+    description: 'Commercial bank providing lending, deposit, and payment solutions.'
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: community-resources
+    services:
+      - lending
+      - payment-solutions
+      - deposit
+    promotion_level: '10'
+    address: '9115 W Russell Road, Suite 110'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89166'
+    _geoloc:
+      lat: 36.092374952232
+      lng: -115.28905666439
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

@@ -1,0 +1,45 @@
+action: publish
+date: 1738597066
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: ad743982-571a-4d03-b600-31013cd59192
+  slug: elite-medical-suites
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'ELITE MEDICAL SUITES'
+    org_name: 'ELITE MEDICAL SUITES'
+    phone: 702-490-9449
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: false
+    category: doctors
+    promotion_level: '0'
+    address: '8905 W Post Road suite 110'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89148'
+    _geoloc:
+      lat: 36.073629970036
+      lng: -115.2866218
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    services: {  }
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

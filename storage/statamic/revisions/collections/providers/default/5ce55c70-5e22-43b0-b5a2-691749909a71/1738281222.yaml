@@ -1,0 +1,44 @@
+action: publish
+date: 1738281222
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 5ce55c70-5e22-43b0-b5a2-691749909a71
+  slug: tsikki-thau
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Tsikki Thau'
+    org_name: 'Tsikki Thau'
+    phone: 702-767-5851
+    website: null
+    email: null
+    image: null
+    description: 'ROX & Spotlight on Vegas Business.'
+    gallery: {  }
+    sponsored: false
+    category: complementary-medicine
+    services:
+      - alternative
+    video: null
+    address: 'Tsikki Thau'
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    insurance_accepted: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

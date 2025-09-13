@@ -1,0 +1,73 @@
+action: publish
+date: 1748015859
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: e6c32bed-4e17-4f38-b9e4-442ac63e38b0
+  slug: jd-medical-group-toe-care
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'JD Medical Group - Toe Care'
+    org_name: 'JD Medical Group - Toe Care'
+    first_name: Armi
+    last_name: Guzman
+    phone: 702-570-3624
+    fax: 702-570-3929
+    website: 'https://jdmedicalgroup.net'
+    email: info@toecare.net
+    image: providers/1000023426.jpg
+    description: |-
+      Toe Care On Wheels is one the fastest growing providers in Southern Nevada and soon to establish more locations nationwide. Our goal is to educate each patient and begin an appropriate treatment program with the highest quality of care available that will bring you back to full, pain-free function as quickly as possible. 
+
+      We realize each patient has individualized needs, and our mission is to develop a friendly, personal and professional doctor/patient relationship so that we can provide custom care to every person who enters our office. Please call Armi Guzman, Marketing Director, for more information (702) 530-8289. 
+
+      The range of expertise covers an array of foot-related concerns, including but not limited to:
+      ✔️Bunions
+      ✔️Heel pain 
+      ✔️Wounds
+      ✔️Ingrown Toenails
+      ✔️Warts
+      ✔️Toenail Fungus
+      ✔️Sports injuries  
+      ✔️Foot issues
+      ✔️Diabetic Foot Problems. 
+
+      Cash Pay and Insurances Accepted:
+      Molina
+      Medicare/Medicaid
+      UHC/AETNA/CIGNA
+      Select Health
+      Silver Summit
+    insurance_accepted: |-
+      Cash Pay and Insurances Accepted:
+      Molina
+      Medicare/Medicaid
+      UHC/AETNA/CIGNA
+      Select Health
+      Silver Summit
+    sponsored: true
+    category: doctors
+    services:
+      - foot-care
+    promotion_level: '10'
+    address: '3601 W Sahara Ave Ste 211'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89102'
+    _geoloc:
+      lat: 36.144305465851
+      lng: -115.18900947036
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    gallery: {  }
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

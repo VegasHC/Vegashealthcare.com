@@ -1,0 +1,46 @@
+action: publish
+date: 1738280966
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 31fd9063-9af0-43cc-af36-05107f42caa5
+  slug: foundation-assisting-seniors
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'Foundation Assisting Seniors'
+    org_name: 'Foundation Assisting Seniors'
+    first_name: Carol
+    last_name: 'Chapman President'
+    phone: 725-244-4200
+    website: null
+    email: null
+    image: null
+    description: null
+    sponsored: false
+    category: community-resources
+    services:
+      - senior-resources
+    promotion_level: '0'
+    address: '2518 Anthem Village Dr Suite 102'
+    city: Henderson
+    state: NV
+    zip: '89052'
+    _geoloc:
+      lat: 35.979678800091
+      lng: -115.09642327116
+    middle_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

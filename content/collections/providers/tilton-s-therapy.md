@@ -10,4 +10,7 @@ services:
   - mobile-occupational-therapist
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
 updated_at: 1676060595
+_geoloc:
+  lat: 39.7837304
+  lng: -100.445882
 ---

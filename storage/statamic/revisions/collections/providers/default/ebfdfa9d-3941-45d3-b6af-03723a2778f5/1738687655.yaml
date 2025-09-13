@@ -1,0 +1,47 @@
+action: publish
+date: 1738687655
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: ebfdfa9d-3941-45d3-b6af-03723a2778f5
+  slug: outbound-therapy-services
+  published: true
+  date: null
+  data:
+    title: 'Outbound Therapy Services'
+    org_name: 'Outbound Therapy Services'
+    first_name: Joseph
+    middle_name: null
+    last_name: Klarberg
+    suffix_name: null
+    phone: 702-706-8250
+    fax: 702-608-9052
+    website: 'https://www.outboundts.com'
+    links: {  }
+    email: J.Klar@OutboundTS.com
+    image: providers/7649be_01b59ffca2c640028274c7169c5958ab~mv2.jpg-3.avif
+    description: 'We provide Physical Therapy to seniors in the comfort of their own homes. No need to travel or spend time in a crowded gym, since we bring the expertise to you.'
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: therapy
+    services:
+      - physical-medicinerehabilitation
+      - physical-rehab
+      - physical-medicine-rehab
+    promotion_level: '10'
+    address: '1562 Harwood Avenue'
+    address_2: null
+    city: Henderson
+    state: NV
+    zip: '89012'
+    _geoloc:
+      lat: 36.025732964949
+      lng: -115.05347844048
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

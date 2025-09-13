@@ -1,0 +1,43 @@
+action: publish
+date: 1738281253
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: e7134f3c-9239-4570-9463-65256284e910
+  slug: walden-university
+  published: true
+  date: null
+  data:
+    title: 'Walden University'
+    org_name: 'Walden University'
+    phone: 888-317-1764
+    website: null
+    image: null
+    description: null
+    gallery: {  }
+    sponsored: false
+    category: schools-and-professional-training
+    services:
+      - tech-schools-and-training
+    first_name: null
+    middle_name: null
+    last_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    email: null
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    address: null
+    address_2: null
+    city: null
+    state: null
+    zip: null
+    _geoloc: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

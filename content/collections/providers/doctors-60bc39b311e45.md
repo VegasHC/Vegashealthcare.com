@@ -1,5 +1,6 @@
 ---
 id: 83845db1-9fd3-4cac-9ab5-ea67a55990b9
+blueprint: providers
 first_name: Robert
 last_name: PEPRAH
 license: M.D.
@@ -12,4 +13,7 @@ state: NV
 zip: '891465611'
 phone: 702-493-3676
 title: 'Robert PEPRAH'
+_geoloc:
+  lat: 36.140398636952
+  lng: -115.22429014627
 ---

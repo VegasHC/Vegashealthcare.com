@@ -6,3 +6,4 @@ revisions: true
 date_behavior:
   past: public
   future: private
+search_index: providers

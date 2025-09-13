@@ -1,0 +1,48 @@
+action: publish
+date: 1738280716
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 5f4feb0a-d2c6-43be-8e05-28e7ec9ac148
+  slug: medicare-healthcare-navigator
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: 'MEDICARE HEALTHCARE NAVIGATOR'
+    org_name: 'MEDICARE HUB'
+    first_name: Michelle
+    last_name: Weston
+    phone: '(702) 337-3384'
+    website: null
+    links:
+      -
+        id: amYZfa8L
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    sponsored: false
+    category: navigating-health-insurance
+    services:
+      - medicare-advantage
+    address: '7640 W. Tropicana Ave'
+    address_2: 'Ste 106'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89147'
+    _geoloc:
+      lat: 36.26
+      lng: -115.093
+    middle_name: null
+    suffix_name: null
+    fax: null
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: '0'
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

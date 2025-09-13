@@ -1,0 +1,45 @@
+action: revision
+date: 1743517666
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 7990e1b7-e68d-4841-bacd-57a6172c6076
+  slug: insight-disability-services
+  published: false
+  date: null
+  data:
+    title: 'Insight Disability Services'
+    org_name: 'Insight Disability Services'
+    first_name: Ana
+    middle_name: null
+    last_name: Bailetti
+    suffix_name: null
+    phone: 702-209-3595
+    fax: 702-331-3886
+    website: null
+    links: {  }
+    email: mapita90@gmail.com
+    image: providers/idslogo-(1).jpg
+    description: 'Five group home locations that work with TBI, stroke, and CVA victims. ONLY MEDICAID ACCEPTED.'
+    gallery: {  }
+    insurance_accepted: 'MEDICAID ONLY'
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: care-services
+    services:
+      - group-home
+    promotion_level: '10'
+    address: '2920 S. Rainbow Blvd. #130'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89146'
+    _geoloc:
+      lat: 36.136615090551
+      lng: -115.24249836788
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

@@ -1,5 +1,6 @@
 ---
 id: 9d9bca67-f1b9-46ea-80d9-816b0e6a4193
+blueprint: providers
 first_name: RYAN
 last_name: KISSLING
 org_name: ALIGN
@@ -12,4 +13,7 @@ city: 'LAS VEGAS'
 state: NV
 zip: '89178'
 title: ALIGN
+_geoloc:
+  lat: 36.056256
+  lng: -115.280448
 ---

@@ -1,0 +1,47 @@
+action: publish
+date: 1738280591
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 5f53b53a-1c20-472b-a339-783b69bd1ac7
+  slug: accidentmd
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    title: AccidentMD
+    org_name: AccidentMD
+    first_name: Accident
+    last_name: MD
+    phone: 702-664-1225
+    fax: null
+    website: null
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    sponsored: true
+    address: AccidentMD
+    city: 'Las Vegas'
+    state: NV
+    zip: '89146'
+    _geoloc:
+      lng: -115.22493
+      lat: 36.141119
+    category: doctors
+    address_2: '2630 S Jones'
+    video: null
+    services:
+      - accident-doctor
+      - accident-and-personal-injury
+    middle_name: null
+    suffix_name: null
+    links: {  }
+    insurance_accepted: null
+    video2: null
+    video3: null
+    video4: null
+    promotion_level: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

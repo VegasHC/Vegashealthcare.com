@@ -1,0 +1,46 @@
+action: publish
+date: 1746475953
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 0329ac29-17ea-40d7-84dd-31cb901abf58
+  slug: doctors-60bc398ea1b9b
+  published: true
+  date: null
+  data:
+    first_name: Stuart
+    last_name: BAIRD
+    license: M.D.
+    services:
+      - pain-management
+    category: doctors
+    address: '7380 W. Sahara Ave Suite 169'
+    city: 'Las Vegas'
+    state: NV
+    zip: '89117'
+    phone: 702-779-6800
+    title: 'Stuart BAIRD'
+    _geoloc:
+      lng: -115.25374678466
+      lat: 36.144357310035
+    org_name: null
+    middle_name: null
+    suffix_name: null
+    fax: null
+    website: null
+    links: {  }
+    email: null
+    image: null
+    description: null
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: false
+    promotion_level: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

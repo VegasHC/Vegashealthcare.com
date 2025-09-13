@@ -17,8 +17,7 @@ title: 'Las Vegas Intensive & Pulmonary Specialists'
 _geoloc:
   lng: -115.09895
   lat: 35.979863
-fax: 702-664-6755
-sponsored: true
+sponsored: false
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1661443880
+updated_at: 1738280666
 ---

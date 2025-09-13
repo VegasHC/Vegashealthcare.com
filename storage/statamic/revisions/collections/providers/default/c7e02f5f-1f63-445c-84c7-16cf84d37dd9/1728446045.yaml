@@ -1,0 +1,46 @@
+action: publish
+date: 1728446045
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: c7e02f5f-1f63-445c-84c7-16cf84d37dd9
+  slug: senior-services-60bc37e156716
+  published: true
+  date: null
+  data:
+    blueprint: providers
+    org_name: 'PRESTIGE ASSISTED LIVING AT MIRA LOMA'
+    address: '2520 WIGWAM PARKWAY'
+    city: HENDERSON
+    zip: '89074'
+    state: NV
+    phone: 702-260-8400
+    category: care-services
+    services:
+      - assisted-living
+    title: 'PRESTIGE ASSISTED LIVING AT MIRA LOMA'
+    _geoloc:
+      lat: 36.032
+      lng: -115.067
+    first_name: null
+    last_name: null
+    website: null
+    email: null
+    image: null
+    description: null
+    video: null
+    sponsored: false
+    promotion_level: '0'
+    middle_name: null
+    suffix_name: null
+    fax: null
+    links: {  }
+    gallery: {  }
+    insurance_accepted: null
+    video2: null
+    video3: null
+    video4: null
+    address_2: null
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

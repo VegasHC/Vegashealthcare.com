@@ -1,5 +1,6 @@
 ---
 id: 852a507e-0267-4206-bf3e-85805971ae22
+blueprint: providers
 first_name: Stephen
 last_name: SAVRAN
 license: M.D.
@@ -12,4 +13,7 @@ state: NV
 zip: '89183'
 phone: 702-240-6482
 title: 'Stephen SAVRAN'
+_geoloc:
+  lat: 36.1672559
+  lng: -115.148516
 ---

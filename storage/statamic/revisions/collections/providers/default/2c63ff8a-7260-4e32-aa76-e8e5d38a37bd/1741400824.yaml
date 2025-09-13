@@ -1,0 +1,65 @@
+action: publish
+date: 1741400824
+user: 87a74d1c-1760-42c5-afc1-1cc59be16098
+attributes:
+  id: 2c63ff8a-7260-4e32-aa76-e8e5d38a37bd
+  slug: avenir-memory-care-center-at-las-vegas
+  published: true
+  date: null
+  data:
+    title: 'Avenir Memory Care Center at Las Vegas'
+    org_name: 'Avenir Memory Care Center at Las Vegas'
+    first_name: Emely
+    middle_name: null
+    last_name: Bitanga
+    suffix_name: null
+    phone: 702-749-9090
+    fax: 702-749-9096
+    website: 'https://www.avenirmemorycarelv.com'
+    links: {  }
+    email: emelyb@avenirseniorliving.com
+    image: providers/_dsf4462summ_uy5dur.jpg
+    description: |-
+      Avenir Senior Living: Award-Winning Memory Care with Heart
+
+      At Avenir Senior Living, we know that navigating the journey of Alzheimer’s and dementia care can be overwhelming. That’s why we are committed to providing exceptional, personalized memory care with compassion, dignity, and respect.
+
+      As the proud recipient of the Best of Las Vegas Memory Care award for four consecutive years (2021-2024), Avenir is recognized for its dedication to enhancing the lives of those with memory loss through compassionate support and a thoughtfully designed environment.
+
+      Dedicated Memory Care Services in Las Vegas, Nevada
+
+      Looking for reliable Memory Care services in Las Vegas, Nevada, for a loved one dealing with memory loss? Avenir Memory Care in Las Vegas provides personalized care in a cozy, home-like environment that caters to your family's needs. Conveniently located near Mountainview Hospital and Complex Care Hospital at Tenaya, our residents have easy access to exceptional medical care.
+
+      Our caring team collaborates with each new resident’s family to develop a customized care plan that meets their unique needs. We assist with daily living activities, housekeeping, and nutritious meals, all while providing the encouragement and support your loved one deserves to thrive. We go the extra mile by pairing each resident with a suitable neighborhood within our Memory Care community, ensuring they live among peers with similar cognitive abilities and have access to engaging activities designed just for them.
+
+      🌿 Expert Memory Care: Specialized programs tailored to each stage of cognitive decline.
+      🏡 A Secure & Loving Environment: Designed for safety, familiarity, and engagement.
+      ❤️ Family-Centered Support: Guidance and resources to help you through this journey.
+
+      At Avenir Senior Living, we don’t just provide care—we create meaningful moments for our residents and peace of mind for their families.
+
+      📞 Call us today or visit www.avenirmemorycarelv.com to learn more.
+    gallery: {  }
+    insurance_accepted: null
+    video: null
+    video2: null
+    video3: null
+    video4: null
+    sponsored: true
+    category: care-services
+    services:
+      - specialized-memory-care
+      - senior-resources
+    promotion_level: '10'
+    address: '7395 Smoke Ranch Rd.'
+    address_2: null
+    city: 'Las Vegas'
+    state: NV
+    zip: '89128'
+    _geoloc:
+      lat: 36.20206
+      lng: -115.25663
+    license_type: null
+    license_number: null
+    license_status: null
+    license_expiration: null

@@ -1,5 +1,6 @@
 ---
 id: e848ca4b-41bf-4f2b-ba03-193dbf9b440a
+blueprint: providers
 first_name: Rafael
 last_name: VALENCIA
 license: M.D.
@@ -12,4 +13,7 @@ state: NV
 zip: '89183'
 phone: 702-240-6482
 title: 'Rafael VALENCIA'
+_geoloc:
+  lat: 36.1672559
+  lng: -115.148516
 ---
