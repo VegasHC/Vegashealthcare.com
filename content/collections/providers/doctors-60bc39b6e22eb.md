@@ -1,5 +1,6 @@
 ---
 id: d350df6d-f0c2-4261-92c8-9515e81c75aa
+blueprint: providers
 first_name: Suresh
 last_name: TAWNEY
 license: M.D.
@@ -12,4 +13,7 @@ state: NV
 zip: '891280424'
 phone: 702-877-8600
 title: 'Suresh TAWNEY'
+_geoloc:
+  lat: 36.209061034687
+  lng: -115.24947934387
 ---

@@ -1,5 +1,6 @@
 ---
 id: c0d9dfe3-a61d-459e-bb1b-308e0b0ee299
+published: false
 blueprint: event
 title: 'Beating Burnout: Rekindling Your Passion for Nursing'
 recurrence: none
@@ -17,5 +18,5 @@ description:
         type: image
         image: beating-burnout-2.png
 updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
-updated_at: 1742307798
+updated_at: 1744167662
 ---

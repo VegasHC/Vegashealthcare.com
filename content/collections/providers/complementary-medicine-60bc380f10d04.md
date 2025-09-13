@@ -1,5 +1,6 @@
 ---
 id: 934ebcf8-173d-4775-88a7-8341f334f645
+blueprint: providers
 first_name: MIRNA
 last_name: GAMBOA
 org_name: 'VEGAS VALLEY CHIROPRACTIC'
@@ -12,4 +13,7 @@ city: 'LAS VEGAS'
 state: NV
 zip: 89104-6625
 title: 'VEGAS VALLEY CHIROPRACTIC'
+_geoloc:
+  lat: 36.158965817132
+  lng: -115.1019734957
 ---

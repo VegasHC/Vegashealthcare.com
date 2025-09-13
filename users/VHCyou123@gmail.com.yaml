@@ -7,3 +7,5 @@ preferences:
   collections:
     providers:
       per_page: 100
+    articles:
+      per_page: 500

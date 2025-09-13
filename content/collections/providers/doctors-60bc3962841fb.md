@@ -1,5 +1,6 @@
 ---
 id: 65257bda-3590-44c1-bdfb-3e47646e8d26
+blueprint: providers
 first_name: Shahabuddin
 last_name: KHAN
 license: M.D.
@@ -12,4 +13,7 @@ state: NV
 zip: '89183'
 phone: 702-240-6482
 title: 'Shahabuddin KHAN'
+_geoloc:
+  lat: 36.190364
+  lng: -115.279104
 ---

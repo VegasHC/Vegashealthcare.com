@@ -1,5 +1,7 @@
 ---
 id: f7ec2a23-0012-4fa4-8b8d-f7142b33b115
+published: false
+blueprint: providers
 first_name: Stuart
 last_name: BAIRD
 license: M.D.
@@ -15,4 +17,6 @@ title: 'Stuart BAIRD'
 _geoloc:
   lng: -115.21849
   lat: 36.113211
+updated_by: 87a74d1c-1760-42c5-afc1-1cc59be16098
+updated_at: 1746475987
 ---
