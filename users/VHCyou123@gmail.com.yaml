@@ -9,3 +9,6 @@ preferences:
       per_page: 100
     articles:
       per_page: 500
+  assets:
+    assets:
+      per_page: 500
